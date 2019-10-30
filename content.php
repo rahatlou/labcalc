@@ -1,5 +1,5 @@
 <div id="content">
-       <h2 class="title">Laboratorio di Calcolo (2015-2016)</h2>
+       <h1 class="title">Laboratorio di Calcolo (2015-2016)</h1>
        <div class="post">
 
 
