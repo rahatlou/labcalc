@@ -9,7 +9,7 @@
 
       <p><b>Inizio lezioni Mercoledi` 25 settembre 2024</b> (<a href="https://www.phys.uniroma1.it/fisica/sites/default/files/allegati/orario_s1_2425-v11.html"   target="_blank">Orario Lezioni Dipartimento</a>,)</p>
       <ul>
-         <li>Lezione, Mercoledi` 8-10, >Aula Cabibbo, Edificio Fermi (CU033)</li>
+         <li>Lezione, Mercoledi` 8-10,  Aula Cabibbo, Edificio Fermi (CU033)</li>
          <li>Lezione, Venerdi`   10-11, Aula Cabibbo, Edificio Fermi (CU033)</li>
          <li>Esercitazione Sessione 1, Giovedi`  9-12, Laboratorio Calcolo, Piano 2, Edificio Fermi (CU033)</li>
          <li>Esercitazione Sessione 2, Venerdi`  12-15, Laboratorio Calcolo, Piano 2, Edificio Fermi (CU033)</li>
