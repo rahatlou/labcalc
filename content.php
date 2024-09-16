@@ -1,21 +1,22 @@
 <div id="content">
-       <h1 class="title">Laboratorio di Calcolo (2015-2016)</h1>
-       <div class="post">
 
+<h1>Laboratorio di Calcolo, Canale Pet-Z, Anno Accademico 2024/2025</h1>
 
-           <h2>Gruppi di esercitazione</h2>
-             <p>
-             Sono stati formati i <a href="http://bit.ly/labcalc-gruppi-20151014">gruppi di laboratorio</a>.
+<div class="post">
 
-             Gli studenti immatricolati nel 2015 che devono fare le esercitazioni e non sono inseriti in nessun gruppo e sono pregati
-             di contattarmi.
+  <h2  class="title">Orario Lezioni</h2>
+  <div class="entry">
 
+      <p><b>Inizio lezioni Mercoledi` 25 settembre 2024</b> (<a href="https://www.phys.uniroma1.it/fisica/sites/default/files/allegati/orario_s1_2425-v11.html"   target="_blank">Orario Lezioni Dipartimento</a>,)</p>
+      <ul>
+         <li>Lezione, Mercoledi` 8-10, >Aula Cabibbo, Edificio Fermi (CU033)</li>
+         <li>Lezione, Venerdi`   10-11, Aula Cabibbo, Edificio Fermi (CU033)</li>
+         <li>Esercitazione Sessione 1, Giovedi`  9-12, Laboratorio Calcolo, Piano 2, Edificio Fermi (CU033)</li>
+         <li>Esercitazione Sessione 2, Venerdi`  12-15, Laboratorio Calcolo, Piano 2, Edificio Fermi (CU033)</li>
 
-             <ul>
-             <li><a href="Didattica/labcalc/esercitazioni/20160107/index.php">I prova valutata</a></li>
-             <li><a href="Didattica/labcalc/esercitazioni/20160114/index.php">II prova valutata</a></li>
-             <li><a href="Didattica/labcalc/voti/bonus.php">Punti di bonus</a></li>
-             </ul>
+      </ul>
+   </div>
+
 <?php /*
 
 
@@ -52,84 +53,62 @@
 
 
 */ ?>
-           <h2>Appelli di Esame</h2>
-             <ul>
-                  <li><a href="Didattica/labcalc/esami/20160915.php">15 settembre 2016</a></li>
-                  <li><a href="Didattica/labcalc/esami/20160714.php">14 luglio 2016</a></li>
-	                <li><a href="Didattica/labcalc/esami/20160623.php">23 giugno 2016</a></li>
-                  <li><a href="Didattica/labcalc/esami/20160218.php">18 feb 2016</a> </li>
-                  <li><a href="Didattica/labcalc/esami/20160128.php">28 e 29 gen 2016</a> </li>
-             </ul>
+           <h2 class="title">Prove di Esame</h2>
+           <div class="entry">
+
+             <p>Le date di tutte le prove di esame nel 2025 sono riportate sul <a href="https://corsidilaurea.uniroma1.it/it/view-course-details/2024/30046/20220331104432/6d3b0eba-4c04-4faf-8ba5-f9deaa6a0ab5/6d350e0a-d015-47b3-a250-99be99282262/117aff21-5d87-4ef1-97ca-87a71b1a60e6/ea0ce617-ae8a-4ffd-8121-3e6380fbfb49?guid_cv=6d350e0a-d015-47b3-a250-99be99282262&current_erogata=6d3b0eba-4c04-4faf-8ba5-f9deaa6a0ab5"  target="_blank">catalogo dei corsi</a>
+               ed e` necessario prenotarsi su INFOSTUD prima della scadenza per poter sostenere la prova</p>
+               <p>L'orario e l'aula verranno comunicati dopo la chiusura delle prenotazioni in base al numero di prenotazioni.</p>
 
              <p>
                Durante la prova potete consultare libri e appunti ma NON listati di programmi ed esercitazioni in forma cartacea o elettronica.
-             <p>Saper usare l'editor di testo, compilarore e girare il programma e` parte importante e richiesta dell'esame.
+             Saper usare l'editor di testo, compilarore e girare il programma e` parte importante e richiesta dell'esame.
+           </p>
 
              <p>
-             Gli studenti possono sostenere tutti gli appelli (tranne quelli straordinari riservati ai soli fuoricorso
+             E` possibile sostenere l'esame in tutti gli appelli (tranne quelli straordinari riservati ai soli fuoricorso
              oppure aventi 155 CFU).
-
-             <p>Gli studenti possono ritirarsi prima o al termine della prova. In questo caso la prova non sara` valutata
-             e quind nemmeno verbalizzata.
+           </p>
 
              <p>
-             Tutte Le prove consegnate saranno valutate.
-             I voti insufficienti oppure sufficienti ma rifiutati dagli interessati saranno
-             verbalizzati come insufficienti su infostud.
+               Gli studenti possono ritirarsi prima o al termine della prova. In questo caso la prova non sara` valutata e verra` verbalizzata come ritiro senza voto.
+           </p>
 
 
-             <p>
-             Gli studenti che si sono iscritti per la prima volta nell'anno accademico 2014/15, devono prenotarsi
-             su infostud per entrambe le prove di
-             <ol>
-                  <li>Laboratorio di calcolo (6 cfu)</li>
-                  <li>Abilita` informatiche (3 cfu). Questi crediti non richiedono un esame a parte, ma saranno verbalizzati al momento della verbalizzazione dell'esame di Laboratorio di Calcolo</li>
-             </ol>
-
-           <h2 >Orario Lezioni</h2>
-               <p><b>Il corso dell'anno accademico 2015/16 inizia il giorno martedi` 29 settembre 2015</b>
-               <ul>
-                  <li>Lezione, Martedi` 11-12, <a href="http://bit.ly/mappa-didattica" target="_blank">Aula 6, Nuovo Edificio di Fisica</a></li>
-                  <li>Lezione, Mercoledi`  11-13, <a href="http://bit.ly/mappa-didattica" target="_blank">Aula 6, Nuovo Edificio di Fisica</a></li>
-                  <li>Esercitazione, Giovedi`   14-17, <a href="http://bit.ly/mappa-didattica">Aula 17 Laboratori di Via Tiburtina 205</a></li>
-
-
-                  <li>Laboratorio Libero: e` possibile accedere al
-                       Laboratorio di Calcolo al II piano nell'edificio Fermi
-                      per esercitazioni libere lunedi` dalle 14 alle 16, e si spera fino alle 17.
-                  </li>
-
-               </ul>
-       </div>
-
-
-
-
-
-       <div class="post">
-<?php /*
-           <h2 class="title">Accesso remoto alle esercitazioni svolte</h2>
-           <div class="entry">
-           <p>
-           Potete accedere alla vostra home directory di gruppo  all'indirizzo
-             <a href="http://labcalc.fisica.uniroma1.it/studenti/">http://labcalc.fisica.uniroma1.it/studenti/</a>
-           <p>
-           Ad esempio per il gruppo lcsr40, la home directory sara`
-           <a href="http://labcalc.fisica.uniroma1.it/studenti/lcsr40/">http://labcalc.fisica.uniroma1.it/studenti/lcsr40/</a>
-           <p>
-           Ricordate che potete leggere e prendere i programmi da voi scritti durante le esercitazioni
-           ma non potete trasferire nuovi file dal vostro computer nella home directory.
-
-           <p><b>I nuovi file saranno disponibili a partire dalle ore 19:00 di ogni giovedi`</b>
            </div>
-*/ ?>
-       </div>
 
-       <div class="post">
-           <h2 >Risorse Utili</h2>
+<?php
+/*
+           <h2 class="title">Gruppi di esercitazione</h2>
            <div class="entry">
+                        <p>
+                        Sono stati formati i <a href="http://bit.ly/labcalc-gruppi-20151014">gruppi di laboratorio</a>.
+
+                        Gli studenti immatricolati nel 2015 che devono fare le esercitazioni e non sono inseriti in nessun gruppo e sono pregati
+                        di contattarmi.
+
+
+                        <ul>
+                        <li><a href="Didattica/labcalc/esercitazioni/20160107/index.php">I prova valutata</a></li>
+                        <li><a href="Didattica/labcalc/esercitazioni/20160114/index.php">II prova valutata</a></li>
+                        <li><a href="Didattica/labcalc/voti/bonus.php">Punti di bonus</a></li>
+                        </ul>
+           </div>
+*/
+?>
+
+
+           <h2 class="title">Risorse Utili</h2>
+           <div class="entry">
+
              <ul>
 
+               <li><a href="http://www.aquilante.net/unix/manuale-unix.pdf">Unix: introduzione elementare</a>: guida semplice
+                   che spiega gli elementi di base di Unix/Linux. Il capitolo 2 riassume i comandi piu` utilizzati in questo corso.
+               </li>
+
+<?php
+/*
                <li><a href="https://www.virtualbox.org/wiki/Screenshots">Virtualbox</a> + Linux: potete installare il programma gratuito <a href="https://www.virtualbox.org/wiki/Screenshots">Virtualbox</a> sul vostro computer come un qualsiasi programma. Potete poi installare una macchina virtuale con Linux all'interno di questo programma, come mostrato nella pagina collegata. Questo vi risparmia la fatica di installare cygwin con i pacchetti giusti e soprattutto la sua configurazione. Inoltre e` piu` semplice di partizionare il disco e gestire un sistema dual boot.</li>
 
                <li>Se avete installato <a href="https://www.virtualbox.org/wiki/Screenshots">Virtualbox</a>, potete anche semplicemente importare
@@ -145,75 +124,37 @@
                      <li>In questo modo trovete una macchina virtuale ubuntu con un utente labcalcolo gia` configurato correttamente</li>
                    </ol>
 
-<?php /*
-               <li>
-                 <a href="http://www.cygwin.com/">Cygwin</a>: Ci sono diversi siti e documenti in rete. Qui sono riportati alcuni che ho trovato piu` semplici e chiari.
-                 <p>
-                 Ricordate di selezionare anche almeno un editor di testo com emacs, gedit, nedit. Inoltre selezionate i pacchetti
-                 della categoria gcc-core nella sezione 'Devel'.
-                 <ul>
-                 <li>
-                 <a href="http://labmaster.mi.infn.it/Laboratorio2/CompilerCD/cygwin/labcalc2/installazione.html">Istruzioni passo per passo</a>
-                 per installare cygwin su windows. Spiega come selezionare i compilatori e i pacchetti grafici
-                 durante la procedura di installazione.
-                 </li>
-
-                 <li><a href="http://www.disi.unige.it/person/BoccacciP/didattica/labcA/Installazione_Cygwin.htm">Un'altra guida passso per passo</a></li>
-
-                 <li><a href="/istruzioni_per_installazione.pdf">Guida passo per passo in pdf</a></li>
-
-                 </ul>
-               </li>
-
-
-               <li>
-                 Per saperne di piu` su linux potete visitare il sito di <a href="http://vandali.org/DanieleMasini/infolinux.php">Informatica e GNU/Linux</a>
-                 dove trovate un documento in formato pdf.
-               </li>
-*/ ?>
 
                <li><a href="http://www.ubuntu-it.org/">Ubuntu</a>: <a href="http://wiki.ubuntu-it.org/Documentazione/Indice">Documentazione per chi e` nuovo su ubuntu</a>:
                     nella sezione <a href="http://wiki.ubuntu-it.org/Programmazione">Programmazione</a>
                     trovate tutte le informazioni su come installare i compilatori e editor di testo
                </li>
-
-               <li>Mac OS: Alcune informazioni utili per l'<a href="Didattica/labcalc/material/gcc-macosx.pdf">installazione di gcc su Mac OS X</a></li>
-               <li>Installazione di gcc su Mac OS Mavericks: <a href="http://osxdaily.com/2014/02/12/install-command-line-tools-mac-os-x/">guida in inglese</a></li>
-
-               <li><a href="http://www.aquilante.net/unix/manuale-unix.pdf">Unix: introduzione elementare</a>: guida semplice
-                   che spiega gli elementi di base di Unix/Linux. Il capitolo 2 riassume i comandi piu` utilizzati in questo corso.
-               </li>
-
-               <li>
-                 <a href="http://www.newtonlabs.com/ic/ic_toc.html">Guida interattiva del lingiaggio C</a> (in inglese)
-               </li>
-
-
-
+*/
+ ?>
 
              </ul>
-           </div>
-       </div>
+           </div> <!-- entry -->
 
 
-       <div class="post">
-
-           <h2 >Materiale del Corso</h2>
+           <h2 class="title">Materiale del Corso</h2>
            <div class="entry">
 
 <!-- begin lectures -->
 <ul>
 
-
 <li>
-Lezione 01, 29/9: Introduzione. Organizzazione del corso e delle esercitazioni.
-(<a href="Didattica/labcalc/material/01-Introduzione.pdf">pdf</a>)
+Lezione 01, 2024-09-25: Introduzione. Organizzazione del corso e delle esercitazioni. Informazioni pratiche.
+Sistemi di numerazione. Base binaria.
+(<!--a href="Didattica/labcalc/material/01-Introduzione.pdf">pdf</a-->)
 </li>
 
+
 <li>
-Lezione 02, 30/9:  Sistemi di numerazione.Base binaria.Rappresentazione di numeri negativi.
+Lezione 02, 2024-09-27:  Sistemi di numerazione. Base binaria. Rappresentazione di numeri negativi.
 </li>
 
+<?php
+/*
 <li>
 Lezione 03, 6/10: Rappresentazione di numeri razionali in virgola mobile.
 </li>
@@ -458,9 +399,6 @@ Lab 12, 14/1: Album di figurine (esercitazione valutata)
 
 </li>
 
-
-<?php /*
-
 esempio di funzioni con array 1D e 2D. puntatori come argomento di funzione.
 (<a href="material/char3.c">esempio</a>)
 
@@ -526,7 +464,8 @@ Lab 12, 22/1: esercitazione assistita. Il gioco di golf (<a href="material/eserc
 </ul>
 <!-- end of lectures -->
 
-           </div> <!--- end of entry -->
-       </div> <!--- end of post -->
+</div> <!--- end of entry -->
 
-</div>
+</div> <!--- end of post -->
+
+</div> <!-- end content -->
