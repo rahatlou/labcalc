@@ -14,7 +14,7 @@ Tutte le comunicazioni saranno inviate esclusivamente tramite google classroom (
 E` necessario registrarsi per ricevere avvisi e materiale aggiuntivo relativo al corso.
 
 
-<h2>Programma, Requisiti, Modalita`</h2>
+<h2>Programma, Requisiti, e Modalità</h2>
 <a href="https://corsidilaurea.uniroma1.it/it/view-course-details/2024/30046/20220331104432/6d3b0eba-4c04-4faf-8ba5-f9deaa6a0ab5/6d350e0a-d015-47b3-a250-99be99282262/117aff21-5d87-4ef1-97ca-87a71b1a60e6/ea0ce617-ae8a-4ffd-8121-3e6380fbfb49?guid_cv=6d350e0a-d015-47b3-a250-99be99282262&current_erogata=6d3b0eba-4c04-4faf-8ba5-f9deaa6a0ab5" target="_blank">Catalogo dei corsi</a>
 
 <h2>Testo Consigliato</h2>
