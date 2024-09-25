@@ -148,7 +148,7 @@
 
 <li>
 Lezione 01, 2024-09-25: Introduzione. Organizzazione del corso e delle esercitazioni. Informazioni pratiche.
-(<a href="https://github.com/rahatlou/labcalc/blob/2024/material/01-Introduzione.pdf">pdf</a>)
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/01-Introduzione.pdf">pdf</a>)
 </li>
 
 
