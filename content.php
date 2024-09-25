@@ -107,6 +107,10 @@
                    che spiega gli elementi di base di Unix/Linux. Il capitolo 2 riassume i comandi piu` utilizzati in questo corso.
                </li>
 
+               <li>Prontuario del laboratorio di calcolo (<a href="http://www.aquilante.net/unix/manuale-unix.pdf">pdf</a>): una guida semplice per configurare un ambiente di lavoro linux per lo svolgimento di questo corso.
+                 Si ringraziano gli studenti <b>Simone Di Micco</b> e <b>Numa Zorzi</b> per il loro eccellente lavoro.
+               </li>
+
 <?php
 /*
                <li><a href="https://www.virtualbox.org/wiki/Screenshots">Virtualbox</a> + Linux: potete installare il programma gratuito <a href="https://www.virtualbox.org/wiki/Screenshots">Virtualbox</a> sul vostro computer come un qualsiasi programma. Potete poi installare una macchina virtuale con Linux all'interno di questo programma, come mostrato nella pagina collegata. Questo vi risparmia la fatica di installare cygwin con i pacchetti giusti e soprattutto la sua configurazione. Inoltre e` piu` semplice di partizionare il disco e gestire un sistema dual boot.</li>
@@ -144,8 +148,7 @@
 
 <li>
 Lezione 01, 2024-09-25: Introduzione. Organizzazione del corso e delle esercitazioni. Informazioni pratiche.
-Sistemi di numerazione. Base binaria.
-(<!--a href="Didattica/labcalc/material/01-Introduzione.pdf">pdf</a-->)
+(<a href="https://github.com/rahatlou/labcalc/blob/2024/material/01-Introduzione.pdf">pdf</a>)
 </li>
 
 
