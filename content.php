@@ -13,9 +13,16 @@
          <li>Lezione, Venerdi`   10-11, Aula Cabibbo, Edificio Fermi (CU033)</li>
          <li>Esercitazione Sessione 1, Giovedi`  9-12, Laboratorio Calcolo, Piano 2, Edificio Fermi (CU033)</li>
          <li>Esercitazione Sessione 2, Venerdi`  12-15, Laboratorio Calcolo, Piano 2, Edificio Fermi (CU033)</li>
-
       </ul>
    </div>
+
+   <h2  class="title">Avvisi</h2>
+   <div class="entry">
+
+   Tutte le comunicazioni saranno inviate esclusivamente tramite google classroom (<a href="https://classroom.google.com/c/NzEzMTgxOTMwNTg5?cjc=fmvbxzv"  target="_blank">codice: fmvbxzv</a>).
+   E` necessario registrarsi per ricevere avvisi e materiale aggiuntivo relativo al corso.
+  </div>
+
 
 <?php /*
 
@@ -151,20 +158,18 @@ Lezione 01, 2024-09-25: Introduzione. Organizzazione del corso e delle esercitaz
 (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/01-Introduzione.pdf">pdf</a>)
 </li>
 
+<li>
+Lezione 02, 2024-09-27:  Sistemi di numerazione. Base binaria, decimale, ed esadecimale.
+</li>
 
 <li>
-Lezione 02, 2024-09-27:  Sistemi di numerazione. Base binaria. Rappresentazione di numeri negativi.
+Lezione 03, 2024-10-02:  Rappresentazione di numeri negativi. Numeri razionali e
+il problema di approssimazione in vigola mobile. Valori logici.
 </li>
+
 
 <?php
 /*
-<li>
-Lezione 03, 6/10: Rappresentazione di numeri razionali in virgola mobile.
-</li>
-
-<li>
-Lezione 04, 7/10: Problema di approssimazione in vigola mobile. Valori logici.
-</li>
 
 <li>
 Lezione 05, 13/10:

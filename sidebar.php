@@ -9,19 +9,14 @@
 <a href="https://classroom.google.com/c/NzEzMTgxOTMwNTg5?cjc=fmvbxzv"  target="_blank">Google classroom: fmvbxzv</a><br>
 <!--a href="">Google calendar of the course</a></br-->
 
-<h2>Avvisi</h2>
-Tutte le comunicazioni saranno inviate esclusivamente tramite google classroom (<a href="https://classroom.google.com/c/NzEzMTgxOTMwNTg5?cjc=fmvbxzv"  target="_blank">code: fmvbxzv</a>).
-E` necessario registrarsi per ricevere avvisi e materiale aggiuntivo relativo al corso.
-
-
 <h2>Programma, Requisiti, e Modalità</h2>
-<a href="https://corsidilaurea.uniroma1.it/it/view-course-details/2024/30046/20220331104432/6d3b0eba-4c04-4faf-8ba5-f9deaa6a0ab5/6d350e0a-d015-47b3-a250-99be99282262/117aff21-5d87-4ef1-97ca-87a71b1a60e6/ea0ce617-ae8a-4ffd-8121-3e6380fbfb49?guid_cv=6d350e0a-d015-47b3-a250-99be99282262&current_erogata=6d3b0eba-4c04-4faf-8ba5-f9deaa6a0ab5" target="_blank">Catalogo dei corsi</a>
+Tutte le informzioni sono disponibili sul <a href="https://corsidilaurea.uniroma1.it/it/view-course-details/2024/30046/20220331104432/6d3b0eba-4c04-4faf-8ba5-f9deaa6a0ab5/6d350e0a-d015-47b3-a250-99be99282262/117aff21-5d87-4ef1-97ca-87a71b1a60e6/ea0ce617-ae8a-4ffd-8121-3e6380fbfb49?guid_cv=6d350e0a-d015-47b3-a250-99be99282262&current_erogata=6d3b0eba-4c04-4faf-8ba5-f9deaa6a0ab5" target="_blank">catalogo dei corsi</a>
 
 <h2>Testo Consigliato</h2>
     <p><a href="http://www.programmazionescientifica.org/">Programmazione Scientifica</a> di Barone, Marinari, Organtini, Ricci-Tersenghi
 
 
-<h2 class="title">Orario Ricevimento</h2>
+<h2 >Orario Ricevimento</h2>
  <ul>
    <li>Mercoledi` 13-15, gli altri giorni su appuntamento, Stanza 241, Piano 2, Edificio Marconi (CU013)
    </li>
