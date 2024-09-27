@@ -160,6 +160,7 @@ Lezione 01, 2024-09-25: Introduzione. Organizzazione del corso e delle esercitaz
 
 <li>
 Lezione 02, 2024-09-27:  Sistemi di numerazione. Base binaria, decimale, ed esadecimale.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/02-lezione.pdf">pdf</a>)
 </li>
 
 <li>
