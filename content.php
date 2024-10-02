@@ -165,7 +165,16 @@ Lezione 02, 2024-09-27:  Sistemi di numerazione. Base binaria, decimale, ed esad
 
 <li>
 Lezione 03, 2024-10-02:  Rappresentazione di numeri negativi. Numeri razionali e
-il problema di approssimazione in vigola mobile. Valori logici.
+il problema di approssimazione in vigola mobile.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/03-lezione.pdf">pdf</a>)
+</li>
+
+<li>
+Lezione 04, 2024-10-04:
+Valori logici.
+Calcolatori e linguaggio macchina.
+Esempio di  calcolatore semplice con 4 bit.
+Linguaggi di programmazione. Compilatori.
 </li>
 
 
