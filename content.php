@@ -164,8 +164,7 @@ Lezione 02, 2024-09-27:  Sistemi di numerazione. Base binaria, decimale, ed esad
 </li>
 
 <li>
-Lezione 03, 2024-10-02:  Rappresentazione di numeri negativi. Numeri razionali e
-il problema di approssimazione in vigola mobile.
+Lezione 03, 2024-10-02:  Rappresentazione di numeri interi negativi. Numeri razionali.
 (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/03-lezione.pdf">lavagna</a>)
 </li>
 
