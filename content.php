@@ -170,10 +170,18 @@ il problema di approssimazione in vigola mobile.
 </li>
 
 <li>
-Lezione 04, 2024-10-04:
-Valori logici.
+Lezione 04, 2024-10-04:  Singola e doppia precisione.  Il problema di approssimazione in virgola mobile.
+Rappresentazione di caratteri e codice ASCII. Immagini digitali.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/04-lezione.pdf">lavagna</a>)
+</li>
+
+
+<li>
+Lezione 05, 2024-10-09:
 Calcolatori e linguaggio macchina.
+Indirizzi di memoria e istruzioni.
 Esempio di  calcolatore semplice con 4 bit.
+Valori logici.
 Linguaggi di programmazione. Compilatori.
 </li>
 
