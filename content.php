@@ -179,21 +179,20 @@ Rappresentazione di caratteri e codice ASCII. Immagini digitali.
 Lezione 05, 2024-10-09:
 Calcolatori e linguaggio macchina.
 Indirizzi di memoria e istruzioni.
-Esempio di  calcolatore semplice con 4 bit.
-Valori logici.
+Esempio di  calcolatore semplice con 8 bit.
 Linguaggi di programmazione. Compilatori.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/05-lezione.pdf">lavagna</a>)
+</li>
+
+<li>
+Lezione 06, 2024-10-11: Elementi base del C. Compilazione e liniking dei programmi. La funzione main.
+Variabili e tipi.
 </li>
 
 
 <?php
 /*
 
-<li>
-Lezione 05, 13/10:
-Calcolatori e linguaggio macchina.
-Esempio di  calcolatore semplice con 4 bit.
-Linguaggi di programmazione. Compilatori.
-</li>
 
 <li>
 Lezione 06, 14/10: Elementi base del C. Compilazione e liniking dei programmi. La funzione main.
