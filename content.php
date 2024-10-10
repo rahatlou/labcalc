@@ -184,9 +184,18 @@ Linguaggi di programmazione. Compilatori.
 (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/05-lezione.pdf">lavagna</a>)
 </li>
 
+
+<li>
+Esercitazione 01-A, 2024-10-10: Nozioni base di linux per le esercitazioni.
+</li>
+
 <li>
 Lezione 06, 2024-10-11: Elementi base del C. Compilazione e liniking dei programmi. La funzione main.
 Variabili e tipi.
+</li>
+
+<li>
+Esercitazione 01-B, 2024-10-11: Nozioni base di linux per le esercitazioni.
 </li>
 
 
