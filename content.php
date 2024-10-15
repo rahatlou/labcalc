@@ -187,6 +187,8 @@ Linguaggi di programmazione. Compilatori.
 
 <li>
 Esercitazione 01-A, 2024-10-10: Nozioni base di linux per le esercitazioni.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/00-esercitazione.pdf">pdf</a>)
+
 </li>
 
 <li>
@@ -197,6 +199,8 @@ Variabili e tipi.
 
 <li>
 Esercitazione 01-B, 2024-10-11: Nozioni base di linux per le esercitazioni.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/00-esercitazione.pdf">pdf</a>)
+
 </li>
 
 <li>
