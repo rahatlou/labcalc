@@ -190,13 +190,27 @@ Esercitazione 01-A, 2024-10-10: Nozioni base di linux per le esercitazioni.
 </li>
 
 <li>
-Lezione 06, 2024-10-11: Elementi base del C. Compilazione e liniking dei programmi. La funzione main.
+Lezione 06, 2024-10-11: Elementi base del C. Compilazione e linking dei programmi. La funzione main.
 Variabili e tipi.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/06-lezione.pdf">lavagna</a>)
 </li>
 
 <li>
 Esercitazione 01-B, 2024-10-11: Nozioni base di linux per le esercitazioni.
 </li>
+
+<li>
+Lezione 07, 2024-10-16:
+Operatori matematici.  Operatori unari e binari.
+Priorita` degli operatori matematici.
+printf e scanf per input/output.Importanza dei descrittori in printf.
+uso della libreria matematica.
+header file e librerie.
+Istruzioni #include del precompilatore.
+Uso di #define.
+</li>
+
+
 
 
 <?php
