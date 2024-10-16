@@ -212,7 +212,7 @@ printf e scanf per input/output.Importanza dei descrittori in printf.
 uso della libreria matematica.
 header file e librerie.
 Istruzioni #include del precompilatore.
-(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/07-lezione.pdf">pdf</a>)
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/07-lezione.pdf">lavagna</a>)
 </li>
 
 <li>
