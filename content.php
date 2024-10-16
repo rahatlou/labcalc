@@ -206,15 +206,33 @@ Esercitazione 01-B, 2024-10-11: Nozioni base di linux per le esercitazioni.
 <li>
 Lezione 07, 2024-10-16:
 Operatori matematici.  Operatori unari e binari.
+operatori &amp;&amp;, ||, &ge;, &le; .
 Priorita` degli operatori matematici.
 printf e scanf per input/output.Importanza dei descrittori in printf.
 uso della libreria matematica.
 header file e librerie.
 Istruzioni #include del precompilatore.
-Uso di #define.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/07-lezione.pdf">pdf</a>)
+</li>
+
+<li>
+Esercitazione 02-A, 2024-10-17: Esercitazione con operatori matematici e input/output.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/00-esercitazione.pdf"></a>)
 </li>
 
 
+<li>
+Lezione 08, 2024-10-18:
+Uso di #define.
+Flusso del programma e decisioni.
+costrutto <em>if/else</em> e <em>if/else if</em>. espressioni logiche.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/08-lezione.pdf"></a>)
+</li>
+
+<li>
+Esercitazione 02-A, 2024-10-18: Esercitazione con operatori matematici e input/output.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/00-esercitazione.pdf"></a>)
+</li>
 
 
 <?php
@@ -236,20 +254,9 @@ Il primo programma: conversione di temperatura da Celsius in Fahrenheit.
 
 
 <li>
-Lezione 07, 20/10:
- Variabili e tipi. operatori matematici.  Operatori unari e binari.
-Priorita` degli operatori matematici.
-</li>
-
-<li>
 Lezione 08, 21/10:
 Analisi e comprensione del programma della prima esercitazione.
 diagrammi di flusso.
-printf e scanf per input/output.Importanza dei descrittori in printf.
-uso della libreria matematica.
-header file e librerie.
-istruzioni #include del precompilatore.
-Uso di #define.
 </li>
 
 <li>
