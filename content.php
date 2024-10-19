@@ -217,51 +217,37 @@ Istruzioni #include del precompilatore.
 
 <li>
 Esercitazione 02-A, 2024-10-17: Esercitazione con operatori matematici e input/output.
-(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/00-esercitazione.pdf"></a>)
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/esercitazione-02.pdf">pdf</a>)
 </li>
 
 
 <li>
 Lezione 08, 2024-10-18:
-Uso di #define.
-Flusso del programma e decisioni.
-costrutto <em>if/else</em> e <em>if/else if</em>. espressioni logiche.
-(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/08-lezione.pdf"></a>)
+Uso di <em>#define</em>. Descrittori.
+Diagramma di flusso.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/08-lezione.pdf">lavagna</a>)
 </li>
 
 <li>
 Esercitazione 02-A, 2024-10-18: Esercitazione con operatori matematici e input/output.
-(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/00-esercitazione.pdf"></a>)
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/esercitazione-02.pdf">pdf</a>)
 </li>
+
+
+<li>
+Lezione 09, 2024-10-24:
+Diagramma di flusso del programma. Decisioni e iterazioni.
+costrutto <em>if/else</em> e <em>if/else if</em>.
+cicli <em>do/while</em> e <em>while</em>:
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/09-lezione.pdf"></a>)
+</li>
+
+
 
 
 <?php
 /*
 
-
-<li>
-Lezione 06, 14/10: Elementi base del C. Compilazione e liniking dei programmi. La funzione main.
-Variabili e tipi. Terminale, editor di testa, compilatore gcc.
-(<a href="Didattica/labcalc/material/02-linux-abc.pdf">pdf</a>) (<a href="Didattica/labcalc/material/prog.c">prog.c</a>)
-</li>
-
-<li>
-Lab 01, 15/10: Introduzione a Linux. Terminale, editor di testa, compilatore gcc.
-creare file e directory. copiare e spostare file. compilare, linkare e girare programmi.
-Il primo programma: conversione di temperatura da Celsius in Fahrenheit.
-(<a href="Didattica/labcalc/material/esercitazione-01.pdf">pdf</a>)
-</li>
-
-
-<li>
-Lezione 08, 21/10:
-Analisi e comprensione del programma della prima esercitazione.
-diagrammi di flusso.
-</li>
-
-<li>
-Lab 02, 22/10: Simulazione di una lente sottile (<a href="Didattica/labcalc/material/esercitazione-02.pdf">pdf</a>)
-</li>
 
 <li>
 Lezione 09, 27/10:
