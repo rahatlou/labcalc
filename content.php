@@ -235,13 +235,30 @@ Esercitazione 02-A, 2024-10-18: Esercitazione con operatori matematici e input/o
 
 
 <li>
-Lezione 09, 2024-10-24:
-Diagramma di flusso del programma. Decisioni e iterazioni.
-costrutto <em>if/else</em> e <em>if/else if</em>.
-cicli <em>do/while</em> e <em>while</em>:
-(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/09-lezione.pdf"></a>)
+Lezione 09, 2024-10-23:
+Diagramma di flusso del programma. Decisioni:
+costrutto <em>if/else</em> e <em>if/else if/else</em>.
+Iterazioni: cicli <em>do/while</em>, <em>while</em>. ciclo <em>for</em>.
+Variabili ausiliari di appoggio e contatore.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/09-lezione.pdf">pdf</a>)
 </li>
 
+<li>
+Esercitazione 03-A, 2024-10-24: Esercitazione con input/output e funzioni matematiche.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/esercitazione-03.pdf"></a>)
+</li>
+
+
+<li>
+Lezione 10, 2024-10-25:
+ciclo <em>for</em>. calcolo del fattoriale.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/10-lezione.pdf"></a>)
+</li>
+
+<li>
+Esercitazione 03-B, 2024-10-26: Esercitazione con input/output e funzioni matematiche.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/esercitazione-03.pdf"></a>)
+</li>
 
 
 
