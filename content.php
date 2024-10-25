@@ -245,19 +245,20 @@ Variabili ausiliari di appoggio e contatore.
 
 <li>
 Esercitazione 03-A, 2024-10-24: Esercitazione con input/output e funzioni matematiche.
-(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/esercitazione-03.pdf"></a>)
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/esercitazione-03.pdf">pdf</a>)
 </li>
 
 
 <li>
 Lezione 10, 2024-10-25:
-ciclo <em>for</em>. calcolo del fattoriale.
-(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/10-lezione.pdf"></a>)
+ciclo <em>for</em>. calcolo del fattoriale. Cicli ricorsivi: la serie di Fibonacci. Metodo di bisezione
+per trovare gli zeri di una funzione.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/10-lezione.pdf">lavagna</a>)
 </li>
 
 <li>
-Esercitazione 03-B, 2024-10-26: Esercitazione con input/output e funzioni matematiche.
-(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/esercitazione-03.pdf"></a>)
+Esercitazione 03-B, 2024-10-25: Esercitazione con input/output e funzioni matematiche.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/esercitazione-03.pdf">pdf</a>)
 </li>
 
 
