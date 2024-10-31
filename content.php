@@ -261,6 +261,15 @@ Esercitazione 03-B, 2024-10-25: Esercitazione con input/output e funzioni matema
 (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/esercitazione-03.pdf">pdf</a>)
 </li>
 
+<li>
+Lezione 11, 2024-10-30:
+Metodo di bisezione per gli zeri di una funzione. cicli iterativi.
+Revisione degli errori comuni nelle scorse esercitazioni.
+Introduzione a python: output formattato di variabili  e libreria matematica.
+Python3 dalla riga di comando e uso di
+<a href="https://colab.research.google.com" target=blank_>colab</a> nel browser.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/11-lezione.pdf">lavagna</a>)
+</li>
 
 
 <?php
