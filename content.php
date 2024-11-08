@@ -186,9 +186,8 @@ Linguaggi di programmazione. Compilatori.
 
 
 <li>
-Esercitazione 01-A, 2024-10-10: Nozioni base di linux per le esercitazioni.
+Esercitazione 01, 2024-10-10/11: Nozioni base di linux per le esercitazioni.
 (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/esercitazione-01.pdf">pdf</a>)
-
 </li>
 
 <li>
@@ -197,11 +196,7 @@ Variabili e tipi.
 (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/06-lezione.pdf">lavagna</a>)
 </li>
 
-<li>
-Esercitazione 01-B, 2024-10-11: Nozioni base di linux per le esercitazioni.
-(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/esercitazione-01.pdf">pdf</a>)
 
-</li>
 
 <li>
 Lezione 07, 2024-10-16:
@@ -216,7 +211,7 @@ Istruzioni #include del precompilatore.
 </li>
 
 <li>
-Esercitazione 02-A, 2024-10-17: Esercitazione con operatori matematici e input/output.
+Esercitazione 02, 2024-10-17/18: Esercitazione con operatori matematici e input/output.
 (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/esercitazione-02.pdf">pdf</a>)
 </li>
 
@@ -228,10 +223,6 @@ Diagramma di flusso.
 (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/08-lezione.pdf">lavagna</a>)
 </li>
 
-<li>
-Esercitazione 02-A, 2024-10-18: Esercitazione con operatori matematici e input/output.
-(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/esercitazione-02.pdf">pdf</a>)
-</li>
 
 
 <li>
@@ -239,15 +230,15 @@ Lezione 09, 2024-10-23:
 Diagramma di flusso del programma. Decisioni:
 costrutto <em>if/else</em> e <em>if/else if/else</em>.
 Iterazioni: cicli <em>do/while</em>, <em>while</em>. ciclo <em>for</em>.
-Variabili ausiliari di appoggio e contatore.
+Variabili ausiliari di appoggio e contatori.
 (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/09-lezione.pdf">pdf</a>)
 </li>
 
+
 <li>
-Esercitazione 03-A, 2024-10-24: Esercitazione con input/output e funzioni matematiche.
+Esercitazione 03, 2024-10-24/25: Esercitazione con input/output e funzioni matematiche.
 (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/esercitazione-03.pdf">pdf</a>)
 </li>
-
 
 <li>
 Lezione 10, 2024-10-25:
@@ -256,10 +247,6 @@ per trovare gli zeri di una funzione.
 (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/10-lezione.pdf">lavagna</a>)
 </li>
 
-<li>
-Esercitazione 03-B, 2024-10-25: Esercitazione con input/output e funzioni matematiche.
-(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/esercitazione-03.pdf">pdf</a>)
-</li>
 
 <li>
 Lezione 11, 2024-10-30:
@@ -272,52 +259,41 @@ Python3 dalla riga di comando e uso di
 </li>
 
 
-<?php
-/*
+<li>
+Lezione 12, 2024-11-06:
+Array statici in C: lunghezza e dimensione. Indice di un array. Operatore []. Array uni- e multi-dimensionali.
+Cicli annidati per operazioni su matrici e vettori. Inzializzazione delle variabili di appoggio nei cicli annidati.
+Calcolo matriciale e operazioni vettoriali usando array statici. Input e output formattato di elementi di array bidmensionali.
+
+
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/2-lezione.pdf">lavagna</a>)
+</li>
 
 
 <li>
-Lezione 09, 27/10:
-decisioni e iterazioni.
-costrutto <em>if/else</em> e <em>if/else if</em>. espressioni logiche.
-operatori &amp;&amp;, ||, &ge;, &le; .
-cicli <em>do/while</em> e <em>while</em>:
+Esercitazione 04, 2024-11-07/08: Moto del proiettile e grafica con python.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/esercitazione-04.pdf">pdf</a>)
 </li>
 
 <li>
-Lezione 10, 28/10:
-operatori ==, !=, ++ .
-iterazioni.
-cicli <em>do/while</em>.
-controllo di valori di input con <em>do/while</em>.
+Lezione 13, 2024-11-08:
+Generaziuone numeri pseudo casuali interi e razionali in un intervallo [a,b]. Funzioni <em>srand48()</em> e <em>lrand48()</em>.
+Esempio di simulazione di un dado a N facce. Uso di array di contatori.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/13-lezione.pdf">lavagna</a>)
+</li>
+
+
+
+<?php
+/*
+
 Algoritmo per conversione da base 10 in base 2(<a href="Didattica/labcalc/material/binary.c">binary.c</a>).
-uso dei contatori e la loro inizializzazione.
 Algoritmo per conversione da base 10 in base qualsiasi.
 </li>
 
 <li>
-Lab 03, 29/10: Il moto del proiettile (<a href="Didattica/labcalc/material/esercitazione-03.pdf">pdf</a>)
-(<a href="Didattica/labcalc/material/esercitazione03.c">parte I</a>)
-(<a href="Didattica/labcalc/material/esercitazione03bis.c">parte II</a>)
-</li>
-
-<li>
-Lezione 11, 3/11:
-Metodi ricorsivi con variabili ausiliari di appoggio.
-Ciclo <em>while</em> e differenze con <em>do/while</em>.
-Ciclo <em>for</em> e calcolo del fattoriale.  la serie di Fibonacci:
-<a href="Didattica/labcalc/material/fiboInt.c">fiboInt.c</a> usando <em>int</em>; <a href="Didattica/labcalc/material/fiboLlu.c">fiboLlu.c</a> usando <em>unsigned long long int</em>;
-</li>
-
-<li>
-Lezione 12, 4/11:
-Metodo di bisezione (<a href="Didattica/labcalc/material/bisezione.c">bisezione.c</a>).
 Metodo di newton e calcolo ricorsivo di radici di una funzione.
 Ricerca di numeri primi (<a href="Didattica/labcalc/material/primi.c">primi.c</a>).
-Cicli annidati e inizializzazione delle variabili.
-Generaziuone numeri casuali interi in un intervallo [a,b].
-</li>
-
 
 <li>
 Lab 04, 5/11: Calcolo della radice quadrata con metodi ricorsivi.
@@ -325,11 +301,6 @@ Lab 04, 5/11: Calcolo della radice quadrata con metodi ricorsivi.
 (<a href="Didattica/labcalc/material/esercitazione-04.c">soluzione</a>)
 </li>
 
-
-<li>
-Lezione 13, 10/11:
-generazione numeri casuali reali
-cast esplicito delle variabili.
 Generazione in un quadrato o cerchio. Gioco della freccetta.
 </li>
 

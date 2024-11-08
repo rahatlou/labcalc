@@ -1,6 +1,6 @@
 <div id="sidebar-content">
 
-<h3 class=h3sidebar>Last update: 31 Oct 2024</h3>
+<h3 class=h3sidebar>Last update: 8 Nov 2024</h3>
   Created by
   <a href="http://www.roma1.infn.it/people/rahatlou/">Shahram Rahatlou</a>
   [<a href="mailto:shahram.rahatlou@uniroma1.it">shahram.rahatlou (at) uniroma1.it</a>]
@@ -18,7 +18,8 @@ Tutte le informzioni sono disponibili sul <a href="https://corsidilaurea.uniroma
 
 <h2 >Orario Ricevimento</h2>
  <ul>
-   <li>Mercoledi` 13-15, gli altri giorni su appuntamento, Stanza 241, Piano 2, Edificio Marconi (CU013)
+   <li>Mercoledi` 13-15, gli altri giorni su appuntamento,
+     <a href="https://www.phys.uniroma1.it/mappe/mappe.php?edificio=marconi&piano=2" target=blank_>Stanza 251-b, Piano 2, Edificio Marconi (CU013)</a>
    </li>
  </ul>
 
