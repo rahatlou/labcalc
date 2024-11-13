@@ -243,7 +243,7 @@ Esercitazione 03, 2024-10-24/25: Esercitazione con input/output e funzioni matem
 <li>
 Lezione 10, 2024-10-25:
 ciclo <em>for</em>. calcolo del fattoriale. Cicli ricorsivi: la serie di Fibonacci. Metodo di bisezione
-per trovare gli zeri di una funzione.
+per trovare gli zeri di una funzione (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/bisezione.c">bisezione.c</a>).
 (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/10-lezione.pdf">lavagna</a>)
 </li>
 
@@ -277,12 +277,23 @@ Esercitazione 04, 2024-11-07/08: Moto del proiettile e grafica con python.
 
 <li>
 Lezione 13, 2024-11-08:
-Generaziuone numeri pseudo casuali interi e razionali in un intervallo [a,b]. Funzioni <em>srand48()</em> e <em>lrand48()</em>.
+Generaziune numeri pseudo-casuali interi e razionali in un intervallo [a,b]. Funzioni <em>srand48()</em> e <em>lrand48()</em>.
 Esempio di simulazione di un dado a N facce. Uso di array di contatori.
 (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/13-lezione.pdf">lavagna</a>)
 </li>
 
+<li>
+Lezione 14, 2024-11-13:
+Applicazioni di array: conversione di numeri in binario (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/binary.c">binary.c</a>).
+Algoritmo bubble sort per ordinamento di array di dati (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/bubble.c">bubble.c</a>).
+Ricerca binaria di elementi in un array ordinato (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/binsearch.c">binsearch.c</a>).
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/14-lezione.pdf">lavagna</a>)
+</li>
 
+<li>
+Esercitazione 05, 2024-11-14/15: esercitazione su metodi ricorsivi e cicli e grafica con python.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/esercitazione-05.pdf"></a>)
+</li>
 
 <?php
 /*
