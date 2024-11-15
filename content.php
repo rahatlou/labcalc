@@ -291,26 +291,28 @@ Ricerca binaria di elementi in un array ordinato (<a target=blank_ href="https:/
 </li>
 
 <li>
+Lezione 15, 2024-11-15:
+Il gioco delle freccette e la stima del &pi; greco con i numeri casuali
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/pigreco.c">pigreco.c</a>).
+I/O di stringhe e manipolazione con la funzione <em>sprintf()</em>.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/15-lezione.pdf">lavagna</a>)
+</li>
+
+
+<li>
 Esercitazione 05, 2024-11-14/15: esercitazione su metodi ricorsivi e cicli e grafica con python.
-(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/esercitazione-05.pdf"></a>)
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/esercitazione-05.pdf">pdf</a>)
 </li>
 
 <?php
 /*
 
-Algoritmo per conversione da base 10 in base 2(<a href="Didattica/labcalc/material/binary.c">binary.c</a>).
-Algoritmo per conversione da base 10 in base qualsiasi.
-</li>
+
 
 <li>
 Metodo di newton e calcolo ricorsivo di radici di una funzione.
 Ricerca di numeri primi (<a href="Didattica/labcalc/material/primi.c">primi.c</a>).
 
-<li>
-Lab 04, 5/11: Calcolo della radice quadrata con metodi ricorsivi.
-(<a href="Didattica/labcalc/material/esercitazione-04.pdf">pdf</a>)
-(<a href="Didattica/labcalc/material/esercitazione-04.c">soluzione</a>)
-</li>
 
 Generazione in un quadrato o cerchio. Gioco della freccetta.
 </li>
@@ -319,8 +321,6 @@ Generazione in un quadrato o cerchio. Gioco della freccetta.
 Lezione 14, 11/11:
 Array in C: dimensione e lunghezza. Indice di un array.
 Calcolo della media, minimo, e massimo di elementi di un array.
-Metodo bubblesort per ordinamento di un array (<a href="Didattica/labcalc/material/bubble.c">bubble.c</a>).
-Algoritmo per la ricerca binaria (<a href="Didattica/labcalc/material/binsearch.c">binsearch.c</a>).
 </li>
 
 <li>
