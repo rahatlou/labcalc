@@ -304,6 +304,24 @@ Esercitazione 05, 2024-11-14/15: esercitazione su metodi ricorsivi e cicli e gra
 (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/esercitazione-05.pdf">pdf</a>)
 </li>
 
+<li>
+Lezione 16, 2024-11-20:
+stringhe in C come array di char. I/O di stringhe. manipolazione con la funzione <em>sprintf()</em>. (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/strings.c">strings.c</a>).
+Il gioco di tris. puntatori. legame tra puntatori e array. accesso agli array 1D tramite puntatore (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/pointer.c">pointer.c</a>).
+Input/output su file (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/fileIO.c">fileIO.c</a>).
+</li>
+
+
+<li>
+Lezione 16, 2024-11-22:
+Uso di puntatori con array 2D. puntatore a puntatori. file formattati.
+</li>
+
+<li>
+Esercitazione 06, 2024-11-21/22:
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/esercitazione-06.pdf"></a>)
+</li>
+
 <?php
 /*
 
@@ -313,15 +331,6 @@ Esercitazione 05, 2024-11-14/15: esercitazione su metodi ricorsivi e cicli e gra
 Metodo di newton e calcolo ricorsivo di radici di una funzione.
 Ricerca di numeri primi (<a href="Didattica/labcalc/material/primi.c">primi.c</a>).
 
-
-Generazione in un quadrato o cerchio. Gioco della freccetta.
-</li>
-
-<li>
-Lezione 14, 11/11:
-Array in C: dimensione e lunghezza. Indice di un array.
-Calcolo della media, minimo, e massimo di elementi di un array.
-</li>
 
 <li>
 Lab 05, 12/11: La stima di &pi; con l'ago di Buffon
@@ -334,13 +343,7 @@ Lezione 15, 17/11:
 Array multidiemensionali. Soluzione di sistemi di equzioni lineari (<a href="Didattica/labcalc/material/eqlineare.c">esempio</a>)
 </li>
 
-<li>
-Lezione 16, 18/11:
-stringhe in C come array di char. I/O di stringhe.
-Il gioco di tris. puntatori. legame tra puntatori e array. accesso agli array 1D tramite puntatore.
-</li>
 
-</li>
 
 <li>
 Lab 06, 19/11: Distribuzioni di numeri casuali ed istogrammi. Teorema del limite centrale
@@ -358,7 +361,6 @@ Input/output su file. file formattati.
 Lezione 18, 25/11:
 Input da file (<a href="Didattica/labcalc/material/input.c">input.c</a>).
 uso di puntatori con array 2D (<a href="Didattica/labcalc/material/array2D.c">array2D.c</a>).
-Manpipolazione di stringhe con la funzione <em>sprintf</em>.
 Funzioni: dichiarazione e definizione.
 Argomenti e variabili locali. Passaggio delle variabili come argomenti.  passaggio per valore.
 argomenti e ambito di visibilita`. tipo e valore di ritorno.
