@@ -309,34 +309,43 @@ Lezione 16, 2024-11-20:
 stringhe in C come array di char. I/O di stringhe. manipolazione con la funzione <em>sprintf()</em>. (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/strings.c">strings.c</a>).
 Il gioco di tris. puntatori. legame tra puntatori e array. accesso agli array 1D tramite puntatore (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/pointer.c">pointer.c</a>).
 Input/output su file (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/fileIO.c">fileIO.c</a>).
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/16-lezione.pdf">lavagna</a>)
 </li>
 
 
 <li>
-Lezione 16, 2024-11-22:
-Uso di puntatori con array 2D. puntatore a puntatori. lettura formttata da  file con <em>fscanf()</em>.
+Lezione 17, 2024-11-22:
+Uso di puntatori con array 2D (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/array2D.c">array2D.c</a>).
+Introduzione alle funzioni in C.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/17-lezione.pdf">lavagna</a>)
 </li>
 
 <li>
 Esercitazione 06, 2024-11-21/22: Stima di &pi; con i numeri casuali. Grafici ed istogramma con python.
-(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/esercitazione-06.pdf"></a>)
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/esercitazione-06.pdf">pdf</a>)
 </li>
+
+<li>
+Lezione 18, 2024-11-27:
+Funzioni: dichiarazione e definizione.
+Argomenti e variabili locali. Passaggio delle variabili come argomenti.  passaggio per valore.
+argomenti e ambito di visibilita`. tipo e valore di ritorno.
+Esempio: funzione <em>potenza()</em>, funzione <em>dado()</em>, <em>stampaMatrice()</em>, <em>casuale(a,b)</em>.
+</li>
+
+<li>
+Esercitazione 07, 2024-11-28/29: esercitazione con array, numeri casuali, e prime funzioni.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/esercitazione-07.pdf"></a>)
+</li>
+
 
 <?php
 /*
 
-
-
-<li>
-Metodo di newton e calcolo ricorsivo di radici di una funzione.
-Ricerca di numeri primi (<a href="Didattica/labcalc/material/primi.c">primi.c</a>).
-
+lettura formttata da  file con <em>fscanf()</em>.
+Input/output su file. file formattati.
 
 <li>
-Lab 05, 12/11: La stima di &pi; con l'ago di Buffon
-(<a href="Didattica/labcalc/material/esercitazione-05.pdf">pdf</a>)
-(<a href="Didattica/labcalc/material/esercitazione-05.c">soluzione</a>)
-</li>
 
 <li>
 Lezione 15, 17/11:
@@ -351,11 +360,6 @@ Lab 06, 19/11: Distribuzioni di numeri casuali ed istogrammi. Teorema del limite
 (<a href="Didattica/labcalc/material/esercitazione-06.c">soluzione</a>)
 </li>
 
-<li>
-Lezione 17, 24/11:
-Funzione <em>getchar()</em>.
-Input/output su file. file formattati.
-</li>
 
 <li>
 Lezione 18, 25/11:
