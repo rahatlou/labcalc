@@ -314,11 +314,11 @@ Input/output su file (<a target=blank_ href="https://github.com/rahatlou/labcalc
 
 <li>
 Lezione 16, 2024-11-22:
-Uso di puntatori con array 2D. puntatore a puntatori. file formattati.
+Uso di puntatori con array 2D. puntatore a puntatori. lettura formttata da  file con <em>fscanf()</em>.
 </li>
 
 <li>
-Esercitazione 06, 2024-11-21/22:
+Esercitazione 06, 2024-11-21/22: Stima di &pi; con i numeri casuali. Grafici ed istogramma con python.
 (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/esercitazione-06.pdf"></a>)
 </li>
 
