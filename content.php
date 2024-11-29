@@ -330,19 +330,26 @@ Lezione 18, 2024-11-27:
 Funzioni: dichiarazione e definizione.
 Argomenti e variabili locali. Passaggio delle variabili come argomenti.  passaggio per valore.
 tipo e valore di ritorno.
-Esempio: funzione <em>potenza()</em>, funzione <em>dado()</em>, <em>stampaMatrice()</em>, <em>casuale(a,b)</em>.
+Esempio: funzione funzione <em>dado()</em> e <em>casuale(a,b)</em>.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/18-lezione.pdf">lavagna</a>)
+
 </li>
 
 <li>
 Lezione 19, 2024-11-9:
 Funzioni: differenza tra passaggio per valore e passaggio per puntatore.
-Esempii di funzioni per operare su array 1D e 2D.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/passbyvalue.c">passbyvalue.c</a> e
+<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/passbyptr.c">passbyptr.c</a>).
+Esempi di funzioni per operare su array 1D e 2D.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/matrici.c">matrici.c</a>)
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/19-lezione.pdf">lavagna</a>)
+
 </li>
 
 
 <li>
-Esercitazione 07, 2024-11-28/29: esercitazione con array, numeri casuali, e prime funzioni.
-(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/esercitazione-07.pdf"></a>)
+Esercitazione 07, 2024-11-28/29: cammino aleatorio unidimensionale.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/esercitazione-07.pdf">pdf</a>)
 </li>
 
 
