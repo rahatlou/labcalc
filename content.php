@@ -329,9 +329,16 @@ Esercitazione 06, 2024-11-21/22: Stima di &pi; con i numeri casuali. Grafici ed 
 Lezione 18, 2024-11-27:
 Funzioni: dichiarazione e definizione.
 Argomenti e variabili locali. Passaggio delle variabili come argomenti.  passaggio per valore.
-argomenti e ambito di visibilita`. tipo e valore di ritorno.
+tipo e valore di ritorno.
 Esempio: funzione <em>potenza()</em>, funzione <em>dado()</em>, <em>stampaMatrice()</em>, <em>casuale(a,b)</em>.
 </li>
+
+<li>
+Lezione 19, 2024-11-9:
+Funzioni: differenza tra passaggio per valore e passaggio per puntatore.
+Esempii di funzioni per operare su array 1D e 2D.
+</li>
+
 
 <li>
 Esercitazione 07, 2024-11-28/29: esercitazione con array, numeri casuali, e prime funzioni.
