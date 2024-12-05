@@ -352,6 +352,49 @@ Esercitazione 07, 2024-11-28/29: cammino aleatorio unidimensionale.
 (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/esercitazione-07.pdf">pdf</a>)
 </li>
 
+<li>
+Lezione 20, 2024-12-04:
+Formulario OPIS.
+Uso di puntatori come argomento di funzioni: passaggio di array e ritorno di piu` valori.
+Esempio della funzione  analisi() per calcolare media e deviazione standard di dati in un array.
+Generazione di numeri casuali secondo una distribuzione di probabilita` P(x). Esempio di sin(x) e exp(-x) e
+confronto con la generazione uniforme.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/generator.c">generator.c</a>,
+<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/generator_ptr.c">generator_ptr.c</a>,
+)
+Grafico di 3 istogrammi sovrappositi con python.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/generator.py">generator.py</a>)
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/20-lezione.pdf">lavagna</a>)
+</li>
+
+<li>
+Lezione 21, 2024-12-06:
+Interazione con il metodo Monte Carlo e il metodo hit & miss.
+</li>
+
+
+<li>
+Esercitazione 08, 2024-12-05/06: esercitazione con funzioni ed array.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/esercitazione-08.pdf"></a>)
+</li>
+
+<li>
+Lezione 22, 2024-12-11:
+Puntatore a funzioni. Metodi numerici di integrazione a confronto: metodo del rettangolo, del punto di mezzo, e del trapezio.
+</li>
+
+<li>
+Esercitazione 09, 2024-12-12/13: esercitazione su tutti gli argomenti del corso.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/esercitazione-09.pdf"></a>)
+</li>
+
+<li>
+Esercitazione 10, 2024-12-19/20: esercitazione su tutti gli argomenti del corso.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/esercitazione-10.pdf"></a>)
+</li>
+
+
+
 
 <?php
 /*
@@ -375,21 +418,6 @@ Lab 06, 19/11: Distribuzioni di numeri casuali ed istogrammi. Teorema del limite
 </li>
 
 
-<li>
-Lezione 18, 25/11:
-Input da file (<a href="Didattica/labcalc/material/input.c">input.c</a>).
-uso di puntatori con array 2D (<a href="Didattica/labcalc/material/array2D.c">array2D.c</a>).
-Funzioni: dichiarazione e definizione.
-Argomenti e variabili locali. Passaggio delle variabili come argomenti.  passaggio per valore.
-argomenti e ambito di visibilita`. tipo e valore di ritorno.
-esempio: funzione potenza().
-</li>
-
-
-<li>
-Lab 07, 26/11: Passaggio di un elettrone nella materia
-(<a href="Didattica/labcalc/material/esercitazione-07.pdf">pdf</a>)
-</li>
 
 <li>
 Lezione 19, 1/12:
@@ -400,19 +428,11 @@ Funzioni ricorsive.
 Funzioni ed array come argomenti.
 </li>
 
-<li>
-Lezione 20, 2/12:
-Passaggio di array 2D come argomento di funzione.
-(<a href="Didattica/labcalc/material/anagrammi.c">anagrammi</a>)
 Generazione numeri casuali secondo distribuzione gaussiana ed esponenziale.
 Operazioni con array 1D e 2D.
 Operazioni tra matrici e vettori.
 </li>
 
-<li>
-Lab 08, 3/12: Cammino aleatorio (random walk) in 1D e 2D
-(<a href="Didattica/labcalc/material/esercitazione-08.pdf">pdf</a>)
-</li>
 
 <li>
 Lezione 21, 9/12:
