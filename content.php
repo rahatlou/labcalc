@@ -369,7 +369,11 @@ Grafico di 3 istogrammi sovrappositi con python.
 
 <li>
 Lezione 21, 2024-12-06:
-Interazione con il metodo Monte Carlo e il metodo hit & miss.
+Interazione con il metodo Monte Carlo e il metodo hit & miss
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/mcint.c">mcint.c</a>).
+Codice del metodo MonteCarlo in python con esempi grafici
+(<a target=blank_ href="https://colab.research.google.com/drive/1IsFzG08eUJCARIVYt8dB3QSSXJNPRttZ?usp=sharing">colab notebook</a>).
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/21-lezione.pdf">lavagna</a>)
 </li>
 
 
