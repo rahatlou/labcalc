@@ -379,7 +379,7 @@ Codice del metodo MonteCarlo in python con esempi grafici
 
 <li>
 Esercitazione 08, 2024-12-05/06: esercitazione con funzioni ed array.
-(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/esercitazione-08.pdf"></a>)
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/esercitazione-08.pdf">pdf</a>)
 </li>
 
 <li>
