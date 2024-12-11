@@ -385,11 +385,21 @@ Esercitazione 08, 2024-12-05/06: esercitazione con funzioni ed array.
 <li>
 Lezione 22, 2024-12-11:
 Puntatore a funzioni. Metodi numerici di integrazione a confronto: metodo del rettangolo, del punto di mezzo, e del trapezio.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/integrals.c">integrals.c</a>)
+Confronto tra i risultati dei vari metodo con il grafico in python
+(<a target=blank_ href="https://colab.research.google.com/drive/1ixJ4ExI58qqr9mu9k5uGGQzcHYf6yidX?usp=share_link">colab notebook</a>).
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/22-lezione.pdf">lavagna</a>)
+
 </li>
 
 <li>
 Esercitazione 09, 2024-12-12/13: esercitazione su tutti gli argomenti del corso.
 (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/esercitazione-09.pdf"></a>)
+</li>
+
+<li>
+Lezione ripasso, 2024-12-18:
+Ripasso di alcuni argomenti ed esempi richiesti dagli studenti.
 </li>
 
 <li>
