@@ -394,7 +394,7 @@ Confronto tra i risultati dei vari metodo con il grafico in python
 
 <li>
 Esercitazione 09, 2024-12-12/13: esercitazione su tutti gli argomenti del corso.
-(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/esercitazione-09.pdf"></a>)
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/esercitazione-09.pdf">pdf</a>)
 </li>
 
 <li>
