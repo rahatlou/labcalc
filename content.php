@@ -399,7 +399,8 @@ Esercitazione 09, 2024-12-12/13: esercitazione su tutti gli argomenti del corso.
 
 <li>
 Lezione ripasso, 2024-12-18:
-Ripasso di alcuni argomenti ed esempi richiesti dagli studenti.
+Ripasso ed esempi di puntatori. Array come puntatori. Puntatori con puntatori come array. Passaggio di array come puntatori.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/23-lezione-ripasso.pdf">lavagna</a>)
 </li>
 
 <li>
