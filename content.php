@@ -114,7 +114,7 @@
                    che spiega gli elementi di base di Unix/Linux. Il capitolo 2 riassume i comandi piu` utilizzati in questo corso.
                </li>
 
-               <li>Prontuario del laboratorio di calcolo (<a href="http://www.aquilante.net/unix/manuale-unix.pdf">pdf</a>): una guida semplice per configurare un ambiente di lavoro linux per lo svolgimento di questo corso.
+               <li>Prontuario del laboratorio di calcolo (<a href="https://github.com/rahatlou/labcalc/blob/2024/material/Prontuario_Lab_Calc.pdf">pdf</a>): una guida semplice per configurare un ambiente di lavoro linux per lo svolgimento di questo corso.
                  Si ringraziano gli studenti <b>Simone Di Micco</b> e <b>Numa Zorzi</b> per il loro eccellente lavoro.
                </li>
 
