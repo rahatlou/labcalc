@@ -63,6 +63,8 @@
            <h2 class="title">Prove di Esame</h2>
            <div class="entry">
 
+             <p><a href="https://github.com/rahatlou/labcalc/tree/2024/esami" target=_blank>raccolta di testi e soluzioni di esami passati</a>.</p>
+
              <p>Le date di tutte le prove di esame nel 2025 sono riportate sul <a href="https://corsidilaurea.uniroma1.it/it/view-course-details/2024/30046/20220331104432/6d3b0eba-4c04-4faf-8ba5-f9deaa6a0ab5/6d350e0a-d015-47b3-a250-99be99282262/117aff21-5d87-4ef1-97ca-87a71b1a60e6/ea0ce617-ae8a-4ffd-8121-3e6380fbfb49?guid_cv=6d350e0a-d015-47b3-a250-99be99282262&current_erogata=6d3b0eba-4c04-4faf-8ba5-f9deaa6a0ab5"  target="_blank">catalogo dei corsi</a>
                ed e` necessario prenotarsi su INFOSTUD prima della scadenza per poter sostenere la prova</p>
                <p>L'orario e l'aula verranno comunicati dopo la chiusura delle prenotazioni in base al numero di prenotazioni.</p>
