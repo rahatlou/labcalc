@@ -413,6 +413,12 @@ Esercitazione 10, 2024-12-19/20: esercitazione su tutti gli argomenti del corso.
 (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/esercitazione-10.pdf">pdf</a>)
 </li>
 
+<li>
+Esercitazione 11 valutata, 2025-01-09/10:
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/esercitazione-11-a.pdf">testo a</a>)
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/esercitazione-11-b.pdf">testo b</a>)
+
+</li>
 
 
 </ul>
