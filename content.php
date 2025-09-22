@@ -23,43 +23,7 @@
    E` necessario registrarsi per ricevere avvisi e materiale aggiuntivo relativo al corso.
   </div>
 
-
-<?php /*
-
-
-           <h2 class="title">Lezioni di ripasso a gennaio</h2>
-           Indicate le date e gli argomenti da ripassare a gennaio
-              <ul>
-                <li><a href="http://doodle.com/d3yzssahf3emw2r5">Scelta giorni</a></li>
-                <li><a href="http://doodle.com/zegkqt3wrdqhhgi9">Scelta argomenti</a></li>
-              </ul>
-
-
-          <h2 class="title">Esercitazione facoltativa con Arduino</h2>
-          <p>
-          Indicate se siete interssati a partecipare a una esercitazione facoltativa
-          con Arduino (e` necessaria ottima domestichezza con le funzioni)
-          e le possibili date. <a href="http://doodle.com/ss4hwbyz848upbrv">modulo</a>
-
-
-          <h2 class="title">Sondaggio</h2>
-
-              <p>
-              Gli studenti del <b>canale 4</b>  sono pregati di partecipare a questo
-              <a href="sondaggio.html">sondaggio</a> per aiutarmi a formare i gruppi di lavoro
-              entro <b>Martedi` 6 Ottobre 2015</b>.
-
-              <p>Lo scopo del sondaggio e` unicamente quello di formare al meglio le coppie per le esercitazioni  di laboratorio
-              e non ha nessun effetto ai fini delle prove in itinere e la prova finale.
-
-
-              <p>
-              Questo sondaggio e` relativo solo a questo corso e non c'entra nulla con il
-              <a href="http://bit.ly/fisica-registrazione-2015">modulo di registrazione ai canali</a>
-              che dovreste gia` aver riempito!
-
-
-*/ ?>
+   
            <h2 class="title">Prove di Esame</h2>
            <div class="entry">
 
@@ -89,27 +53,6 @@
 
            </div>
 
-<?php
-/*
-           <h2 class="title">Gruppi di esercitazione</h2>
-           <div class="entry">
-                        <p>
-                        Sono stati formati i <a href="http://bit.ly/labcalc-gruppi-20151014">gruppi di laboratorio</a>.
-
-                        Gli studenti immatricolati nel 2015 che devono fare le esercitazioni e non sono inseriti in nessun gruppo e sono pregati
-                        di contattarmi.
-
-
-                        <ul>
-                        <li><a href="Didattica/labcalc/esercitazioni/20160107/index.php">I prova valutata</a></li>
-                        <li><a href="Didattica/labcalc/esercitazioni/20160114/index.php">II prova valutata</a></li>
-                        <li><a href="Didattica/labcalc/voti/bonus.php">Punti di bonus</a></li>
-                        </ul>
-           </div>
-*/
-?>
-
-
            <h2 class="title">Risorse Utili</h2>
            <div class="entry">
 
@@ -123,30 +66,6 @@
                  Si ringraziano gli studenti <b>Simone Di Micco</b> e <b>Numa Zorzi</b> per il loro eccellente lavoro.
                </li>
 
-<?php
-/*
-               <li><a href="https://www.virtualbox.org/wiki/Screenshots">Virtualbox</a> + Linux: potete installare il programma gratuito <a href="https://www.virtualbox.org/wiki/Screenshots">Virtualbox</a> sul vostro computer come un qualsiasi programma. Potete poi installare una macchina virtuale con Linux all'interno di questo programma, come mostrato nella pagina collegata. Questo vi risparmia la fatica di installare cygwin con i pacchetti giusti e soprattutto la sua configurazione. Inoltre e` piu` semplice di partizionare il disco e gestire un sistema dual boot.</li>
-
-               <li>Se avete installato <a href="https://www.virtualbox.org/wiki/Screenshots">Virtualbox</a>, potete anche semplicemente importare
-                   una di queste macchine virtuali ubuntu che includono gia` il compilatore gcc e l'editor di testo emcas, e con l'<b>utente <em>labcalcolo</em> </b>
-                   gia` configurato (la <b>passwd coincide con lo username</b>). <font color=red>Attenzione:</font> i file sono di circa 2 GB ciascuno.
-                   <ol>
-                     <li> Scaricate il file per <a href="http://labcalc.fisica.uniroma1.it/docenti/rahatlou/public_html/VM/LabcalcoloUbuntu32.ova">
-                      la macchina virtuale a 32 bit</a> (1.5 GB)</li>
-                     <li> oppure se avete problemi provate con il file per <a href="http://labcalc.fisica.uniroma1.it/docenti/rahatlou/public_html/VM/Ubuntu-labcalcolo64bit.ova">
-                      la macchina virtuale a 64 bit</a> (2 GB)</li>.
-                     <li>Dal menu di VirtualBox sceglietei "File->Import Appliance" che aprira` una finestra di dialogo in cui dovete selezionare
-                     il file appena scaricato</li>
-                     <li>In questo modo trovete una macchina virtuale ubuntu con un utente labcalcolo gia` configurato correttamente</li>
-                   </ol>
-
-
-               <li><a href="http://www.ubuntu-it.org/">Ubuntu</a>: <a href="http://wiki.ubuntu-it.org/Documentazione/Indice">Documentazione per chi e` nuovo su ubuntu</a>:
-                    nella sezione <a href="http://wiki.ubuntu-it.org/Programmazione">Programmazione</a>
-                    trovate tutte le informazioni su come installare i compilatori e editor di testo
-               </li>
-*/
- ?>
 
              </ul>
            </div> <!-- entry -->
