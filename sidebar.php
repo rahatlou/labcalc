@@ -10,7 +10,7 @@
 <!--a href="">Google calendar of the course</a></br-->
 
 <h2>Programma, Requisiti, e Modalità</h2>
-Tutte le informzioni sono disponibili sul <a href="https://corsidilaurea.uniroma1.it/it/view-course-details/2024/30046/20220331104432/6d3b0eba-4c04-4faf-8ba5-f9deaa6a0ab5/6d350e0a-d015-47b3-a250-99be99282262/117aff21-5d87-4ef1-97ca-87a71b1a60e6/ea0ce617-ae8a-4ffd-8121-3e6380fbfb49?guid_cv=6d350e0a-d015-47b3-a250-99be99282262&current_erogata=6d3b0eba-4c04-4faf-8ba5-f9deaa6a0ab5" target="_blank">catalogo dei corsi</a>
+Tutte le informzioni sono disponibili sul <a href="https://corsidilaurea.uniroma1.it/it/course/33588/attendance/lesson/4e52b433-ee92-4f95-a658-bd0d7f7f3a54/1/1/ea0ce617-ae8a-4ffd-8121-3e6380fbfb49" target="_blank">catalogo dei corsi</a>
 
 <h2>Testo Consigliato</h2>
     <p><a href="http://www.programmazionescientifica.org/">Programmazione Scientifica</a> di Barone, Marinari, Organtini, Ricci-Tersenghi
