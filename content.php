@@ -28,7 +28,7 @@
            <h2 class="title">Prove di Esame</h2>
            <div class="entry">
 
-             <p><a href="https://github.com/rahatlou/labcalc/tree/2024/esami" target=_blank>raccolta di testi e soluzioni di esami passati</a><br>
+             <p><a href="https://github.com/rahatlou/labcalc/tree/master/esami" target=_blank>raccolta di testi e soluzioni di esami passati</a><br>
              <a href="https://github.com/rahatlou/labcalc/tree/2024/esami/raccolta-esercizi-labcalc.pdf" target=_blank>raccolta di esercizi e spiegazione delle soluzioni a cura di studenti</a><br>
              <a href="https://www.roma1.infn.it/~rovigatl/labcalc/" target=_blank>esami passati di Prof. Rovigatti</a></p>
 
