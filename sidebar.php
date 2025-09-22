@@ -6,7 +6,7 @@
   [<a href="mailto:shahram.rahatlou@uniroma1.it">shahram.rahatlou (at) uniroma1.it</a>]
 
 
-<p>Sito anni precedent: <a href="https://www.roma1.infn.it/~rahatlou/index.php?link=Didattica&sublink=2024.labcalc">2024</a>
+<p>Sito anni precedent: <a href="https://www.roma1.infn.it/~rahatlou/index.php?link=Didattica&sublink=2024.labcalc" target=_blank>2024</a>
 <p>
 <a href="https://classroom.google.com/c/MjM0MjgyNTMzMTNa?cjc=rji6wvwa"  target="_blank">Google classroom: rji6wvwa</a><br>
 <!--a href="">Google calendar of the course</a></br-->
