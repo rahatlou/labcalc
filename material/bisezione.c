@@ -11,23 +11,18 @@ int main() {
 
   double p;
   int iter = 0;
-
   double eps = EPS;
 
   printf("inserisci la precisione:" );
   scanf("%lf", &eps);
 
-
   printf("calcolo zeri di cos(x)\n");
-
-
 
   while(delta > eps ) {
     int i = iter;
     iter++;
 
     c = 0.5*(a+b);
-
     p = cos(a)*cos(c);
 
     if( p > 0.) {
@@ -38,11 +33,8 @@ int main() {
        a = b = c;
     }
 
-    printf("iter: %3d  x = %.15f gradi\n", iter, c*180./M_PI); 
-
+    printf("iter: %3d  x = %.15f gradi\n", iter, c*180./M_PI);
     delta  = fabs(a-b);
-
   }
-
 
 }

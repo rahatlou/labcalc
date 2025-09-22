@@ -1,21 +1,29 @@
 <div id="content">
-       <h1 class="title">Laboratorio di Calcolo (2015-2016)</h1>
-       <div class="post">
+
+<h1>Laboratorio di Calcolo, Canale Pet-Z, Anno Accademico 2024/2025</h1>
+
+<div class="post">
+
+  <h2  class="title">Orario Lezioni</h2>
+  <div class="entry">
+
+      <p><b>Inizio lezioni Mercoledi` 25 settembre 2024</b> (<a href="https://www.phys.uniroma1.it/fisica/sites/default/files/allegati/orario_s1_2425-v11.html"   target="_blank">Orario Lezioni Dipartimento</a>,)</p>
+      <ul>
+         <li>Lezione, Mercoledi` 8-10,  Aula Cabibbo, Edificio Fermi (CU033)</li>
+         <li>Lezione, Venerdi`   10-11, Aula Cabibbo, Edificio Fermi (CU033)</li>
+         <li>Esercitazione Sessione 1, Giovedi`  9-12, Laboratorio Calcolo, Piano 2, Edificio Fermi (CU033)</li>
+         <li>Esercitazione Sessione 2, Venerdi`  12-15, Laboratorio Calcolo, Piano 2, Edificio Fermi (CU033)</li>
+      </ul>
+   </div>
+
+   <h2  class="title">Avvisi</h2>
+   <div class="entry">
+
+   Tutte le comunicazioni saranno inviate esclusivamente tramite google classroom (<a href="https://classroom.google.com/c/NzEzMTgxOTMwNTg5?cjc=fmvbxzv"  target="_blank">codice: fmvbxzv</a>).
+   E` necessario registrarsi per ricevere avvisi e materiale aggiuntivo relativo al corso.
+  </div>
 
 
-           <h2>Gruppi di esercitazione</h2>
-             <p>
-             Sono stati formati i <a href="http://bit.ly/labcalc-gruppi-20151014">gruppi di laboratorio</a>.
-
-             Gli studenti immatricolati nel 2015 che devono fare le esercitazioni e non sono inseriti in nessun gruppo e sono pregati
-             di contattarmi.
-
-
-             <ul>
-             <li><a href="Didattica/labcalc/esercitazioni/20160107/index.php">I prova valutata</a></li>
-             <li><a href="Didattica/labcalc/esercitazioni/20160114/index.php">II prova valutata</a></li>
-             <li><a href="Didattica/labcalc/voti/bonus.php">Punti di bonus</a></li>
-             </ul>
 <?php /*
 
 
@@ -52,84 +60,71 @@
 
 
 */ ?>
-           <h2>Appelli di Esame</h2>
-             <ul>
-                  <li><a href="Didattica/labcalc/esami/20160915.php">15 settembre 2016</a></li>
-                  <li><a href="Didattica/labcalc/esami/20160714.php">14 luglio 2016</a></li>
-	                <li><a href="Didattica/labcalc/esami/20160623.php">23 giugno 2016</a></li>
-                  <li><a href="Didattica/labcalc/esami/20160218.php">18 feb 2016</a> </li>
-                  <li><a href="Didattica/labcalc/esami/20160128.php">28 e 29 gen 2016</a> </li>
-             </ul>
+           <h2 class="title">Prove di Esame</h2>
+           <div class="entry">
+
+             <p><a href="https://github.com/rahatlou/labcalc/tree/2024/esami" target=_blank>raccolta di testi e soluzioni di esami passati</a><br>
+             <a href="https://github.com/rahatlou/labcalc/tree/2024/esami/raccolta-esercizi-labcalc.pdf" target=_blank>raccolta di esercizi e spiegazione delle soluzioni a cura di studenti</a><br>
+             <a href="https://www.roma1.infn.it/~rovigatl/labcalc/" target=_blank>esami passati di Prof. Rovigatti</a></p>
+
+
+             <p>Le date di tutte le prove di esame nel 2025 sono riportate sul <a href="https://corsidilaurea.uniroma1.it/it/view-course-details/2024/30046/20220331104432/6d3b0eba-4c04-4faf-8ba5-f9deaa6a0ab5/6d350e0a-d015-47b3-a250-99be99282262/117aff21-5d87-4ef1-97ca-87a71b1a60e6/ea0ce617-ae8a-4ffd-8121-3e6380fbfb49?guid_cv=6d350e0a-d015-47b3-a250-99be99282262&current_erogata=6d3b0eba-4c04-4faf-8ba5-f9deaa6a0ab5"  target="_blank">catalogo dei corsi</a>
+               ed e` necessario prenotarsi su INFOSTUD prima della scadenza per poter sostenere la prova</p>
+               <p>L'orario e l'aula verranno comunicati dopo la chiusura delle prenotazioni in base al numero di prenotazioni.</p>
 
              <p>
                Durante la prova potete consultare libri e appunti ma NON listati di programmi ed esercitazioni in forma cartacea o elettronica.
-             <p>Saper usare l'editor di testo, compilarore e girare il programma e` parte importante e richiesta dell'esame.
+             Saper usare l'editor di testo, compilarore e girare il programma e` parte importante e richiesta dell'esame.
+           </p>
 
              <p>
-             Gli studenti possono sostenere tutti gli appelli (tranne quelli straordinari riservati ai soli fuoricorso
+             E` possibile sostenere l'esame in tutti gli appelli (tranne quelli straordinari riservati ai soli fuoricorso
              oppure aventi 155 CFU).
-
-             <p>Gli studenti possono ritirarsi prima o al termine della prova. In questo caso la prova non sara` valutata
-             e quind nemmeno verbalizzata.
+           </p>
 
              <p>
-             Tutte Le prove consegnate saranno valutate.
-             I voti insufficienti oppure sufficienti ma rifiutati dagli interessati saranno
-             verbalizzati come insufficienti su infostud.
+               Gli studenti possono ritirarsi prima o al termine della prova. In questo caso la prova non sara` valutata e verra` verbalizzata come ritiro senza voto.
+           </p>
 
 
-             <p>
-             Gli studenti che si sono iscritti per la prima volta nell'anno accademico 2014/15, devono prenotarsi
-             su infostud per entrambe le prove di
-             <ol>
-                  <li>Laboratorio di calcolo (6 cfu)</li>
-                  <li>Abilita` informatiche (3 cfu). Questi crediti non richiedono un esame a parte, ma saranno verbalizzati al momento della verbalizzazione dell'esame di Laboratorio di Calcolo</li>
-             </ol>
-
-           <h2 >Orario Lezioni</h2>
-               <p><b>Il corso dell'anno accademico 2015/16 inizia il giorno martedi` 29 settembre 2015</b>
-               <ul>
-                  <li>Lezione, Martedi` 11-12, <a href="http://bit.ly/mappa-didattica" target="_blank">Aula 6, Nuovo Edificio di Fisica</a></li>
-                  <li>Lezione, Mercoledi`  11-13, <a href="http://bit.ly/mappa-didattica" target="_blank">Aula 6, Nuovo Edificio di Fisica</a></li>
-                  <li>Esercitazione, Giovedi`   14-17, <a href="http://bit.ly/mappa-didattica">Aula 17 Laboratori di Via Tiburtina 205</a></li>
-
-
-                  <li>Laboratorio Libero: e` possibile accedere al
-                       Laboratorio di Calcolo al II piano nell'edificio Fermi
-                      per esercitazioni libere lunedi` dalle 14 alle 16, e si spera fino alle 17.
-                  </li>
-
-               </ul>
-       </div>
-
-
-
-
-
-       <div class="post">
-<?php /*
-           <h2 class="title">Accesso remoto alle esercitazioni svolte</h2>
-           <div class="entry">
-           <p>
-           Potete accedere alla vostra home directory di gruppo  all'indirizzo
-             <a href="http://labcalc.fisica.uniroma1.it/studenti/">http://labcalc.fisica.uniroma1.it/studenti/</a>
-           <p>
-           Ad esempio per il gruppo lcsr40, la home directory sara`
-           <a href="http://labcalc.fisica.uniroma1.it/studenti/lcsr40/">http://labcalc.fisica.uniroma1.it/studenti/lcsr40/</a>
-           <p>
-           Ricordate che potete leggere e prendere i programmi da voi scritti durante le esercitazioni
-           ma non potete trasferire nuovi file dal vostro computer nella home directory.
-
-           <p><b>I nuovi file saranno disponibili a partire dalle ore 19:00 di ogni giovedi`</b>
            </div>
-*/ ?>
-       </div>
 
-       <div class="post">
-           <h2 >Risorse Utili</h2>
+<?php
+/*
+           <h2 class="title">Gruppi di esercitazione</h2>
            <div class="entry">
+                        <p>
+                        Sono stati formati i <a href="http://bit.ly/labcalc-gruppi-20151014">gruppi di laboratorio</a>.
+
+                        Gli studenti immatricolati nel 2015 che devono fare le esercitazioni e non sono inseriti in nessun gruppo e sono pregati
+                        di contattarmi.
+
+
+                        <ul>
+                        <li><a href="Didattica/labcalc/esercitazioni/20160107/index.php">I prova valutata</a></li>
+                        <li><a href="Didattica/labcalc/esercitazioni/20160114/index.php">II prova valutata</a></li>
+                        <li><a href="Didattica/labcalc/voti/bonus.php">Punti di bonus</a></li>
+                        </ul>
+           </div>
+*/
+?>
+
+
+           <h2 class="title">Risorse Utili</h2>
+           <div class="entry">
+
              <ul>
 
+               <li><a href="http://www.aquilante.net/unix/manuale-unix.pdf">Unix: introduzione elementare</a>: guida semplice
+                   che spiega gli elementi di base di Unix/Linux. Il capitolo 2 riassume i comandi piu` utilizzati in questo corso.
+               </li>
+
+               <li>Prontuario del laboratorio di calcolo (<a href="https://github.com/rahatlou/labcalc/blob/2024/material/Prontuario_Lab_Calc.pdf">pdf</a>): una guida semplice per configurare un ambiente di lavoro linux per lo svolgimento di questo corso.
+                 Si ringraziano gli studenti <b>Simone Di Micco</b> e <b>Numa Zorzi</b> per il loro eccellente lavoro.
+               </li>
+
+<?php
+/*
                <li><a href="https://www.virtualbox.org/wiki/Screenshots">Virtualbox</a> + Linux: potete installare il programma gratuito <a href="https://www.virtualbox.org/wiki/Screenshots">Virtualbox</a> sul vostro computer come un qualsiasi programma. Potete poi installare una macchina virtuale con Linux all'interno di questo programma, come mostrato nella pagina collegata. Questo vi risparmia la fatica di installare cygwin con i pacchetti giusti e soprattutto la sua configurazione. Inoltre e` piu` semplice di partizionare il disco e gestire un sistema dual boot.</li>
 
                <li>Se avete installato <a href="https://www.virtualbox.org/wiki/Screenshots">Virtualbox</a>, potete anche semplicemente importare
@@ -145,388 +140,292 @@
                      <li>In questo modo trovete una macchina virtuale ubuntu con un utente labcalcolo gia` configurato correttamente</li>
                    </ol>
 
-<?php /*
-               <li>
-                 <a href="http://www.cygwin.com/">Cygwin</a>: Ci sono diversi siti e documenti in rete. Qui sono riportati alcuni che ho trovato piu` semplici e chiari.
-                 <p>
-                 Ricordate di selezionare anche almeno un editor di testo com emacs, gedit, nedit. Inoltre selezionate i pacchetti
-                 della categoria gcc-core nella sezione 'Devel'.
-                 <ul>
-                 <li>
-                 <a href="http://labmaster.mi.infn.it/Laboratorio2/CompilerCD/cygwin/labcalc2/installazione.html">Istruzioni passo per passo</a>
-                 per installare cygwin su windows. Spiega come selezionare i compilatori e i pacchetti grafici
-                 durante la procedura di installazione.
-                 </li>
-
-                 <li><a href="http://www.disi.unige.it/person/BoccacciP/didattica/labcA/Installazione_Cygwin.htm">Un'altra guida passso per passo</a></li>
-
-                 <li><a href="/istruzioni_per_installazione.pdf">Guida passo per passo in pdf</a></li>
-
-                 </ul>
-               </li>
-
-
-               <li>
-                 Per saperne di piu` su linux potete visitare il sito di <a href="http://vandali.org/DanieleMasini/infolinux.php">Informatica e GNU/Linux</a>
-                 dove trovate un documento in formato pdf.
-               </li>
-*/ ?>
 
                <li><a href="http://www.ubuntu-it.org/">Ubuntu</a>: <a href="http://wiki.ubuntu-it.org/Documentazione/Indice">Documentazione per chi e` nuovo su ubuntu</a>:
                     nella sezione <a href="http://wiki.ubuntu-it.org/Programmazione">Programmazione</a>
                     trovate tutte le informazioni su come installare i compilatori e editor di testo
                </li>
-
-               <li>Mac OS: Alcune informazioni utili per l'<a href="Didattica/labcalc/material/gcc-macosx.pdf">installazione di gcc su Mac OS X</a></li>
-               <li>Installazione di gcc su Mac OS Mavericks: <a href="http://osxdaily.com/2014/02/12/install-command-line-tools-mac-os-x/">guida in inglese</a></li>
-
-               <li><a href="http://www.aquilante.net/unix/manuale-unix.pdf">Unix: introduzione elementare</a>: guida semplice
-                   che spiega gli elementi di base di Unix/Linux. Il capitolo 2 riassume i comandi piu` utilizzati in questo corso.
-               </li>
-
-               <li>
-                 <a href="http://www.newtonlabs.com/ic/ic_toc.html">Guida interattiva del lingiaggio C</a> (in inglese)
-               </li>
-
-
-
+*/
+ ?>
 
              </ul>
-           </div>
-       </div>
+           </div> <!-- entry -->
 
 
-       <div class="post">
-
-           <h2 >Materiale del Corso</h2>
+           <h2 class="title">Materiale del Corso</h2>
            <div class="entry">
 
 <!-- begin lectures -->
 <ul>
 
-
 <li>
-Lezione 01, 29/9: Introduzione. Organizzazione del corso e delle esercitazioni.
-(<a href="Didattica/labcalc/material/01-Introduzione.pdf">pdf</a>)
+Lezione 01, 2024-09-25: Introduzione. Organizzazione del corso e delle esercitazioni. Informazioni pratiche.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/01-Introduzione.pdf">pdf</a>)
 </li>
 
 <li>
-Lezione 02, 30/9:  Sistemi di numerazione.Base binaria.Rappresentazione di numeri negativi.
+Lezione 02, 2024-09-27:  Sistemi di numerazione. Base binaria, decimale, ed esadecimale.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/02-lezione.pdf">lavagna</a>)
 </li>
 
 <li>
-Lezione 03, 6/10: Rappresentazione di numeri razionali in virgola mobile.
+Lezione 03, 2024-10-02:  Rappresentazione di numeri interi negativi. Numeri razionali.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/03-lezione.pdf">lavagna</a>)
 </li>
 
 <li>
-Lezione 04, 7/10: Problema di approssimazione in vigola mobile. Valori logici.
+Lezione 04, 2024-10-04:  Singola e doppia precisione.  Il problema di approssimazione in virgola mobile.
+Rappresentazione di caratteri e codice ASCII. Immagini digitali.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/04-lezione.pdf">lavagna</a>)
 </li>
 
+
 <li>
-Lezione 05, 13/10:
+Lezione 05, 2024-10-09:
 Calcolatori e linguaggio macchina.
-Esempio di  calcolatore semplice con 4 bit.
+Indirizzi di memoria e istruzioni.
+Esempio di  calcolatore semplice con 8 bit.
 Linguaggi di programmazione. Compilatori.
-</li>
-
-<li>
-Lezione 06, 14/10: Elementi base del C. Compilazione e liniking dei programmi. La funzione main.
-Variabili e tipi. Terminale, editor di testa, compilatore gcc.
-(<a href="Didattica/labcalc/material/02-linux-abc.pdf">pdf</a>) (<a href="Didattica/labcalc/material/prog.c">prog.c</a>)
-</li>
-
-<li>
-Lab 01, 15/10: Introduzione a Linux. Terminale, editor di testa, compilatore gcc.
-creare file e directory. copiare e spostare file. compilare, linkare e girare programmi.
-Il primo programma: conversione di temperatura da Celsius in Fahrenheit.
-(<a href="Didattica/labcalc/material/esercitazione-01.pdf">pdf</a>)
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/05-lezione.pdf">lavagna</a>)
 </li>
 
 
 <li>
-Lezione 07, 20/10:
- Variabili e tipi. operatori matematici.  Operatori unari e binari.
+Esercitazione 01, 2024-10-10/11: Nozioni base di linux per le esercitazioni.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/esercitazione-01.pdf">pdf</a>)
+</li>
+
+<li>
+Lezione 06, 2024-10-11: Elementi base del C. Compilazione e linking dei programmi. La funzione main.
+Variabili e tipi.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/06-lezione.pdf">lavagna</a>)
+</li>
+
+
+
+<li>
+Lezione 07, 2024-10-16:
+Operatori matematici.  Operatori unari e binari.
+operatori &amp;&amp;, ||, &ge;, &le; .
 Priorita` degli operatori matematici.
-</li>
-
-<li>
-Lezione 08, 21/10:
-Analisi e comprensione del programma della prima esercitazione.
-diagrammi di flusso.
 printf e scanf per input/output.Importanza dei descrittori in printf.
 uso della libreria matematica.
 header file e librerie.
-istruzioni #include del precompilatore.
-Uso di #define.
+Istruzioni #include del precompilatore.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/07-lezione.pdf">lavagna</a>)
 </li>
 
 <li>
-Lab 02, 22/10: Simulazione di una lente sottile (<a href="Didattica/labcalc/material/esercitazione-02.pdf">pdf</a>)
-</li>
-
-<li>
-Lezione 09, 27/10:
-decisioni e iterazioni.
-costrutto <em>if/else</em> e <em>if/else if</em>. espressioni logiche.
-operatori &amp;&amp;, ||, &ge;, &le; .
-cicli <em>do/while</em> e <em>while</em>:
-</li>
-
-<li>
-Lezione 10, 28/10:
-operatori ==, !=, ++ .
-iterazioni.
-cicli <em>do/while</em>.
-controllo di valori di input con <em>do/while</em>.
-Algoritmo per conversione da base 10 in base 2(<a href="Didattica/labcalc/material/binary.c">binary.c</a>).
-uso dei contatori e la loro inizializzazione.
-Algoritmo per conversione da base 10 in base qualsiasi.
-</li>
-
-<li>
-Lab 03, 29/10: Il moto del proiettile (<a href="Didattica/labcalc/material/esercitazione-03.pdf">pdf</a>)
-(<a href="Didattica/labcalc/material/esercitazione03.c">parte I</a>)
-(<a href="Didattica/labcalc/material/esercitazione03bis.c">parte II</a>)
-</li>
-
-<li>
-Lezione 11, 3/11:
-Metodi ricorsivi con variabili ausiliari di appoggio.
-Ciclo <em>while</em> e differenze con <em>do/while</em>.
-Ciclo <em>for</em> e calcolo del fattoriale.  la serie di Fibonacci:
-<a href="Didattica/labcalc/material/fiboInt.c">fiboInt.c</a> usando <em>int</em>; <a href="Didattica/labcalc/material/fiboLlu.c">fiboLlu.c</a> usando <em>unsigned long long int</em>;
-</li>
-
-<li>
-Lezione 12, 4/11:
-Metodo di bisezione (<a href="Didattica/labcalc/material/bisezione.c">bisezione.c</a>).
-Metodo di newton e calcolo ricorsivo di radici di una funzione.
-Ricerca di numeri primi (<a href="Didattica/labcalc/material/primi.c">primi.c</a>).
-Cicli annidati e inizializzazione delle variabili.
-Generaziuone numeri casuali interi in un intervallo [a,b].
+Esercitazione 02, 2024-10-17/18: Esercitazione con operatori matematici e input/output.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/esercitazione-02.pdf">pdf</a>)
 </li>
 
 
 <li>
-Lab 04, 5/11: Calcolo della radice quadrata con metodi ricorsivi.
-(<a href="Didattica/labcalc/material/esercitazione-04.pdf">pdf</a>)
-(<a href="Didattica/labcalc/material/esercitazione-04.c">soluzione</a>)
+Lezione 08, 2024-10-18:
+Uso di <em>#define</em>. Descrittori.
+Diagramma di flusso.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/08-lezione.pdf">lavagna</a>)
+</li>
+
+
+
+<li>
+Lezione 09, 2024-10-23:
+Diagramma di flusso del programma. Decisioni:
+costrutto <em>if/else</em> e <em>if/else if/else</em>.
+Iterazioni: cicli <em>do/while</em>, <em>while</em>. ciclo <em>for</em>.
+Variabili ausiliari di appoggio e contatori.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/09-lezione.pdf">pdf</a>)
 </li>
 
 
 <li>
-Lezione 13, 10/11:
-generazione numeri casuali reali
-cast esplicito delle variabili.
-Generazione in un quadrato o cerchio. Gioco della freccetta.
+Esercitazione 03, 2024-10-24/25: Esercitazione con input/output e funzioni matematiche.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/esercitazione-03.pdf">pdf</a>)
 </li>
 
 <li>
-Lezione 14, 11/11:
-Array in C: dimensione e lunghezza. Indice di un array.
-Calcolo della media, minimo, e massimo di elementi di un array.
-Metodo bubblesort per ordinamento di un array (<a href="Didattica/labcalc/material/bubble.c">bubble.c</a>).
-Algoritmo per la ricerca binaria (<a href="Didattica/labcalc/material/binsearch.c">binsearch.c</a>).
+Lezione 10, 2024-10-25:
+ciclo <em>for</em>. calcolo del fattoriale. Cicli ricorsivi: la serie di Fibonacci. Metodo di bisezione
+per trovare gli zeri di una funzione (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/bisezione.c">bisezione.c</a>).
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/10-lezione.pdf">lavagna</a>)
+</li>
+
+
+<li>
+Lezione 11, 2024-10-30:
+Metodo di bisezione per gli zeri di una funzione. cicli iterativi.
+Revisione degli errori comuni nelle scorse esercitazioni.
+Introduzione a python: output formattato di variabili  e libreria matematica.
+Python3 dalla riga di comando e uso di
+<a href="https://colab.research.google.com" target=blank_>colab</a> nel browser.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/11-lezione.pdf">lavagna</a>)
+</li>
+
+
+<li>
+Lezione 12, 2024-11-06:
+Array statici in C: lunghezza e dimensione. Indice di un array. Operatore []. Array uni- e multi-dimensionali.
+Cicli annidati per operazioni su matrici e vettori. Inzializzazione delle variabili di appoggio nei cicli annidati.
+Calcolo matriciale e operazioni vettoriali usando array statici. Input e output formattato di elementi di array bidmensionali.
+
+
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/2-lezione.pdf">lavagna</a>)
+</li>
+
+
+<li>
+Esercitazione 04, 2024-11-07/08: Moto del proiettile e grafica con python.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/esercitazione-04.pdf">pdf</a>)
 </li>
 
 <li>
-Lab 05, 12/11: La stima di &pi; con l'ago di Buffon
-(<a href="Didattica/labcalc/material/esercitazione-05.pdf">pdf</a>)
-(<a href="Didattica/labcalc/material/esercitazione-05.c">soluzione</a>)
+Lezione 13, 2024-11-08:
+Generaziune numeri pseudo-casuali interi e razionali in un intervallo [a,b]. Funzioni <em>srand48()</em> e <em>lrand48()</em>.
+Esempio di simulazione di un dado a N facce. Uso di array di contatori.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/13-lezione.pdf">lavagna</a>)
 </li>
 
 <li>
-Lezione 15, 17/11:
-Array multidiemensionali. Soluzione di sistemi di equzioni lineari (<a href="Didattica/labcalc/material/eqlineare.c">esempio</a>)
+Lezione 14, 2024-11-13:
+Applicazioni di array: conversione di numeri in binario (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/binary.c">binary.c</a>).
+Algoritmo bubble sort per ordinamento di array di dati (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/bubble.c">bubble.c</a>).
+Ricerca binaria di elementi in un array ordinato (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/binsearch.c">binsearch.c</a>).
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/14-lezione.pdf">lavagna</a>)
 </li>
 
 <li>
-Lezione 16, 18/11:
-stringhe in C come array di char. I/O di stringhe.
-Il gioco di tris. puntatori. legame tra puntatori e array. accesso agli array 1D tramite puntatore.
+Lezione 15, 2024-11-15:
+Il gioco delle freccette e la stima del &pi; greco con i numeri casuali
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/pigreco.c">pigreco.c</a>).
+I/O di stringhe e manipolazione con la funzione <em>sprintf()</em>.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/15-lezione.pdf">lavagna</a>)
 </li>
 
+
+<li>
+Esercitazione 05, 2024-11-14/15: esercitazione su metodi ricorsivi e cicli e grafica con python.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/esercitazione-05.pdf">pdf</a>)
 </li>
 
 <li>
-Lab 06, 19/11: Distribuzioni di numeri casuali ed istogrammi. Teorema del limite centrale
-(<a href="Didattica/labcalc/material/esercitazione-06.pdf">pdf</a>)
-(<a href="Didattica/labcalc/material/esercitazione-06.c">soluzione</a>)
+Lezione 16, 2024-11-20:
+stringhe in C come array di char. I/O di stringhe. manipolazione con la funzione <em>sprintf()</em>. (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/strings.c">strings.c</a>).
+Il gioco di tris. puntatori. legame tra puntatori e array. accesso agli array 1D tramite puntatore (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/pointer.c">pointer.c</a>).
+Input/output su file (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/fileIO.c">fileIO.c</a>).
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/16-lezione.pdf">lavagna</a>)
+</li>
+
+
+<li>
+Lezione 17, 2024-11-22:
+Uso di puntatori con array 2D (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/array2D.c">array2D.c</a>).
+Introduzione alle funzioni in C.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/17-lezione.pdf">lavagna</a>)
 </li>
 
 <li>
-Lezione 17, 24/11:
-Funzione <em>getchar()</em>.
-Input/output su file. file formattati.
+Esercitazione 06, 2024-11-21/22: Stima di &pi; con i numeri casuali. Grafici ed istogramma con python.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/esercitazione-06.pdf">pdf</a>)
 </li>
 
 <li>
-Lezione 18, 25/11:
-Input da file (<a href="Didattica/labcalc/material/input.c">input.c</a>).
-uso di puntatori con array 2D (<a href="Didattica/labcalc/material/array2D.c">array2D.c</a>).
-Manpipolazione di stringhe con la funzione <em>sprintf</em>.
+Lezione 18, 2024-11-27:
 Funzioni: dichiarazione e definizione.
 Argomenti e variabili locali. Passaggio delle variabili come argomenti.  passaggio per valore.
-argomenti e ambito di visibilita`. tipo e valore di ritorno.
-esempio: funzione potenza().
+tipo e valore di ritorno.
+Esempio: funzione funzione <em>dado()</em> e <em>casuale(a,b)</em>.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/18-lezione.pdf">lavagna</a>)
+
+</li>
+
+<li>
+Lezione 19, 2024-11-9:
+Funzioni: differenza tra passaggio per valore e passaggio per puntatore.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/passbyvalue.c">passbyvalue.c</a> e
+<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/passbyptr.c">passbyptr.c</a>).
+Esempi di funzioni per operare su array 1D e 2D.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/matrici.c">matrici.c</a>)
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/19-lezione.pdf">lavagna</a>)
+
 </li>
 
 
 <li>
-Lab 07, 26/11: Passaggio di un elettrone nella materia
-(<a href="Didattica/labcalc/material/esercitazione-07.pdf">pdf</a>)
+Esercitazione 07, 2024-11-28/29: cammino aleatorio unidimensionale.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/esercitazione-07.pdf">pdf</a>)
 </li>
 
 <li>
-Lezione 19, 1/12:
-Esempi di Funzioni.
-Funzioni ricorsive.
-(<a href="Didattica/labcalc/material/questionarioridondante.c">questionario 1</a>)
-(<a href="Didattica/labcalc/material/questionariomigliorato.c">questionario 1</a>)
-Funzioni ed array come argomenti.
+Lezione 20, 2024-12-04:
+Formulario OPIS.
+Uso di puntatori come argomento di funzioni: passaggio di array e ritorno di piu` valori.
+Esempio della funzione  analisi() per calcolare media e deviazione standard di dati in un array.
+Generazione di numeri casuali secondo una distribuzione di probabilita` P(x). Esempio di sin(x) e exp(-x) e
+confronto con la generazione uniforme.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/generator.c">generator.c</a>,
+<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/generator_ptr.c">generator_ptr.c</a>,
+)
+Grafico di 3 istogrammi sovrappositi con python.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/generator.py">generator.py</a>)
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/20-lezione.pdf">lavagna</a>)
 </li>
 
 <li>
-Lezione 20, 2/12:
-Passaggio di array 2D come argomento di funzione.
-(<a href="Didattica/labcalc/material/anagrammi.c">anagrammi</a>)
-Generazione numeri casuali secondo distribuzione gaussiana ed esponenziale.
-Operazioni con array 1D e 2D.
-Operazioni tra matrici e vettori.
-</li>
-
-<li>
-Lab 08, 3/12: Cammino aleatorio (random walk) in 1D e 2D
-(<a href="Didattica/labcalc/material/esercitazione-08.pdf">pdf</a>)
-</li>
-
-<li>
-Lezione 21, 9/12:
-passaggio per valore e per referenza.
-Array 1D, 2D, e puntatori come argomenti di funzione.
-funzione  analisi() per calcolo media e deviazione standard di dati.
-esempi: getInt(), azzeraMat(), stampaMat(), prodotto(matrice, vettore).
-</li>
-
-<li>
-Lab 09, 10/12: Simulazione della ricerca del bosone di Higgs
-(<a href="Didattica/labcalc/material/esercitazione-09.pdf">pdf</a>)
-(<a href="Didattica/labcalc/material/esercitazione-09.c">soluzione</a>)
+Lezione 21, 2024-12-06:
+Interazione con il metodo Monte Carlo e il metodo hit & miss
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/mcint.c">mcint.c</a>).
+Codice del metodo MonteCarlo in python con esempi grafici
+(<a target=blank_ href="https://colab.research.google.com/drive/1IsFzG08eUJCARIVYt8dB3QSSXJNPRttZ?usp=sharing">colab notebook</a>).
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/21-lezione.pdf">lavagna</a>)
 </li>
 
 
 <li>
-Lezione 22, 15/12:
-Metodi numerici per calcolo di integrali: metodo del punto di mezzo, del trapezio e dei rettangoli.
-Metodo Monte Carlo per l'integrazione numerica.
+Esercitazione 08, 2024-12-05/06: esercitazione con funzioni ed array.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/esercitazione-08.pdf">pdf</a>)
 </li>
 
 <li>
-Lezione 22, 16/12:
-Calcolo area e volume arbitrari con il metodo Monte Carlo.
- puntatori a funzioni. puntatore a funzione come argomento di una funzione.
-esempio della funzione derivata ed integrale.
+Lezione 22, 2024-12-11:
+Puntatore a funzioni. Metodi numerici di integrazione a confronto: metodo del rettangolo, del punto di mezzo, e del trapezio.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/integrals.c">integrals.c</a>)
+Confronto tra i risultati dei vari metodo con il grafico in python
+(<a target=blank_ href="https://colab.research.google.com/drive/1ixJ4ExI58qqr9mu9k5uGGQzcHYf6yidX?usp=share_link">colab notebook</a>).
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/22-lezione.pdf">lavagna</a>)
+
 </li>
 
 <li>
-Lezione 22, 16/12:
-Introduzione alla programmazione di una scheda <a href="http://www.arduino.cc/">arduino</a> Uno
-(<a href="http://www.roma1.infn.it/people/organtini/publications/scientificArduino.pdf">Scientific Arduino Programming</a> di Giovanni Organtini).
-Accensione di LED con generazione numeri casuali.
-Esempi di programmi per emissione segnale audio e accensione di LED.
-Termosensore con indicatore visuale e sonoro.
-Uso di un fotosensore.
+Esercitazione 09, 2024-12-12/13: esercitazione su tutti gli argomenti del corso.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/esercitazione-09.pdf">pdf</a>)
 </li>
 
 <li>
-Lab 10, 17/12: Interazione di particelle con un bersaglio
-(<a href="Didattica/labcalc/material/esercitazione-10.pdf">pdf</a>)
-(<a href="Didattica/labcalc/material/esercitazione-10.c">soluzione</a>)
+Lezione ripasso, 2024-12-18:
+Ripasso ed esempi di puntatori. Array come puntatori. Puntatori con puntatori come array. Passaggio di array come puntatori.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/23-lezione-ripasso.pdf">lavagna</a>)
 </li>
 
 <li>
-Lab 11, 7/1: Materchef (esercitazione valutata)
-(<a href="Didattica/labcalc/material/esercitazione-11.pdf">pdf</a>)
-(<a href="Didattica/labcalc/material/esercitazione-11.c">soluzione</a>)
-(<a href="Didattica/labcalc/esercitazioni/20160107">valutazione</a>)
+Esercitazione 10, 2024-12-19/20: esercitazione su tutti gli argomenti del corso.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/esercitazione-10.pdf">pdf</a>)
 </li>
 
 <li>
-Lab 12, 14/1: Album di figurine (esercitazione valutata)
-(<a href="Didattica/labcalc/material/esercitazione-12.pdf">pdf</a>)
-(<a href="Didattica/labcalc/material/esercitazione-12.c">soluzione</a>)
+Esercitazione 11 valutata, 2025-01-09/10:
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/esercitazione-11-a.pdf">testo a</a>)
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/esercitazione-11-b.pdf">testo b</a>)
 
 </li>
 
-
-<?php /*
-
-esempio di funzioni con array 1D e 2D. puntatori come argomento di funzione.
-(<a href="material/char3.c">esempio</a>)
-
-
-<li>
-Lezione 22, 15/12: puntatori a funzioni.
-puntatore a funzione come argomento di una funzione.
-esempio della funzione derivata (<a href="material/deriv.c">deriv.c</a>)
-</li>
-
-
-<li>
-Lezione 23, 16/12:
-Introduzione alla programmazione di una scheda <a href="http://www.arduino.cc/">arduino</a> Uno.
-</li>
-
-<li>
-Lab 10, 17/12: Album di figurine
-(<a href="material/esercitazione-09.pdf">pdf</a>)
-(<a href="material/esercitazione-09.c">soluzione</a>)
-</li>
-
-
-
-<li>
-Lezione ripasso, 7/1: puntatori come argomento di funzioni.
-passaggio di array 1D con i puntatori. prodotto scalare tra due vettori.
-calcolo del lavoro fatto da una forza costante.
-</li>
-
-
-<li>
-Lab 10, 8/1: I esercitazione valutata , Sondaggi
-(<a href="material/esercitazione-10.pdf">pdf</a>)
-(<a href="material/esercitazione-10.c">soluzione</a>)
-(<a href="voti/lab10.php">risultati</a>)
-</li>
-
-<li>
-Lezione ripasso, 14/1: metodo MC per integrazione in 2D e 3D di volumi e funzioni.
-generazione punti casuali all'interno di una sfera.
-</li>
-
-
-<li>
-Esercitazione con <a href="http://www.arduino.cc/">Arduino</a>, 20/1: esercitazione facoltativa per programmare una scheda Arduino UNO.
-Accensione LED con i pulsanti e variando tempo di accensione. Funzioni digitalWrite() e pinMode().
-Variazione l'intensita` della luce dei LED con analogWrite().
-Rivelatore di vicinanza con un sensore di ultrasuoni HC-RS04 e segnale luminoso con LED
-a intensita` variabile, proporzionale alla distanza misurata.
-(<a href="material/oneled.ino">sketch accensione LED</a>)
-(<a href="material/hcrs04-usound-led-pwm.ino">sketch rivelatore vicinanza</a>)
-(<a href="https://plus.google.com/107988301187195285489/posts/YXMJEyf2dgR">Foto e video</a>)
-</li>
-
-
-<li>
-Lab 12, 22/1: esercitazione assistita. Il gioco di golf (<a href="material/esercitazione-12.pdf">pdf</a>)
-</li>
-
-*/ ?>
 
 </ul>
 <!-- end of lectures -->
 
-           </div> <!--- end of entry -->
-       </div> <!--- end of post -->
+</div> <!--- end of entry -->
 
-</div>
+</div> <!--- end of post -->
+
+</div> <!-- end content -->
