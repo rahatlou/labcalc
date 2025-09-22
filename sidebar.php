@@ -1,12 +1,12 @@
 <div id="sidebar-content">
 
-<h3 class=h3sidebar>Last update: 13 Jan 2025</h3>
+<h3 class=h3sidebar>Last update: 22 Sep 2025</h3>
   Created by
   <a href="http://www.roma1.infn.it/people/rahatlou/">Shahram Rahatlou</a>
   [<a href="mailto:shahram.rahatlou@uniroma1.it">shahram.rahatlou (at) uniroma1.it</a>]
 
 <p>
-<a href="https://classroom.google.com/c/NzEzMTgxOTMwNTg5?cjc=fmvbxzv"  target="_blank">Google classroom: fmvbxzv</a><br>
+<a href="https://classroom.google.com/c/MjM0MjgyNTMzMTNa?cjc=rji6wvwa"  target="_blank">Google classroom: rji6wvwa</a><br>
 <!--a href="">Google calendar of the course</a></br-->
 
 <h2>Programma, Requisiti, e Modalità</h2>

@@ -1,29 +1,30 @@
 <div id="content">
 
-<h1>Laboratorio di Calcolo, Canale Pet-Z, Anno Accademico 2024/2025</h1>
+<h1>Laboratorio di Calcolo, Canale Pet-Z, Anno Accademico 2025/2026</h1>
 
 <div class="post">
 
   <h2  class="title">Orario Lezioni</h2>
   <div class="entry">
 
-      <p><b>Inizio lezioni Mercoledi` 25 settembre 2024</b> (<a href="https://www.phys.uniroma1.it/fisica/sites/default/files/allegati/orario_s1_2425-v11.html"   target="_blank">Orario Lezioni Dipartimento</a>,)</p>
+      <p><b>Inizio lezioni Mercoledi` 1 ottobre 2025</b> (<a href="https://www.phys.uniroma1.it/sites/default/files/allegati/orariolezioni/orario_s1_2526-v19.html#T1"   target="_blank">Orario Lezioni Dipartimento</a>,)</p>
       <ul>
          <li>Lezione, Mercoledi` 8-10,  Aula Cabibbo, Edificio Fermi (CU033)</li>
          <li>Lezione, Venerdi`   10-11, Aula Cabibbo, Edificio Fermi (CU033)</li>
-         <li>Esercitazione Sessione 1, Giovedi`  9-12, Laboratorio Calcolo, Piano 2, Edificio Fermi (CU033)</li>
-         <li>Esercitazione Sessione 2, Venerdi`  12-15, Laboratorio Calcolo, Piano 2, Edificio Fermi (CU033)</li>
+         <li>Esercitazione Sessione 1, Lunedì  16-19, Laboratorio Calcolo, Piano 2, Edificio Fermi (CU033)</li>
+         <li>Esercitazione Sessione 2, Giovedì  9-12, Laboratorio Calcolo, Piano 2, Edificio Fermi (CU033)</li>
+         <li>Esercitazione Sessione 3, Venerdì  12-15, Laboratorio Calcolo, Piano 2, Edificio Fermi (CU033)</li>
       </ul>
    </div>
 
    <h2  class="title">Avvisi</h2>
    <div class="entry">
 
-   Tutte le comunicazioni saranno inviate esclusivamente tramite google classroom (<a href="https://classroom.google.com/c/NzEzMTgxOTMwNTg5?cjc=fmvbxzv"  target="_blank">codice: fmvbxzv</a>).
+   Tutte le comunicazioni saranno inviate esclusivamente tramite google classroom (<a href="https://classroom.google.com/c/MjM0MjgyNTMzMTNa?cjc=rji6wvwa"  target="_blank">codice: rji6wvwa</a>).
    E` necessario registrarsi per ricevere avvisi e materiale aggiuntivo relativo al corso.
   </div>
 
-   
+
            <h2 class="title">Prove di Esame</h2>
            <div class="entry">
 
@@ -78,12 +79,15 @@
 <ul>
 
 <li>
-Lezione 01, 2024-09-25: Introduzione. Organizzazione del corso e delle esercitazioni. Informazioni pratiche.
+Lezione 01, 2025-10-01: Introduzione. Organizzazione del corso e delle esercitazioni. Informazioni pratiche.
+ Sistemi di numerazione. Base binaria, decimale, ed esadecimale. Rappresentazione dei numeri negativi.
 (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/01-Introduzione.pdf">pdf</a>)
 </li>
 
+<?php
+/*
 <li>
-Lezione 02, 2024-09-27:  Sistemi di numerazione. Base binaria, decimale, ed esadecimale.
+Lezione 02, 2024-09-27:
 (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/02-lezione.pdf">lavagna</a>)
 </li>
 
@@ -336,6 +340,9 @@ Esercitazione 10, 2024-12-19/20: esercitazione su tutti gli argomenti del corso.
 Esercitazione 11 valutata, 2025-01-09/10:
 (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/esercitazione-11-a.pdf">testo a</a>)
 (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/esercitazione-11-b.pdf">testo b</a>)
+
+*/
+?>
 
 </li>
 
