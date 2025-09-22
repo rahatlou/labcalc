@@ -81,11 +81,13 @@
 <li>
 Lezione 01, 2025-10-01: Introduzione. Organizzazione del corso e delle esercitazioni. Informazioni pratiche.
  Sistemi di numerazione. Base binaria, decimale, ed esadecimale. Rappresentazione dei numeri negativi.
-(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/01-Introduzione.pdf">pdf</a>)
 </li>
 
 <?php
 /*
+
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/01-Introduzione.pdf"></a>)
+
 <li>
 Lezione 02, 2024-09-27:
 (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/02-lezione.pdf">lavagna</a>)
