@@ -22,6 +22,10 @@
 
    Tutte le comunicazioni saranno inviate esclusivamente tramite google classroom (<a href="https://classroom.google.com/c/MjM0MjgyNTMzMTNa?cjc=rji6wvwa"  target="_blank">codice: rji6wvwa</a>).
    E` necessario registrarsi per ricevere avvisi e materiale aggiuntivo relativo al corso.
+
+   <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdK52bX_-V8YSt78msVly56Loa2_pilK6epxDoTBN0G7sPTDQ/viewform?usp=dialog"  target="_blank">Censimento per formazione gruppi di esercitazione</a>: coloro che intendono frequentare
+      il corso sono pregati di riempire questo modulo di censimento
+     entro  le ore 12 di Venerdi 3 ottobre</p>
   </div>
 
 
