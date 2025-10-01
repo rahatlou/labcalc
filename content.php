@@ -85,7 +85,7 @@
 
 <li>
 Lezione 01, 2025-10-01: Introduzione. Organizzazione del corso e delle esercitazioni. Informazioni pratiche.
-(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/Introduzione.pdf"></a>)
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/Introduzione.pdf">pdf</a>)
  Sistemi di numerazione. Base binaria, decimale, ed esadecimale.
  (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/2025-10-01-lezione.pdf">lavagna</a>)
 </li>
