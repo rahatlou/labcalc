@@ -90,13 +90,21 @@ Lezione 01, 2025-10-01: Introduzione. Organizzazione del corso e delle esercitaz
  (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/2025-10-01-lezione.pdf">lavagna</a>)
 </li>
 
+<li>
+Lezione 02, 2024-10-03:  Rappresentazione di numeri interi negativi. Numeri razionali.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/2025-10-03-lezione.pdf">lavagna</a>)
+</li>
+
+<li>
+Lezione 03, 2024-10-08:  Singola e doppia precisione.  Il problema di approssimazione in virgola mobile.
+Rappresentazione di caratteri e codice ASCII. Immagini digitali.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/2025-10-08-lezione.pdf"></a>)
+</li>
+
+
 <?php
 /*
 
-<li>
-Lezione 03, 2024-10-02:  Rappresentazione di numeri interi negativi. Numeri razionali.
-(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/03-lezione.pdf">lavagna</a>)
-</li>
 
 <li>
 Lezione 04, 2024-10-04:  Singola e doppia precisione.  Il problema di approssimazione in virgola mobile.
