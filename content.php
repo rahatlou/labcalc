@@ -91,36 +91,31 @@ Lezione 01, 2025-10-01: Introduzione. Organizzazione del corso e delle esercitaz
 </li>
 
 <li>
-Lezione 02, 2024-10-03:  Rappresentazione di numeri interi negativi. Numeri razionali.
+Lezione 02, 2025-10-03:  Rappresentazione di numeri interi negativi. Numeri razionali.
 (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/2025-10-03-lezione.pdf">lavagna</a>)
 </li>
 
 <li>
-Lezione 03, 2024-10-08:  Singola e doppia precisione.  Il problema di approssimazione in virgola mobile.
+Lezione 03, 2025-10-08:  Singola e doppia precisione.  Il problema di approssimazione in virgola mobile.
 Rappresentazione di caratteri e codice ASCII. Immagini digitali.
-(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/2025-10-08-lezione.pdf"></a>)
+Calcolatori e linguaggio macchina. Indirizzi di memoria e istruzioni.
+Esempio di  calcolatore semplice con 8 bit.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/2025-10-08-lezione.pdf">lavagna</a>)
 </li>
+
+<li>
+Lezione 04, 2025-10-10:
+Calcolatori e linguaggio macchina.
+Linguaggi di programmazione di alto livello. Compilatori.
+Elementi base del C. Compilazione e linking dei programmi.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/2025-10-10-lezione.pdf"></a>)
+</li>
+
 
 
 <?php
 /*
 
-
-<li>
-Lezione 04, 2024-10-04:  Singola e doppia precisione.  Il problema di approssimazione in virgola mobile.
-Rappresentazione di caratteri e codice ASCII. Immagini digitali.
-(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/04-lezione.pdf">lavagna</a>)
-</li>
-
-
-<li>
-Lezione 05, 2024-10-09:
-Calcolatori e linguaggio macchina.
-Indirizzi di memoria e istruzioni.
-Esempio di  calcolatore semplice con 8 bit.
-Linguaggi di programmazione. Compilatori.
-(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/05-lezione.pdf">lavagna</a>)
-</li>
 
 
 <li>
