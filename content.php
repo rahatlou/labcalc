@@ -77,11 +77,30 @@
            </div> <!-- entry -->
 
 
+<h2 class="title">Esercitazioni</h2>
+<div class="entry">
+
+<!-- begin lectures -->
+<ul>
+
+  <li>
+  Esercitazione 01, 2025-10-13/16/17: Nozioni base di linux.
+  (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/linux-abc.pdf">pdf</a>)
+  Uso di editor di testo e il primo programma in C.
+  (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/esercitazione-01.pdf"></a>)
+
+  </li>
+
+</ul>
+</div> <!-- entry -->
+
+
            <h2 class="title">Materiale del Corso</h2>
            <div class="entry">
 
 <!-- begin lectures -->
 <ul>
+
 
 <li>
 Lezione 01, 2025-10-01: Introduzione. Organizzazione del corso e delle esercitazioni. Informazioni pratiche.
@@ -108,7 +127,20 @@ Lezione 04, 2025-10-10:
 Calcolatori e linguaggio macchina.
 Linguaggi di programmazione di alto livello. Compilatori.
 Elementi base del C. Compilazione e linking dei programmi.
-(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/2025-10-10-lezione.pdf"></a>)
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/2025-10-10-lezione.pdf">lavagna</a>)
+</li>
+
+<li>
+Lezione 05, 2025-10-15:
+Elementi base del C. Variabili e tipi. La funzione main.
+Operatori matematici.  Operatori unari e binari.
+operatori &amp;&amp;, ||, &ge;, &le; .
+Priorita` degli operatori matematici.
+printf e scanf per input/output. Importanza dei descrittori in printf.
+uso della libreria matematica.
+header file e librerie.
+Istruzioni #include del precompilatore.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/2025-10-15-lezione.pdf"></a>)
 </li>
 
 
@@ -121,12 +153,6 @@ Elementi base del C. Compilazione e linking dei programmi.
 <li>
 Esercitazione 01, 2024-10-10/11: Nozioni base di linux per le esercitazioni.
 (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/esercitazione-01.pdf">pdf</a>)
-</li>
-
-<li>
-Lezione 06, 2024-10-11: Elementi base del C. Compilazione e linking dei programmi. La funzione main.
-Variabili e tipi.
-(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/06-lezione.pdf">lavagna</a>)
 </li>
 
 
