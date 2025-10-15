@@ -134,53 +134,40 @@ Elementi base del C. Compilazione e linking dei programmi.
 Lezione 05, 2025-10-15:
 Elementi base del C. Variabili e tipi. La funzione main.
 Operatori matematici.  Operatori unari e binari.
-operatori &amp;&amp;, ||, &ge;, &le; .
-Priorita` degli operatori matematici.
 printf e scanf per input/output. Importanza dei descrittori in printf.
 uso della libreria matematica.
 header file e librerie.
 Istruzioni #include del precompilatore.
-(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/2025-10-15-lezione.pdf"></a>)
+Descrittoi in input ed output. Esempio di conversione da gradi in radianti.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/2025-10-15-lezione.pdf">lavagna</a>)
 </li>
+
+<li>
+Lezione 06, 2025-10-16:
+Esempio con descrittori.
+Priorita` e priorita` degli operatori matematici.
+Funzioni della libreria matematica.
+Costanti con il precompilatore
+Diagramma di flusso del programma. Decisioni:
+costrutto <em>if/else</em> e <em>if/else if/else</em>.
+Iterazioni: cicli <em>do/while</em>, <em>while</em>. ciclo <em>for</em>.
+Variabili ausiliari di appoggio e contatori.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/2025-10-16-lezione.pdf"></a>)
+</li>
+
+
+<li>
+Lezione 07, 2025-10-17:
+Iterazioni: cicli <em>do/while</em>, <em>while</em>. ciclo <em>for</em>.
+Calcolo del fattoriale. Cicli ricorsivi: la serie di Fibonacci
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/2025-10-17-lezione.pdf"></a>)
+</li>
+
 
 
 
 <?php
 /*
-
-
-
-<li>
-Esercitazione 01, 2024-10-10/11: Nozioni base di linux per le esercitazioni.
-(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/esercitazione-01.pdf">pdf</a>)
-</li>
-
-
-
-<li>
-Lezione 07, 2024-10-16:
-Operatori matematici.  Operatori unari e binari.
-operatori &amp;&amp;, ||, &ge;, &le; .
-Priorita` degli operatori matematici.
-printf e scanf per input/output.Importanza dei descrittori in printf.
-uso della libreria matematica.
-header file e librerie.
-Istruzioni #include del precompilatore.
-(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/07-lezione.pdf">lavagna</a>)
-</li>
-
-<li>
-Esercitazione 02, 2024-10-17/18: Esercitazione con operatori matematici e input/output.
-(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/esercitazione-02.pdf">pdf</a>)
-</li>
-
-
-<li>
-Lezione 08, 2024-10-18:
-Uso di <em>#define</em>. Descrittori.
-Diagramma di flusso.
-(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/08-lezione.pdf">lavagna</a>)
-</li>
 
 
 
