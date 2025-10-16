@@ -145,12 +145,16 @@ Descrittoi in input ed output. Esempio di conversione da gradi in radianti.
 <li>
 Lezione 06, 2025-10-16:
 Esempio con descrittori.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/descrittore.c">descrittore.c</a>)
+
 Priorita` e priorita` degli operatori matematici.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/priorita.c">priorita.c</a>)
+
 Funzioni della libreria matematica.
-Costanti con il precompilatore
 Diagramma di flusso del programma. Decisioni:
 costrutto <em>if/else</em> e <em>if/else if/else</em>.
-(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/2025-10-16-lezione.pdf"></a>)
+Iterazioni: cicli <em>do/while</em>. contatore nel ciclo.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/2025-10-16-lezione.pdf">lavagna</a>)
 </li>
 
 
@@ -158,7 +162,8 @@ costrutto <em>if/else</em> e <em>if/else if/else</em>.
 Lezione 07, 2025-10-17:
 Iterazioni: cicli <em>do/while</em>, <em>while</em>. ciclo <em>for</em>.
 Variabili ausiliari di appoggio e contatori.
-Calcolo del fattoriale. Cicli ricorsivi: la serie di Fibonacci
+Calcolo del fattoriale. Cicli ricorsivi: la serie di Fibonacci.
+Costanti con il precompilatore
 (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/2025-10-17-lezione.pdf"></a>)
 </li>
 
