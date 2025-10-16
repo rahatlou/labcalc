@@ -150,8 +150,6 @@ Funzioni della libreria matematica.
 Costanti con il precompilatore
 Diagramma di flusso del programma. Decisioni:
 costrutto <em>if/else</em> e <em>if/else if/else</em>.
-Iterazioni: cicli <em>do/while</em>, <em>while</em>. ciclo <em>for</em>.
-Variabili ausiliari di appoggio e contatori.
 (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/2025-10-16-lezione.pdf"></a>)
 </li>
 
@@ -159,6 +157,7 @@ Variabili ausiliari di appoggio e contatori.
 <li>
 Lezione 07, 2025-10-17:
 Iterazioni: cicli <em>do/while</em>, <em>while</em>. ciclo <em>for</em>.
+Variabili ausiliari di appoggio e contatori.
 Calcolo del fattoriale. Cicli ricorsivi: la serie di Fibonacci
 (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/2025-10-17-lezione.pdf"></a>)
 </li>
@@ -170,21 +169,6 @@ Calcolo del fattoriale. Cicli ricorsivi: la serie di Fibonacci
 /*
 
 
-
-<li>
-Lezione 09, 2024-10-23:
-Diagramma di flusso del programma. Decisioni:
-costrutto <em>if/else</em> e <em>if/else if/else</em>.
-Iterazioni: cicli <em>do/while</em>, <em>while</em>. ciclo <em>for</em>.
-Variabili ausiliari di appoggio e contatori.
-(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/09-lezione.pdf">pdf</a>)
-</li>
-
-
-<li>
-Esercitazione 03, 2024-10-24/25: Esercitazione con input/output e funzioni matematiche.
-(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/esercitazione-03.pdf">pdf</a>)
-</li>
 
 <li>
 Lezione 10, 2024-10-25:
