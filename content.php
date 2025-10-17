@@ -87,9 +87,14 @@
   Esercitazione 01, 2025-10-13/16/17: Nozioni base di linux.
   (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/linux-abc.pdf">pdf</a>)
   Uso di editor di testo e il primo programma in C.
-  (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/esercitazione-01.pdf"></a>)
-
+  (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/esercitazione-01.pdf">pdf</a>)
   </li>
+
+  <li>
+  Esercitazione 02, 2025-10-10/23/24: uso di libreria matematica, costrutto if/else e do/while.
+  (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/esercitazione-02.pdf"></a>)
+  </li>
+
 
 </ul>
 </div> <!-- entry -->
@@ -161,9 +166,12 @@ Iterazioni: cicli <em>do/while</em>. contatore nel ciclo.
 <li>
 Lezione 07, 2025-10-17:
 Iterazioni: cicli <em>do/while</em>, <em>while</em>. ciclo <em>for</em>.
+Esempio del ciclo <em>while</em> per caduta del grave. Costanti con il precompilatore.
+Calcolo del fattoriale con il ciclo <em>for</em>.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/fattoriale.c">fattoriale.c</a>)
+Cicli ricorsivi: la serie di Fibonacci.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/fiboLlu.c">fiboLlu.c</a>)
 Variabili ausiliari di appoggio e contatori.
-Calcolo del fattoriale. Cicli ricorsivi: la serie di Fibonacci.
-Costanti con il precompilatore
 (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/2025-10-17-lezione.pdf"></a>)
 </li>
 
