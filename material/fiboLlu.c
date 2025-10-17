@@ -5,26 +5,28 @@
 
 int main() {
 
-  unsigned long long int a1, a2, an;
+  unsigned long long int a0, a1, an;
   int i, n;
 
+  a0=0;
   a1=1;
-  a2=1;
 
   printf("calcolo della serie di Fibonacci\n");
 
   do{
-    printf("Quale elemento F_n della serie vuoi calcolare (0 < n < 100)? ");
+    printf("Quanti elementi della serie vuoi calcolare (0 < n < 100)? ");
     scanf("%d", &n);
   } while( n<0 || n>=100 );
 
-  for(i=3; i<n+1; i++) {
+  printf("a_1 : %llu\n", a1);
 
-    an = a1 + a2;
+  for(i=2; i<n+1; i++) {
+
+    an = a0 + a1;
     printf("a_%-2d: %llu\n", i, an);
 
-    a1 = a2;
-    a2 = an;
+    a0 = a1;
+    a1 = an;
 
   }
 
