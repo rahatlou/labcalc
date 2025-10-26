@@ -91,9 +91,19 @@
   </li>
 
   <li>
-  Esercitazione 02, 2025-10-10/23/24: uso di libreria matematica, costrutto if/else e do/while.
-  (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/esercitazione-02.pdf"></a>)
+  Esercitazione 02, 2025-10-20/23/24: uso di libreria matematica, costrutto if/else e do/while.
+  (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/esercitazione-02.pdf">pdf</a>)
+  esempio soluzione (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/gwave.c">gwave.c</a>)
+  esempio soluzione con controllo variabile input (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/gwavebis.c">gwavebis.c</a>)
+
   </li>
+
+  <li>
+  Esercitazione 03, 2025-10-27/30/31: uso del costrutto if/else e cicli do/while e for.
+  Prio esempio di grafica con python.
+  (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/esercitazione-03.pdf"></a>)
+  </li>
+
 
 
 </ul>
