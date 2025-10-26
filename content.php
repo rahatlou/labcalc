@@ -100,7 +100,7 @@
 
   <li>
   Esercitazione 03, 2025-10-27/30/31: uso del costrutto if/else e cicli do/while e for.
-  Prio esempio di grafica con python.
+  Primo esempio di grafica con python.
   (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/esercitazione-03.pdf"></a>)
   </li>
 
