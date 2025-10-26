@@ -182,7 +182,7 @@ Calcolo del fattoriale con il ciclo <em>for</em>.
 Cicli ricorsivi: la serie di Fibonacci.
 (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/fiboLlu.c">fiboLlu.c</a>)
 Variabili ausiliari di appoggio e contatori.
-(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/2025-10-17-lezione.pdf"></a>)
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/2025-10-17-lezione.pdf">lavagna</a>)
 </li>
 
 
