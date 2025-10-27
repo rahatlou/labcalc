@@ -48,8 +48,8 @@
 
              <p>
              È possibile sostenere l'esame in tutti gli appelli. Gli appelli straordinari di maggio e novembre sono riservati alle categoria indicate
-             nell'<a href="https://www.uniroma1.it/it/content/esami-di-profitto-idoneita-tirocini-altre-attivita-formative">art. 21</a> del
-             <a href="https://www.uniroma1.it/it/pagina/regolamento-studenti">regolamento d'ateneo</a>.
+             nell'<a href="https://www.uniroma1.it/it/content/esami-di-profitto-idoneita-tirocini-altre-attivita-formative"  target="_blank">art. 21</a> del
+             <a href="https://www.uniroma1.it/it/pagina/regolamento-studenti"  target="_blank">regolamento d'ateneo</a>.
            </p>
 
              <p>
