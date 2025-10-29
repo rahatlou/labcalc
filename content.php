@@ -185,7 +185,16 @@ Variabili ausiliari di appoggio e contatori.
 (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/2025-10-17-lezione.pdf">lavagna</a>)
 </li>
 
-
+<li>
+Lezione 08, 2025-10-29:
+Metodo di bisezione per trovare gli zeri di una funzione
+ (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/bisezione.c">bisezione.c</a>).
+Operatore % per calcolo resto divisione tra interi.
+Determinare se un numero è primo (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/primi1.c">primi1.c</a>).
+Ricerca dei numeri primi (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/primi100.c">primi100.c</a>).
+Conversione da base 10 in base 2 (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/binaryErr.c">binaryErr.c</a>).
+Dichiarazione di array in C: tipo e lunghezza. Accesso agli elementi di array con operatore []. Limiti per indici di array.
+</li>
 
 
 <?php
