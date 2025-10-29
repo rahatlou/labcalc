@@ -199,7 +199,7 @@ Array statici in C: tipo e lunghezza. Accesso agli elementi di array con operato
 
 <li>
 Lezione 09, 2025-10-31:
-Array statici in C: lunghezza e dimensione. Indice di un array. Operatore []. Array uni- e multi-dimensionali.
+Array statici in C: lunghezza e dimensione. Array uni- e multi-dimensionali.
 Conversion in binario usando array.
 
 (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/2025-10-31-lezione.pdf"></a>)
