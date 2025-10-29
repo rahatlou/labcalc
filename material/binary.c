@@ -15,6 +15,8 @@ int main() {
     scanf("%d", &in);
   } while( in <= 0 || in >= pow(2, NBIT) );
 
+  int in10 = in;
+  
   do {
 
    resto = in % 2;
@@ -26,14 +28,15 @@ int main() {
 
   } while (in != 0);
 
-  printf("base 10: %d \t base 2: ", in);
-  for(int i = NBIT-1; i>= 0; i--) {
+  printf("base 10: %d \t base 2: ", in10);
+  for(int i = cifra-1; i>= 0; i--) {
     printf("%1d", binary[i]);
 
   }
   printf("\n");
   
 } 
+
 
 
 
