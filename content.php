@@ -193,21 +193,23 @@ Operatore % per calcolo resto divisione tra interi.
 Determinare se un numero è primo (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/primi1.c">primi1.c</a>).
 Ricerca dei numeri primi (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/primi100.c">primi100.c</a>).
 Conversione da base 10 in base 2 (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/binaryErr.c">binaryErr.c</a>).
-Dichiarazione di array in C: tipo e lunghezza. Accesso agli elementi di array con operatore []. Limiti per indici di array.
+Array statici in C: tipo e lunghezza. Accesso agli elementi di array con operatore []. Limiti per indici di array.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/2025-10-29-lezione.pdf">lavagna</a>)
 </li>
+
+<li>
+Lezione 09, 2025-10-31:
+Array statici in C: lunghezza e dimensione. Indice di un array. Operatore []. Array uni- e multi-dimensionali.
+Conversion in binario usando array.
+
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/2025-10-31-lezione.pdf"></a>)
+</li>
+
 
 
 <?php
 /*
 
-
-
-<li>
-Lezione 10, 2024-10-25:
-ciclo <em>for</em>. calcolo del fattoriale. Cicli ricorsivi: la serie di Fibonacci. Metodo di bisezione
-per trovare gli zeri di una funzione (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/bisezione.c">bisezione.c</a>).
-(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/10-lezione.pdf">lavagna</a>)
-</li>
 
 
 <li>
