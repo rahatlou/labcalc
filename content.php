@@ -100,10 +100,19 @@
 
   <li>
   Esercitazione 03, 2025-10-27/30/31: uso del costrutto if/else e cicli do/while e for.
-  Primo esempio di grafica con python.
-  (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/esercitazione-03.pdf"></a>)
+  Moto del proiettile ed esempio di grafica con python.
+  (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/esercitazione-03.pdf">pdf</a>)
+  esempio soluzione (
+  <a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/gittata.c">gittata.c</a>,
+  <a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/bersaglio.c">bersaglio.c</a>,
+  <a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/grafica.py">grafica.py</a>
+)
   </li>
 
+  <li>
+  Esercitazione 04, 2025-11-03/06/07: esercitazione su metodi ricorsivi e cicli e grafica con python.
+  (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/esercitazione-04.pdf"></a>)
+  </li>
 
 
 </ul>
@@ -200,9 +209,11 @@ Array statici in C: tipo e lunghezza. Accesso agli elementi di array con operato
 <li>
 Lezione 09, 2025-10-31:
 Array statici in C: lunghezza e dimensione. Array uni- e multi-dimensionali.
-Conversion in binario usando array.
-
-(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/2025-10-31-lezione.pdf"></a>)
+Conversion in binario usando array
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/binary.c">binary.c</a>).
+Esempio di stampa di vettori e matrici con ciclo for; prodotto scalare tra vdettori e prodotto tra matrici e vettori
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/array2.c">array2.c</a>).
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/2025-10-31-lezione.pdf">lavagna</a>)
 </li>
 
 
