@@ -1,9 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 
-
 #define NBIT 20
-
 
 int main() {
 
