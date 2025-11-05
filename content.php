@@ -216,7 +216,17 @@ Esempio di stampa di vettori e matrici con ciclo for; prodotto scalare tra vdett
 (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/2025-10-31-lezione.pdf">lavagna</a>)
 </li>
 
+<li>
+Lezione 10, 2025-11-05:
+Input ed output di elementi di array
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/array1.c">array1.c</a>).
+Generaziune numeri pseudo-casuali interi e razionali in un intervallo [a,b].
+Funzioni <em>srand48()</em>, <em>lrand48()</em>, e <em>drand48()</em>.
+Generazione non-uniforme di numeri in un intervallo [a,b]. Pseudo-esperimenti con il lancio della moneta.
+Uso di array di contatori. Esempio di cicli annidati.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/2025-11-05-lezione.pdf">lavagna</a>)
 
+</li>
 
 <?php
 /*
@@ -224,9 +234,6 @@ Esempio di stampa di vettori e matrici con ciclo for; prodotto scalare tra vdett
 
 
 <li>
-Lezione 11, 2024-10-30:
-Metodo di bisezione per gli zeri di una funzione. cicli iterativi.
-Revisione degli errori comuni nelle scorse esercitazioni.
 Introduzione a python: output formattato di variabili  e libreria matematica.
 Python3 dalla riga di comando e uso di
 <a href="https://colab.research.google.com" target=blank_>colab</a> nel browser.
@@ -234,28 +241,6 @@ Python3 dalla riga di comando e uso di
 </li>
 
 
-<li>
-Lezione 12, 2024-11-06:
-Array statici in C: lunghezza e dimensione. Indice di un array. Operatore []. Array uni- e multi-dimensionali.
-Cicli annidati per operazioni su matrici e vettori. Inzializzazione delle variabili di appoggio nei cicli annidati.
-Calcolo matriciale e operazioni vettoriali usando array statici. Input e output formattato di elementi di array bidmensionali.
-
-
-(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/2-lezione.pdf">lavagna</a>)
-</li>
-
-
-<li>
-Esercitazione 04, 2024-11-07/08: Moto del proiettile e grafica con python.
-(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/esercitazione-04.pdf">pdf</a>)
-</li>
-
-<li>
-Lezione 13, 2024-11-08:
-Generaziune numeri pseudo-casuali interi e razionali in un intervallo [a,b]. Funzioni <em>srand48()</em> e <em>lrand48()</em>.
-Esempio di simulazione di un dado a N facce. Uso di array di contatori.
-(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/13-lezione.pdf">lavagna</a>)
-</li>
 
 <li>
 Lezione 14, 2024-11-13:
