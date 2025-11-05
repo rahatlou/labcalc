@@ -21,7 +21,9 @@ int main() {
 
    printf("stai cercando il numero %d\n", target);
 
+   
    do{ 
+     // elemento a meta`
      middle = (start+end)/2;
 
      printf("start: %d \t middle:%d \t end: %d\n", start, middle, end);
@@ -43,4 +45,4 @@ int main() {
    }
 
   
-}
+} // fine main
