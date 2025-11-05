@@ -222,7 +222,8 @@ Input ed output di elementi di array
 (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/array1.c">array1.c</a>).
 Generaziune numeri pseudo-casuali interi e razionali in un intervallo [a,b].
 Funzioni <em>srand48()</em>, <em>lrand48()</em>, e <em>drand48()</em>.
-Generazione non-uniforme di numeri in un intervallo [a,b]. Pseudo-esperimenti con il lancio della moneta.
+Generazione non-uniforme di numeri in un intervallo [a,b]. Pseudo-esperimenti con il lancio della moneta
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/monete.c">monete.c</a>).
 Uso di array di contatori. Esempio di cicli annidati.
 (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/2025-11-05-lezione.pdf">lavagna</a>)
 
