@@ -30,5 +30,6 @@ int main() {
 
   } // ciclo nexp
 
+} // fine main
 
-}
+
