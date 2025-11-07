@@ -102,16 +102,18 @@
   Esercitazione 03, 2025-10-27/30/31: uso del costrutto if/else e cicli do/while e for.
   Moto del proiettile ed esempio di grafica con python.
   (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/esercitazione-03.pdf">pdf</a>)
-  esempio soluzione (
-  <a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/gittata.c">gittata.c</a>,
+  esempio soluzione (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/gittata.c">gittata.c</a>,
   <a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/bersaglio.c">bersaglio.c</a>,
-  <a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/grafica.py">grafica.py</a>
-)
+  <a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/grafica.py">grafica.py</a>)
   </li>
 
   <li>
   Esercitazione 04, 2025-11-03/06/07: esercitazione su metodi ricorsivi e cicli e grafica con python.
-  (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/esercitazione-04.pdf"></a>)
+  Metodo babilonese per il calcolo della radice quadrata.
+  (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/esercitazione-04.pdf">pdf</a>)
+  esempio soluzione (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/babilon-radice.c">babilon-radice.c</a>,
+  <a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/convergenza.py">convergenza.py</a>)
+
   </li>
 
 
@@ -228,6 +230,17 @@ Uso di array di contatori. Esempio di cicli annidati.
 (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/2025-11-05-lezione.pdf">lavagna</a>)
 
 </li>
+
+<li>
+Stringhe in C come array di char. I/O di stringhe. manipolazione con la funzione <em>sprintf()</em>.
+Il gioco di tris.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/strings1.c">strings1.c</a>,
+<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/strings2.c">strings2.c</a>).
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/2025-11-07-lezione.pdf">lavagna</a>)
+</li>
+
+
+
 
 <?php
 /*
