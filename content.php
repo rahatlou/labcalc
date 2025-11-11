@@ -239,6 +239,14 @@ Il gioco di tris.
 (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/2025-11-07-lezione.pdf">lavagna</a>)
 </li>
 
+<li>
+Lezione 11, 2025-11-12:
+Esempio di codice in python per la grafica in esercitazione 4
+(<a target=blank_ href="https://colab.research.google.com/drive/1RnwOVLqmJMGmBrmYI-SFeetcOVqdaPYH?usp=sharing">ipynb</a>).
+Introduzione a python: variabili, condizioni, cicli, array, e libreria matematica
+(<a target=blank_ href="https://colab.research.google.com/drive/1qUCsZ2zWkbALFQF49B3Q7NC3rIQMuyYt?usp=sharing">ipynb</a>).
+Scrittura su file in C. (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/file.c">file.c</a>)
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/2025-11-12-lezione.pdf"></a>)
 
 
 
