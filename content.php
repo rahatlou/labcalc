@@ -125,7 +125,28 @@
            <div class="entry">
 
 <!-- begin lectures -->
-<ul>
+<style>
+  .spaziosa li {
+    position: relative;
+    padding-bottom: 8px; /* spazio sopra la linea */
+    margin-bottom: 10px;  /* spazio tra gli elementi */
+  }
+
+  .spaziosa li::after {
+    content: "";
+    display: block;
+    height: 1px;
+    background-color: #ccc; /* colore della linea */
+    margin-top: 5px;        /* spazio dalla voce */
+  }
+
+  /* Rimuove la linea dopo l'ultimo elemento */
+  .spaziosa li:last-child::after {
+    display: none;
+  }
+</style>
+
+<ul class="spaziosa">
 
 
 <li>
@@ -242,61 +263,34 @@ Il gioco di tris.
 <li>
 Lezione 11, 2025-11-12:
 Esempio di codice in python per la grafica in esercitazione 4
-(<a target=blank_ href="https://colab.research.google.com/drive/1RnwOVLqmJMGmBrmYI-SFeetcOVqdaPYH?usp=sharing">ipynb</a>).
+(<a target=blank_ href="https://colab.research.google.com/drive/1RnwOVLqmJMGmBrmYI-SFeetcOVqdaPYH?usp=sharing">colab nb</a>).
 Introduzione a python: variabili, condizioni, cicli, array, e libreria matematica
-(<a target=blank_ href="https://colab.research.google.com/drive/1qUCsZ2zWkbALFQF49B3Q7NC3rIQMuyYt?usp=sharing">ipynb</a>).
-Scrittura su file in C. (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/file.c">file.c</a>).
-Puntatori.
-(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/2025-11-12-lezione.pdf"></a>)
+(<a target=blank_ href="https://colab.research.google.com/drive/1qUCsZ2zWkbALFQF49B3Q7NC3rIQMuyYt?usp=sharing">colab nb</a>).
+Scrittura su file in C. (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/fileOutput.c">fileOutput.c</a>).
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/2025-11-12-lezione.pdf">lavagna</a>)
+<b>NB:l'accesso a <a href="https://colab.research.google.com" target=blank_>colab</a> per visionare i notebook di python richiede l'uso delle credenziali uniroma1</b>
+</li>
 
-
+<li>
+Lezione 12, 2025-11-14:
+Puntatori in C. legame tra puntatori e array. accesso agli array 1D con il puntatore.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/2025-11-14-lezione.pdf"></a>)
+</li>
 
 <?php
 /*
 
 
-
-<li>
-Introduzione a python: output formattato di variabili  e libreria matematica.
-Python3 dalla riga di comando e uso di
-<a href="https://colab.research.google.com" target=blank_>colab</a> nel browser.
-(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/11-lezione.pdf">lavagna</a>)
-</li>
-
-
-
-<li>
-Lezione 14, 2024-11-13:
-Applicazioni di array: conversione di numeri in binario (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/binary.c">binary.c</a>).
 Algoritmo bubble sort per ordinamento di array di dati (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/bubble.c">bubble.c</a>).
 Ricerca binaria di elementi in un array ordinato (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/binsearch.c">binsearch.c</a>).
-(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/14-lezione.pdf">lavagna</a>)
-</li>
-
-<li>
-Lezione 15, 2024-11-15:
 Il gioco delle freccette e la stima del &pi; greco con i numeri casuali
 (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/pigreco.c">pigreco.c</a>).
-I/O di stringhe e manipolazione con la funzione <em>sprintf()</em>.
-(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/15-lezione.pdf">lavagna</a>)
-</li>
 
+ puntatori. legame tra puntatori e array. accesso agli array 1D tramite puntatore
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/pointer.c">pointer.c</a>).
 
-<li>
-Esercitazione 05, 2024-11-14/15: esercitazione su metodi ricorsivi e cicli e grafica con python.
-(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/esercitazione-05.pdf">pdf</a>)
-</li>
-
-<li>
-Lezione 16, 2024-11-20:
-stringhe in C come array di char. I/O di stringhe. manipolazione con la funzione <em>sprintf()</em>. (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/strings.c">strings.c</a>).
-Il gioco di tris. puntatori. legame tra puntatori e array. accesso agli array 1D tramite puntatore (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/pointer.c">pointer.c</a>).
 Input/output su file (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/fileIO.c">fileIO.c</a>).
-(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/16-lezione.pdf">lavagna</a>)
-</li>
 
-
-<li>
 Lezione 17, 2024-11-22:
 Uso di puntatori con array 2D (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/array2D.c">array2D.c</a>).
 Introduzione alle funzioni in C.
