@@ -266,6 +266,7 @@ Esempio di codice in python per la grafica in esercitazione 4
 (<a target=blank_ href="https://colab.research.google.com/drive/1RnwOVLqmJMGmBrmYI-SFeetcOVqdaPYH?usp=sharing">colab nb</a>).
 Introduzione a python: variabili, condizioni, cicli, array, e libreria matematica
 (<a target=blank_ href="https://colab.research.google.com/drive/1qUCsZ2zWkbALFQF49B3Q7NC3rIQMuyYt?usp=sharing">colab nb</a>).
+Breve introduzione a python e jupyter notebook (<a  target=blank_ href="https://github.com/rahatlou/CMP/tree/CMP2020/material/python.md">md</a>)
 Scrittura su file in C. (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/fileOutput.c">fileOutput.c</a>).
 (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/2025-11-12-lezione.pdf">lavagna</a>)
 <b>NB:l'accesso a <a href="https://colab.research.google.com" target=blank_>colab</a> per visionare i notebook di python richiede l'uso delle credenziali uniroma1</b>
