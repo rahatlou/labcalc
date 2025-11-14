@@ -276,8 +276,10 @@ Scrittura su file in C. (<a target=blank_ href="https://github.com/rahatlou/labc
 
 <li>
 Lezione 12, 2025-11-14:
-Puntatori in C. legame tra puntatori e array. accesso agli array 1D con il puntatore.
-(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/2025-11-14-lezione.pdf"></a>)
+Puntatori in C (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/pointer.c">pointer.c</a>).
+Relazione tra puntatori e array. accesso agli array 1D con il puntatore
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/pointerArray.c">pointerArray.c</a>).
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/2025-11-14-lezione.pdf">lavagna</a>)
 </li>
 
 <?php
