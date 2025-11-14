@@ -81,7 +81,7 @@
 <div class="entry">
 
 <!-- begin lectures -->
-<ul>
+<ul class="spaziosa">
 
   <li>
   Esercitazione 01, 2025-10-13/16/17: Nozioni base di linux.
@@ -113,7 +113,13 @@
   (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/esercitazione-04.pdf">pdf</a>)
   esempio soluzione (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/babilon-radice.c">babilon-radice.c</a>,
   <a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/convergenza.py">convergenza.py</a>)
+  </li>
 
+  <li>
+  Esercitazione 05, 2025-11-10/13/14: Stima di &pi; con i numeri casuali. Grafici ed istogramma con python.
+  (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/esercitazione-05.pdf">pdf</a>)
+  esempio soluzione (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/buffon.c">buffon.c</a>,
+  <a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/pigreco.py">pigreco.py</a>)
   </li>
 
 
@@ -253,6 +259,7 @@ Uso di array di contatori. Esempio di cicli annidati.
 </li>
 
 <li>
+Lezione 11, 2025-11-07:
 Stringhe in C come array di char. I/O di stringhe. manipolazione con la funzione <em>sprintf()</em>.
 Il gioco di tris.
 (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/strings1.c">strings1.c</a>,
@@ -261,7 +268,7 @@ Il gioco di tris.
 </li>
 
 <li>
-Lezione 11, 2025-11-12:
+Lezione 12, 2025-11-12:
 Esempio di codice in python per la grafica in esercitazione 4
 (<a target=blank_ href="https://colab.research.google.com/drive/1RnwOVLqmJMGmBrmYI-SFeetcOVqdaPYH?usp=sharing">colab nb</a>,
 <a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/python_matplotlib.pdf">pdf</a>).
@@ -275,12 +282,21 @@ Scrittura su file in C. (<a target=blank_ href="https://github.com/rahatlou/labc
 </li>
 
 <li>
-Lezione 12, 2025-11-14:
+Lezione 13, 2025-11-14:
 Puntatori in C (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/pointer.c">pointer.c</a>).
 Relazione tra puntatori e array. accesso agli array 1D con il puntatore
 (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/pointerArray.c">pointerArray.c</a>).
 (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/2025-11-14-lezione.pdf">lavagna</a>)
 </li>
+
+<li>
+Lezione 14, 2025-11-19:
+Uso di puntatori con array 2D (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/array2D.c">array2D.c</a>).
+Algoritmo bubble sort per ordinamento di array di dati (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/bubble.c">bubble.c</a>).
+Ricerca binaria di elementi in un array ordinato (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/binsearch.c">binsearch.c</a>).
+</li>
+
+
 
 <?php
 /*
