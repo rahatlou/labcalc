@@ -11,6 +11,7 @@ int main() {
    int i, j, temp;
 
    int end= LEN-1, start=0, middle;
+
    int target;
 
    target = 7;
@@ -22,17 +23,17 @@ int main() {
    // variabile di appoggio
    int found = 0;
    do{ 
-     // elemento a meta`
+     // indice elemento in mezzo
      middle = (start+end)/2;
 
      printf("start: %d \t middle:%d \t end: %d\n", start, middle, end);
 
-     if(data[middle] == target) {
+     if(*(data+middle) == target) {
        found =1;
-
-     } else if(data[middle] < target) {
+       
+     } else if(*(data+middle) < target) {
        start = middle +1;
-
+       
      } else {
        end = middle -1;
      }
@@ -44,5 +45,5 @@ int main() {
    } else {
      printf("data non contiene il valore %d\n", target);
    }
-
+  
 } // fine main
