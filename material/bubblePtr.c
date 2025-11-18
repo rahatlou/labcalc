@@ -7,14 +7,12 @@
 int main() {
 
    int data[LEN] = {9, 3, 4 , 1 };
-
    int i, j, temp;
 
    //stampa array
    printf("pre-ordinamento data = { ");
    for(i=0; i<LEN; i++) printf("%d ", *(data+i));
    printf("}\n\n");
-
    
    // ciclo i sugli elementi dall'inizio
    for(i=0; i<LEN; i++) { 
@@ -30,18 +28,14 @@ int main() {
 	 temp = *(data+j);
 	 *(data+j) = *(data+j-1);
 	 *(data+j-1) = temp;
-       } // fine scambio 
-       
+       } // fine scambio        
      }  // ciclo j sugli elementi successivi a i
-     
    } // ciclo i su tutti gli elementi
 
    //stampa array
    printf("dopo ordinamento data = { ");
    for(i=0; i<LEN; i++) printf("%d ", *(data+i));
    printf("}\n\n");
-
-
    
 } // fine main
 

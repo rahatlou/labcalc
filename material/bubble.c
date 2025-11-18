@@ -14,7 +14,6 @@ int main() {
    printf("pre-ordinamento data = { ");
    for(i=0; i<LEN; i++) printf("%d ", data[i]);
    printf("}\n\n");
-
    
    for(i=0; i<LEN; i++) {
      for(j=LEN-1; j>i; j--) {
@@ -37,8 +36,6 @@ int main() {
    printf("dopo ordinamento data = { ");
    for(i=0; i<LEN; i++) printf("%d ", data[i]);
    printf("}\n\n");
-
-
    
 } // fine main
 
