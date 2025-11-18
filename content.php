@@ -291,9 +291,14 @@ Relazione tra puntatori e array. accesso agli array 1D con il puntatore
 
 <li>
 Lezione 14, 2025-11-19:
+Algoritmo bubble sort per ordinamento di array di dati (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/bubble.c">bubble.c</a>,
+<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/bubblePtr.c">bubblePtr.c</a>).
+Ricerca binaria di elementi in un array ordinato
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/binsearch.c">binsearch.c</a>,
+<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/binsearchPtr.c">binsearchPtr.c</a>).
 Uso di puntatori con array 2D (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/array2D.c">array2D.c</a>).
-Algoritmo bubble sort per ordinamento di array di dati (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/bubble.c">bubble.c</a>).
-Ricerca binaria di elementi in un array ordinato (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/binsearch.c">binsearch.c</a>).
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/2025-11-19-lezione.pdf"></a>)
+
 </li>
 
 
@@ -307,8 +312,6 @@ Ricerca binaria di elementi in un array ordinato (<a target=blank_ href="https:/
 Il gioco delle freccette e la stima del &pi; greco con i numeri casuali
 (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/pigreco.c">pigreco.c</a>).
 
- puntatori. legame tra puntatori e array. accesso agli array 1D tramite puntatore
-(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/pointer.c">pointer.c</a>).
 
 Input/output su file (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/fileIO.c">fileIO.c</a>).
 
