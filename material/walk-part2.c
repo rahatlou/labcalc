@@ -42,6 +42,17 @@ int main() {
   seed = time(0);
   srand48(seed);
 
+  // apertura file di output
+  FILE* fp;
+  fp = fopen("distfin.txt", "w");
+  
+  // esci se non posso creare il file
+  if(fp==NULL) {
+    printf("errore apertura file... exit\n");
+    exit(-1);
+  }
+  
+  
   // ciclo per variare nSteps
   for(nSteps = 2; nSteps<N_STEPS_MAX; nSteps *=2){ 
 
@@ -89,8 +100,10 @@ int main() {
     finalPosMean /= N_SIMUL;
 
     printf("nsteps: %4d \t Average max dist: %.1f\n", nSteps, finalPosMean);
+    fprintf(fp, "%4d \t %.1f\n", nSteps, finalPosMean);
 
   } // fine ciclo nSteps 
 
+  fclose(fp);
 
 } // end of main

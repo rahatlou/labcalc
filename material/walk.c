@@ -40,12 +40,24 @@ int main() {
   // al massimo ci puo` passare NSTEP/2 volte
   int nZeroCrossings[N_STEPS_MAX/2] = {0};         
 
-  /* conta il numero di volte nel quale la simulazione termina in posizione: -N_STEPS_MAX, -N_STEPS_MAX+2, ... +N_STEPS_MAX
-  ad esempio -20, -18, -16, .... +16, +18, +20 con N_STEPS_MAX = 20) */
+  /* conta il numero di volte nel quale la simulazione termina in posizione: 
+    -N_STEPS_MAX, -N_STEPS_MAX+2, ... +N_STEPS_MAX
+    ad esempio -20, -18, -16, .... +16, +18, +20 con N_STEPS_MAX = 20) */
   int frequenza[N_STEPS_MAX+1] = {0}; // fondamentale azzerare l'array
   
   // media delle posizioni finali su tutte le simulazioni
   double finalPosMean = 0.;
+
+  // apertura file di output
+  FILE* fp;
+  fp = fopen("frequenza.txt", "w");
+  
+  // esci se non posso creare il file
+  if(fp==NULL) {
+    printf("errore apertura file... exit\n");
+    exit(-1);
+  }
+  
 
   // seme per la generazione dei numeri casuali
   seed = time(0);
@@ -56,7 +68,9 @@ int main() {
     
     finalPos = 0; // coordinata di partenza
     thisMaxDistance = 0; // massima distanza
-    thisNZeroCrossings = 0; // numero di volte, durante il cammino, in cui sono ripassato per la posizione di partenza, x=0
+
+    // numero di volte, durante il cammino, in cui sono ripassato per la posizione di partenza, x=0
+    thisNZeroCrossings = 0; 
     
     // ciclo dei passi per il singolo random walk
     for(jStep = 0; jStep < nSteps; jStep++) {
@@ -67,15 +81,21 @@ int main() {
       } else {
         xStep = -1;
       }
+      
       // aggiorno la posizione      
       finalPos += xStep;                  
+
       // stampa per debug durante lo sviluppo
       //printf("passo %+d  posizione: %2d\n", xStep, xCoord);
-      
+
+      // nuovo punto lontano
       if(abs(finalPos) > thisMaxDistance) {
 	      thisMaxDistance = abs(finalPos);
       }
-      if(finalPos == 0)  thisNZeroCrossings++; // sono ripassato per x=0
+      
+      // sono ripassato per x=0
+      if(finalPos == 0)  thisNZeroCrossings++; 
+
     }
 
     // stampa ogni 500 simulazioni
@@ -85,6 +105,7 @@ int main() {
 
     // relazione tra la posizione xCoord e l'indice kCoord del vettore frequenza
     kCoord = (finalPos + nSteps)/2;
+
     // printf("finalPos: %+d kCoord: %2d\n", finalPos, kCoord);
     frequenza[kCoord]++;
     
@@ -94,7 +115,9 @@ int main() {
     // calcolo della posizione finale media su tutte le simulazioni
     finalPosMean += abs(finalPos);
   }
+  
   finalPosMean /= nSims;
+
   printf("*******************************************\n");
   printf("N_passi: %6d \t distanza finale media: %.1lf \n", nSteps, finalPosMean);
   
@@ -102,15 +125,24 @@ int main() {
   for(int kCoord = 0; kCoord<(nSteps+1); kCoord++) {
     //printf("Ho terminato la simulazione %5d volte in posizione %+3d\n", frequenza[kCoord], 2*kCoord - N_STEPS_MAX);
     printf("posizione: %+5d \t simulazioni: %10d\n", 2*kCoord - nSteps, frequenza[kCoord]);
+
+    //scrittura s file
+    fprintf(fp, "%+5d \t %10d\n", 2*kCoord - nSteps, frequenza[kCoord]);
+
+    
   }
+ 
+
   // stampa l'array per lo script in python usando matplotlib.pyplot.bar()
   printf("\n\nfinalPos = [");
+
   for(int j = 0; j<nSteps; j++) {
     printf("%d, ", frequenza[j]);
   }
+
   // formato python friendly
   printf("%d]\n\n", frequenza[N_STEPS_MAX]);
 
-
+  fclose(fp);
 
 } // fine main
