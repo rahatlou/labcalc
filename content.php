@@ -122,6 +122,15 @@
   <a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/pigreco.py">pigreco.py</a>)
   </li>
 
+  <li>
+  Esercitazione 06, 2025-11-17/20/21: Cammino aleatorio in 1D. Grafico a barra con python.
+  (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/esercitazione-06.pdf">pdf</a>)
+  esempio soluzione (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/walk.c">walk.c</a>,
+  <a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/walk-part2.c">walk-part2.c</a>,
+  <a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/frequenza.py">frequenza.py</a>)
+  </li>
+
+
 
 </ul>
 </div> <!-- entry -->
@@ -303,21 +312,24 @@ Uso di puntatori con array 2D (<a target=blank_ href="https://github.com/rahatlo
 </li>
 
 
+<li>
+Lezione 15, 2025-11-21:
+Introduzione alle funzioni in C. Esempi di dado(N), generaInt(a,b), uniforme(a,b).
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/2025-11-21-lezione.pdf">lavagna</a>)
+
+</li>
+
 
 <?php
 /*
 
 
-Algoritmo bubble sort per ordinamento di array di dati (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/bubble.c">bubble.c</a>).
-Ricerca binaria di elementi in un array ordinato (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/binsearch.c">binsearch.c</a>).
 Il gioco delle freccette e la stima del &pi; greco con i numeri casuali
 (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/pigreco.c">pigreco.c</a>).
 
 
 Input/output su file (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/fileIO.c">fileIO.c</a>).
 
-Lezione 17, 2024-11-22:
-Uso di puntatori con array 2D (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/array2D.c">array2D.c</a>).
 Introduzione alle funzioni in C.
 (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/17-lezione.pdf">lavagna</a>)
 </li>
