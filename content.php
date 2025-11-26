@@ -318,7 +318,7 @@ Introduzione alle funzioni in C. Esempi di dado(N), generaInt(a,b), uniforme(a,b
 (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/2025-11-21-lezione.pdf">lavagna</a>)
 </li>
 
-li>
+<li>
 Lezione 16, 2025-11-26:
 Funzioni con argomenti di tipo array 1D e 2D e puntatori. Differenza tra il passaggio per valore e per puntatore.
 Esempi di funzioni: media(), printMat(), inizializzaMat(), prodotto(matrice, vettore), modulo di vettori,
