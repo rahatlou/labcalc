@@ -320,6 +320,7 @@ Introduzione alle funzioni in C. Esempi di dado(N), generaInt(a,b), uniforme(a,b
 
 <li>
 Lezione 16, 2025-11-26:
+Differenza tra dichiarazione, implemnentazione, e chiamata di funzioni.
 Funzioni con argomenti di tipo array 1D e 2D e puntatori. Differenza tra il passaggio per valore e per puntatore.
 Esempi di funzioni: media(), printMat(), inizializzaMat(), prodotto(matrice, vettore), modulo di vettori,
 prodotto scalare tra vettori.
