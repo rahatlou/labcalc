@@ -1,35 +1,42 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-// stampa elementi array
-void printVec(double*, int);
-
-// assegna un valore a tutti gli elementi di un array
-//void modVec(double, double*, int);
-void modVec(double, double [], int);
+void pbyValue(double);
+void pbyPtr(double*);
 
 int main() {
 
-    double dati[7] = {0};
-    printVec(dati, 7);
-    modVec( -3., dati, 7);
-    printVec(dati, 7);
+    double a = 1.32, x = 2.3;
+    printf("main inizio:\t a = %f , x = %f\n\n", a, x);
+
+    pbyValue(a);
+
+    printf("main dopo pbyValue: a = %f , x = %f\n\n", a, x);
+
     
+    double* ptr = &a;
+    
+    pbyPtr( ptr );
+
+    printf("main fine:\t a = %f , x = %f\n\n", a, x);
 }
 
-void printVec(double* vec, int lun){
-    printf("printVec:\n");
-    for(int i=0; i<lun; i++){
-        printf("%.4f\t", *(vec+i) );
-    }
-    printf("\n");
+void pbyValue(double x) {
+    double a = 33;
+    printf("inizio pbyValue: a = %f , x = %f\n", a, x);
+
+    x = -5.;
+    printf("fine pbyValue: a = %f , x = %f\n\n", a, x);
+
 }
 
-//void modVec(double val, double* vec, int lun) {
-void modVec(double val, double vec[], int lun) {
-    printf("modificando il vettore in modVec()\n");
-    for(int i=0; i< lun; i++){
-        *(vec+i) = val;
-    }
+void pbyPtr(double* x) {
+    double a = 33;
+    printf("inizio pbyPtr: a = %f , *x = %f\n", a, *x);
+
+    *x = -5.;
+    printf("fine pbyPtr: a = %f , *x = %f\n\n", a, *x);
+
 }
+
 
