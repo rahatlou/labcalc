@@ -327,6 +327,13 @@ prodotto scalare tra vettori.
 (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/2025-11-26-lezione.pdf">lavagna</a>)
 </li>
 
+<li>
+Lezione 17, 2025-11-28:
+Differenza tra il passaggio per valore e per puntatore 
+ (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/passbyptr.c">passbyptr.c</a>).
+Funzione generaCerchio() e gioco delle freccette.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/2025-11-28-lezione.pdf">lavagna</a>)
+</li>
 
 
 <?php
