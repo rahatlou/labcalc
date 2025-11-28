@@ -63,15 +63,16 @@ int main() {
 
      // prima i casi sicuramete fuori
      // in realta` non serve contare perche` Nout  = N - Na - Nb - Nc
-     if(x<0. || y<0.|| x > 2*LATO || y > 2*LATO) Nout++;
-     
-     if(x<LATO) {
+     if(x<0. || y<0.|| x > 2*LATO || y > 2*LATO) {
+       Nout++;
+
+     } else if(x<LATO) {
     
        if(y<LATO) Na++;
        else Nb++;
        
      }else{
-       if(y>=LATO) Nc++;    
+       if( y>=LATO ) Nc++;    
      } 
    } // ciclo grani
 
