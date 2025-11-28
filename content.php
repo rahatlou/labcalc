@@ -129,6 +129,13 @@
   <a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/walk-part2.c">walk-part2.c</a>,
   <a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/frequenza.py">frequenza.py</a>)
   </li>
+  <li>
+  Esercitazione 07, 2025-11-25/27/28: Generazione numeri cxasuali, uso di array, e calcolo della media. Grafica con python.
+  (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/esercitazione-07.pdf">pdf</a>)
+  esempio soluzione (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/masterchef.c">masterchef.c</a>,
+  <a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/grani.py">grani.py</a>)
+  </li>
+
 
 
 
@@ -329,7 +336,7 @@ prodotto scalare tra vettori.
 
 <li>
 Lezione 17, 2025-11-28:
-Differenza tra il passaggio per valore e per puntatore 
+Differenza tra il passaggio per valore e per puntatore
  (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/passbyptr.c">passbyptr.c</a>).
 Funzione generaCerchio() e gioco delle freccette.
 (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/2025-11-28-lezione.pdf">lavagna</a>)
