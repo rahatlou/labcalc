@@ -132,9 +132,9 @@
   <li>
   Esercitazione 07, 2025-11-25/27/28: Generazione numeri cxasuali, uso di array, e calcolo della media. Grafica con python.
   (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/esercitazione-07.pdf">pdf</a>)
-  esempio soluzione (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/masterchef.c">masterchef.c</a>),
-  esempio con uso di funzioni(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/masterchef_with_func.c">masterchef_with_func.c</a>)
+  esempio soluzione (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/masterchef.c">masterchef.c</a>,
   <a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/grani.py">grani.py</a>)
+  esempio soluzione con uso di funzioni (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/masterchef_with_func.c">masterchef_with_func.c</a>)
   </li>
 
 
