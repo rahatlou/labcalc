@@ -11,22 +11,27 @@ void assegna(double, double [7][4], int, int);
 
 
 int main() {
+  
+  double mat1[7][4] = {1}; // errore comune
+  printMat(mat1, 7, 4);
 
-    double mat[7][4] = {0};
-    printMat(mat, 7, 4);
-    assegna( 3.14, mat, 7, 4);
-    printMat(mat, 7, 4);
+  double mat2[7][4]; //
+  printMat(mat2, 7, 4);
+
+    
+  assegna( M_PI, mat1, 3, 3);
+  printMat(mat1, 7, 4);
     
 }
 
 void printMat(double m[7][4], int righe, int col){
-    printf("printMat:\n");
-    for(int i=0; i<righe; i++){
-        for(int j=0; j<col; j++) {
-            printf("%.4f\t", m[i][j] );
-        }
+  printf("printMat:\n");
+  for(int i=0; i<righe; i++){
+    for(int j=0; j<col; j++) {
+      printf("%.4f\t", m[i][j] );
+    }
     printf("\n");
-    }   
+  }   
 
 }
 
