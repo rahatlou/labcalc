@@ -353,6 +353,8 @@ Esempio di funzioni con array 2D
 Generazione numeri casuali in intervallo [a,b] secondo una funzione f(x) e grafica con python
 (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/generator.c">generator.c</a>,
 <a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/generator.py">generator.py</a>)
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/2025-12-03-lezione.pdf">lavagna</a>)
+
 </li>
 
 
