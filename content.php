@@ -343,6 +343,19 @@ Funzione generaCerchio() e gioco delle freccette.
 (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/2025-11-28-lezione.pdf">lavagna</a>)
 </li>
 
+<li>
+Lezione 18, 2025-12-03:
+Esempio di uso di array 1D, 2D, puntatori e funzioni
+ (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/cerchio.c">cerchio.c</a>).
+Esempio di funzioni con array 2D
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/matrici.c">matrici.c</a>).
+
+Generazione numeri casuali in intervallo [a,b] secondo una funzione f(x) e grafica con python
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/generator.c">generator.c</a>,
+<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/generator.py">generator.py</a>)
+</li>
+
+
 
 <?php
 /*
