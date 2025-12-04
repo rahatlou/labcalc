@@ -357,6 +357,33 @@ Generazione numeri casuali in intervallo [a,b] secondo una funzione f(x) e grafi
 
 </li>
 
+<li>
+Lezione 19, 2025-12-05:
+Interazione con il metodo Monte Carlo e il metodo hit & miss
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/mcint.c">mcint.c</a>).
+Codice del metodo MonteCarlo in python con esempi grafici
+(<a target=blank_ href="https://colab.research.google.com/drive/1IsFzG08eUJCARIVYt8dB3QSSXJNPRttZ?usp=sharing">colab notebook</a>).
+Formulario OPIS.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/2025-12-05-lezione.pdf"></a>)
+</li>
+
+<li>
+Lezione 20, 2025-12-05, 10-11: svolgimento di una  prova valutata del passato in classe
+</li>
+
+<li>
+Lezione 21, 2025-12-17:
+Puntatore a funzioni. Metodi numerici di integrazione a confronto: metodo del rettangolo, del punto di mezzo, e del trapezio.
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/integrals.c">integrals.c</a>)
+Confronto tra i risultati dei vari metodo con il grafico in python
+(<a target=blank_ href="https://colab.research.google.com/drive/1ixJ4ExI58qqr9mu9k5uGGQzcHYf6yidX?usp=share_link">colab notebook</a>).
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/2025-12-05-lezione.pdf"></a>)
+</li>
+
+<li>
+Lezione 22, 2025-12-19: lezione di ripaso su argomenti a scelta.
+</li>
+
 
 
 <?php
@@ -378,62 +405,8 @@ Esercitazione 06, 2024-11-21/22: Stima di &pi; con i numeri casuali. Grafici ed 
 (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/esercitazione-06.pdf">pdf</a>)
 </li>
 
-<li>
-Lezione 18, 2024-11-27:
-Funzioni: dichiarazione e definizione.
-Argomenti e variabili locali. Passaggio delle variabili come argomenti.  passaggio per valore.
-tipo e valore di ritorno.
-Esempio: funzione funzione <em>dado()</em> e <em>casuale(a,b)</em>.
-(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/18-lezione.pdf">lavagna</a>)
-
-</li>
-
-<li>
-Lezione 19, 2024-11-9:
-Funzioni: differenza tra passaggio per valore e passaggio per puntatore.
-(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/passbyvalue.c">passbyvalue.c</a> e
-<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/passbyptr.c">passbyptr.c</a>).
-Esempi di funzioni per operare su array 1D e 2D.
-(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/matrici.c">matrici.c</a>)
-(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/19-lezione.pdf">lavagna</a>)
-
-</li>
 
 
-<li>
-Esercitazione 07, 2024-11-28/29: cammino aleatorio unidimensionale.
-(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/esercitazione-07.pdf">pdf</a>)
-</li>
-
-<li>
-Lezione 20, 2024-12-04:
-Formulario OPIS.
-Uso di puntatori come argomento di funzioni: passaggio di array e ritorno di piu` valori.
-Esempio della funzione  analisi() per calcolare media e deviazione standard di dati in un array.
-Generazione di numeri casuali secondo una distribuzione di probabilita` P(x). Esempio di sin(x) e exp(-x) e
-confronto con la generazione uniforme.
-(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/generator.c">generator.c</a>,
-<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/generator_ptr.c">generator_ptr.c</a>,
-)
-Grafico di 3 istogrammi sovrappositi con python.
-(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/generator.py">generator.py</a>)
-(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/20-lezione.pdf">lavagna</a>)
-</li>
-
-<li>
-Lezione 21, 2024-12-06:
-Interazione con il metodo Monte Carlo e il metodo hit & miss
-(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/mcint.c">mcint.c</a>).
-Codice del metodo MonteCarlo in python con esempi grafici
-(<a target=blank_ href="https://colab.research.google.com/drive/1IsFzG08eUJCARIVYt8dB3QSSXJNPRttZ?usp=sharing">colab notebook</a>).
-(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/21-lezione.pdf">lavagna</a>)
-</li>
-
-
-<li>
-Esercitazione 08, 2024-12-05/06: esercitazione con funzioni ed array.
-(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2024/material/esercitazione-08.pdf">pdf</a>)
-</li>
 
 <li>
 Lezione 22, 2024-12-11:
