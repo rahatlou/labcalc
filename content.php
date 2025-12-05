@@ -363,13 +363,14 @@ Interazione con il metodo Monte Carlo e il metodo hit & miss
 (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/mcint.c">mcint.c</a>).
 Codice del metodo MonteCarlo in python con esempi grafici
 (<a target=blank_ href="https://colab.research.google.com/drive/1IsFzG08eUJCARIVYt8dB3QSSXJNPRttZ?usp=sharing">colab notebook</a>).
-(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/2025-12-05-lezione.pdf"></a>)
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/2025-12-05-lezione.pdf">lavagna</a>)
 Formulario OPIS: codice opis <b>4SQ3CIBN</b>
 (<a target=blank_ href="https://www.uniroma1.it/sites/default/files/field_file_allegati/vademecum_per_studenti_opis_2025_26.pdf">vademecum studenti</a>)
 </li>
 
 <li>
 Lezione 20, 2025-12-05, 10-11: svolgimento di una  prova valutata del passato in classe
+(<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/2025-12-05-lezione.pdf">lavagna</a>)
 </li>
 
 <li>
