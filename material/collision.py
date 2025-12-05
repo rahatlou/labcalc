@@ -4,6 +4,8 @@ import math as m
 
 # leggere i dati dal file
 fname = "atomi.txt"
+# chiedere il nome del file all'utente
+#fname = input("nome file per i dati: ")
 xa,ya = np.loadtxt(fname, unpack=True)
 
 

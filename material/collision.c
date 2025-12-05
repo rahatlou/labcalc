@@ -43,15 +43,12 @@ int main() {
   int N, MA;
   double R, A, B;
 
-  int nchar;
   char c, fname[100];
 
   int i, nhit, nhitTot, nhitMax;
 
-
   /* 1 pt: inizializza */
   srand48(time(0));
-
 
   /* 2 pt: condizioni corrette per i dati dall'utente */
 
@@ -91,7 +88,7 @@ int main() {
   for(i=0; i<N; i++) {
 
     /* 2 pt: genera proittile e controlla interazione */
-    ellisse(A,B, xp, xp+1);
+    ellisse(A,B, xp, xp+1); // alternativa a ellisse(A,B, &xp[0], &xp[1])
     nhit = interazione(xp, R, bersaglio, MA);
 
     nhitTot += nhit;
@@ -144,12 +141,12 @@ double distanza(double p1[2], double p2[2]) {
 // x,y le coordinate da generare
 void ellisse(double A,double B, double* x, double* y) {
   /* 2 pt: generazione punto nell'ellisse */
-  double dist;
+  double pippo;
   do{
     *x = uniforme(-A, A);
     *y = uniforme(-B, B);
-    dist = (*x/A)*(*x/A) + (*y/B)*(*y/B);
-  } while( dist > 1 ); 
+    pippo = (*x/A)*(*x/A) + (*y/B)*(*y/B);
+  } while( pippo > 1 ); 
 
 }
 
@@ -164,7 +161,7 @@ void atomi(int M, double bers[NMAX][2], double A, double B) {
   /* 2 pt: generazione atomi e salvare nell'array */
   for(i=0; i<M; i++) {
 
-    ellisse(A, B, *(bers+i), *(bers+i)+1);
+    ellisse(A, B, *(bers+i), *(bers+i)+1); 
 
     /* modo alternativo per passare elementi dell'array */
     /* ellisse(A, B, &bers[i][0], &bers[i][1]); */
@@ -179,7 +176,6 @@ void atomi(int M, double bers[NMAX][2], double A, double B) {
 int interazione(double xp[2], double R, double bers[NMAX][2], int M) {
 
   int i,n=0;
-  double p;
 
   /* 3 pt: condizione di interazione */
   for(i=0; i<M; i++) {

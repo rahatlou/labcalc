@@ -130,12 +130,20 @@
   <a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/frequenza.py">frequenza.py</a>)
   </li>
   <li>
-  Esercitazione 07, 2025-11-25/27/28: Generazione numeri cxasuali, uso di array, e calcolo della media. Grafica con python.
+  Esercitazione 07, 2025-11-25/27/28: Generazione numeri casuali, uso di array, e calcolo della media. Grafica con python.
   (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/esercitazione-07.pdf">pdf</a>)
   esempio soluzione (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/masterchef.c">masterchef.c</a>,
   <a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/grani.py">grani.py</a>)
   esempio soluzione con uso di funzioni (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/masterchef_with_func.c">masterchef_with_func.c</a>)
   </li>
+
+  <li>
+  Esercitazione 08, 2025-12-01/04/05: Array 1D e 2D e funzioni con puntatori. Grafica con python.
+  (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/esercitazione-08.pdf">pdf</a>)
+  esempio soluzione (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/collision.c">collision.c</a>,
+  <a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/collision.py">collision.py</a>)
+  </li>
+
 
 
 
