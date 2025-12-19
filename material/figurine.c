@@ -4,11 +4,22 @@
 
 #define NPMIN      4
 #define NPMAX      7
+#define NB 7
 #define NFIGMIN 180
 #define NFIGMAX 220
 
+/* genera numero intero casuale tra min e max */
+int genInt(int min, int max);
+
+
+/* genera una nuova bustina con NP figurine in [1,Nmax] */
+void acquista(int* bustina, int N);
+
 /* aggiorna un album con una bustiuna di figurine */
-void riempi(int* album, int* bustina, int nb);
+void riempi(int* album, int* bustina);
+
+/* controlla che l'album sia completo */
+int controllo(int* album, int N);
 
 /* scambia i duplicati tra i due album */
 void scambio(int* alb1, int* alb2, int N);
@@ -16,14 +27,6 @@ void scambio(int* alb1, int* alb2, int N);
 /* conta numero duplicati */
 int duplicates(int* album, int N);
 
-/* controlla che l'album sia completo */
-int controllo(int* album, int N);
-
-/* genera una nuova bustina con NP figurine tra 1 e Nmax */
-int acquista(int* bustina, int N);
-
-/* genera numero intero casuale tra min e max */
-int genInt(int min, int max);
 
 
 
@@ -42,7 +45,6 @@ int main() {
 
   /* inizializzare seme numeri casuali */
   srand48(time(0));
-
 
   /* 1 pt  messaggio */
   printf("questo programma stima il numero di pacchetti che apollo e elena devono comprare\n");
@@ -68,16 +70,16 @@ int main() {
   finitoElena=finitoApollo=0;
 
  /* 3 pt scelta del ciclo e condizioni. fai la simulazione finche` entrambi gli album sono completi */
-  while( finitoElena == 0 || finitoApollo == 0 ) {
+  do {
 
     /* 1 pt compra bustine solo se non ha ancora finito */
     if( finitoElena == 0 ) {
 
       /* genera una nuova bustina per Elena*/
-      nb = acquista(bustina, nfig);
+      acquista(bustina, nfig);
 
       /* aggiorna l'album di Elena */
-      riempi(elena, bustina, nb);
+      riempi(elena, bustina);
 
       /* aggiorna numer di bustine */
       busteElena++;
@@ -88,10 +90,10 @@ int main() {
     if( finitoApollo == 0 ) {
 
       /* genera una nuova bustina per Apollo*/
-      nb = acquista(bustina, nfig);
+      acquista(bustina, nfig);
 
       /* aggiorna l'album di Apollo */
-      riempi(apollo, bustina, nb);
+      riempi(apollo, bustina);
 
       /* aggiorna numer di bustine */
       busteApollo++;
@@ -114,8 +116,8 @@ int main() {
 
     /* controlla se Elena ha finito */
     finitoElena = controllo(elena, nfig);
-
-  }
+    
+  } while( finitoElena == 0 || finitoApollo == 0 );
 
   /* 1 pt stampa # finale di buste */
 
@@ -134,17 +136,14 @@ int genInt(int min, int max) {
 }
 
 /* 2 pt genera una nuova bustina con nb figurine per un album con Nfig figurine totali */
-int acquista(int* bustina, int Nfig) {
+void acquista(int* bustina, int Nfig) {
 
   int i,j, rip;
   
-  /* 2 pt numero figurine nella busta */
-  int nb; /* numero di figurine in questa busta */
-  nb = genInt(NPMIN,NPMAX);
-  
-  for(i=0; i<nb; i++) {
+  /* 1 pt ciclo numero figurine nella busta */  
+  for(i=0; i<NB; i++) {
 
-    /* 3 pt evitare doppioni */
+    /* 4 pt evitare doppioni */
     do{
       rip = 0;
       bustina[i] = genInt(0, Nfig-1);
@@ -156,17 +155,15 @@ int acquista(int* bustina, int Nfig) {
 
   } /* fine geneazione figurine nella bustina */
 
-  return nb;
-
 }
 
 /* 2 pt interfaccia. aggiorna un album con una bustiuna di figurine */
-void riempi(int* album, int* bustina, int nb) {
+void riempi(int* album, int* bustina) {
 
    int figurina, i;
 
    /* ciclo sulle figurine contenute nell'album */
-   for(i=0; i<nb; i++) {
+   for(i=0; i< NB; i++) {
 
      /* prendi la i-esima figurina dalla busta */
      figurina = bustina[i];
@@ -174,10 +171,27 @@ void riempi(int* album, int* bustina, int nb) {
      /* 2 pt aggiorno il conto di questa figurina nell'album */
      album[figurina]++;
 
+     // NB: si puo` fare direttamente album[ busitina[i] ]++
+     
    }
 
 }
 
+
+
+/* 1 pt interfaccia controllo() 
+   2 pt controlla che l'album sia completo */
+int controllo(int* album, int N) {
+
+  for(int i=0; i<N; i++) {
+    /* se manca almeno una figurina l'album non e` finito */
+    if( album[i]==0 ) return 0; /* album incompleto */
+  }
+
+  /* se siamo arrivati a questo punto vuol dire che c'e` almeno una copia di ciascuna figurina */
+  return 1; /* album completo */
+
+}
 
 /* BONUS 4 pt  per questa funzione */
 /*  interfaccia. scambia i duplicati tra i due album */
@@ -229,21 +243,7 @@ void scambio(int* alb1, int* alb2, int N) {
 
 }
 
-/* 1 pt interfaccia controllo() 
-   2 pt controlla che l'album sia completo */
-int controllo(int* album, int N) {
 
-  int i;
-
-  for(i=0; i<N; i++) {
-    /* se manca almeno una figurina l'album non e` finito */
-    if( album[i]==0 ) return 0; /* album incompleto */
-  }
-
-  /* se siamo arrivati a questo punto vuol dire che c'e` almeno una copia di ciascuna figurina */
-  return 1; /* album completo */
-
-}
 
 /* 1 pt: conteggio duplicati */
 int duplicates(int* album, int N) {
