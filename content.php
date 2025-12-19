@@ -147,7 +147,7 @@
   <li>
   Esercitazione 09, 2025-12-15/18/19: Album di figurine. esercitazione su tutti gli argomenti del corso.
   (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/esercitazione-09.pdf">pdf</a>)
-  esempio soluzione (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/figurine.c">figurine.c</a>,
+  esempio soluzione (<a target=blank_ href="https://github.com/rahatlou/labcalc/blob/2025/material/figurine.c">figurine.c</a>)
 
   </li>
 
