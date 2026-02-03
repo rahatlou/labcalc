@@ -17,6 +17,26 @@
       </ul>
    </div>
 
+   <h2  class="title">Appello di Febbraio</h2>
+   <div class="entry">
+
+   <p>Solo le persone prenotate su infostud entro la scadenza della scorsa settimana
+     che non hanno un voto valido all’appello di Gennaio e che abbiano esplicitamente
+     scritto fino a ieri per rinunciare al voto possono sostenere  l’esame.
+
+   <p>Chi ha già un voto valido non deve fare nulla, e troverà il propriovoto verbalizzato non appena sarà ripristinato l'accesso a INFOSTUD.
+
+   <b>La prova pratica si svolgerà il giorno venerdì 6 febbraio in Sala Calcolo, piano 2, Edificio Fermi (CU033) in due fasce orarie: 10 e 14.</b>
+
+Alla pagina seguente trovate l’orario assegnato a ciascuna partecipante:
+<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSWfWDUJc42mSHK_kWhHrP30RclrKHPsLkpPdTSIXw5DG8ITsr1kcC1NvbtA_bSLiHfneFwpDA5JwgG/pubhtml?gid=591917280&single=true"   target="_blank">elenco partecipanti</a>
+
+<p>Non sara` possibile cambiare orario o partecipare se non siete in questo elenco.
+
+<p>Chi non intende partecipare piu` alla prova e` pregata di farmelo sapere entro giovedi` 5 febbraio.
+
+</div>
+
    <h2  class="title">Avvisi</h2>
    <div class="entry">
 
