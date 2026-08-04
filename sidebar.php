@@ -1,6 +1,6 @@
 <div id="sidebar-content">
 
-<h3 class=h3sidebar>Last update: 3 Feb 2026</h3>
+<h3 class=h3sidebar>Last update: 4 Aug 2026</h3>
   Created by
   <a href="http://www.roma1.infn.it/people/rahatlou/">Shahram Rahatlou</a>
   [<a href="mailto:shahram.rahatlou@uniroma1.it">shahram.rahatlou (at) uniroma1.it</a>]
@@ -8,7 +8,7 @@
 
 <p>Sito anni precedent: <a href="https://www.roma1.infn.it/~rahatlou/index.php?link=Didattica&sublink=2024.labcalc" target=_blank>2024</a>
 <p>
-<a href="https://classroom.google.com/c/MjM0MjgyNTMzMTNa?cjc=rji6wvwa"  target="_blank">Google classroom: rji6wvwa</a><br>
+<a href="https://classroom.google.com/c/ODcxNjYxMzk5ODU5?cjc=5vb7oac6"  target="_blank">Google classroom: 5vb7oac6</a><br>
 <!--a href="">Google calendar of the course</a></br-->
 
 <h2>Programma, Requisiti, e Modalità</h2>

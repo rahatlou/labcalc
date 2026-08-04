@@ -1,9 +1,10 @@
-## Laboratorio di Calcolo 2025/2026, Canale Pet-Z, Laurea Triennale in Fisica, Sapienza Università di Roma
+## Laboratorio di Calcolo 2026/2027, Canale Pet-Z, Laurea Triennale in Fisica, Sapienza Università di Roma
 
 ## Esercitazioni
 
 | Data | Argomento | Materiale |
 |------|-------|----------|
+<!-->
 | 2025-10-13/16/17 | Nozioni base di Linux. Uso di editor di testo e primo programma in C. | [Linux](material/linux-abc.pdf), [pdf](material/esercitazione-01.pdf) |
 | 2025-10-20/23/24 | Uso della libreria matematica, costrutti `if/else` e `do/while`. | [pdf](material/esercitazione-02.pdf), [gwave.c](material/gwave.c), [gwavebis.c](material/gwavebis.c) |
 | 2025-10-27/30/31 | Costrutto `if/else`, cicli `do/while` e `for`. Moto del proiettile e grafica con Python. | [pdf](material/esercitazione-03.pdf), [gittata.c](material/gittata.c), [bersaglio.c](material/bersaglio.c), [grafica.py](material/grafica.py) |
@@ -13,12 +14,17 @@
 | 2025-11-25/27/28 | Generazione di numeri casuali, array, calcolo della media e grafica con Python. | [pdf](material/esercitazione-07.pdf), [masterchef.c](material/masterchef.c), [grani.py](material/grani.py), [masterchef_with_func.c](material/masterchef_with_func.c) |
 | 2025-12-01/04/05 | Array 1D e 2D e funzioni con puntatori. Grafica con Python. | [pdf](material/esercitazione-08.pdf), [collision.c](material/collision.c), [collision.py](material/collision.py) |
 | 2025-12-15/18/19 | Album di figurine. Esercitazione su tutti gli argomenti del corso. | [pdf](material/esercitazione-09.pdf), [figurine.c](material/figurine.c) |
+-->
 
 ## Lezioni
 
 | Data | Argomento | Materiale |
 |------|-------|----------|
-| 2025-10-01 | Introduzione. Organizzazione del corso e delle esercitazioni. Informazioni pratiche. Sistemi di numerazione: base binaria, decimale ed esadecimale. | [intro](material/Introduzione.pdf), [lavagna](material/2025-10-01-lezione.pdf) |
+| 2025-09-30 | Introduzione. Organizzazione del corso e delle esercitazioni. Informazioni pratiche. Sistemi di numerazione: base binaria, decimale ed esadecimale. |  |
+
+
+<!--
+[intro](material/Introduzione.pdf), [lavagna](material/2025-10-01-lezione.pdf)
 | 2025-10-03 | Rappresentazione di numeri interi negativi e numeri razionali. | [lavagna](material/2025-10-03-lezione.pdf) |
 | 2025-10-08 | Singola e doppia precisione; approssimazione in virgola mobile. Rappresentazione di caratteri e codice ASCII. Immagini digitali. Calcolatori e linguaggio macchina; indirizzi di memoria e istruzioni. Esempio di calcolatore semplice a 8 bit. | [lavagna](material/2025-10-08-lezione.pdf) |
 | 2025-10-10 | Calcolatori e linguaggio macchina. Linguaggi di programmazione di alto livello e compilatori. Elementi base del C; compilazione e linking dei programmi. | [lavagna](material/2025-10-10-lezione.pdf) |
@@ -40,3 +46,4 @@
 | 2025-12-05, 10–11 | Svolgimento in classe di una prova valutata del passato. | [lavagna](material/2025-12-05-lezione.pdf) |
 | 2025-12-17 | Puntatori a funzioni. Metodi numerici di integrazione: rettangolo, punto medio e trapezio; confronto grafico dei risultati. | [integrals.c](material/integrals.c), [Colab](https://colab.research.google.com/drive/1ixJ4ExI58qqr9mu9k5uGGQzcHYf6yidX?usp=share_link), [lavagna](material/2025-12-17-lezione.pdf) |
 | 2025-12-19 | Ripasso: funzioni con puntatori e array. | [lavagna](material/2025-12-19-lezione.pdf) |
+-->
