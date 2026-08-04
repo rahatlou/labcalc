@@ -1,7 +1,4 @@
-## Laboratorio di Calcolo 2025/2026
-
-Webpage and material for the course in Laboratorio di Calcolo, Canale Pet-Z
-Laurea Triennale in Fisica, Sapienza Università di Roma
+## Laboratorio di Calcolo 2025/2026, Canale Pet-Z, Laurea Triennale in Fisica, Sapienza Università di Roma
 
 ## Esercitazioni
 
