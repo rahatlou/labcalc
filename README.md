@@ -7,7 +7,7 @@
 
 | Data | Argomento | Materiale |
 |------|-------|----------|
-<!-->
+<!--
 | 2025-10-13/16/17 | Nozioni base di Linux. Uso di editor di testo e primo programma in C. | [Linux](material/linux-abc.pdf), [pdf](material/esercitazione-01.pdf) |
 | 2025-10-20/23/24 | Uso della libreria matematica, costrutti `if/else` e `do/while`. | [pdf](material/esercitazione-02.pdf), [gwave.c](material/gwave.c), [gwavebis.c](material/gwavebis.c) |
 | 2025-10-27/30/31 | Costrutto `if/else`, cicli `do/while` e `for`. Moto del proiettile e grafica con Python. | [pdf](material/esercitazione-03.pdf), [gittata.c](material/gittata.c), [bersaglio.c](material/bersaglio.c), [grafica.py](material/grafica.py) |
