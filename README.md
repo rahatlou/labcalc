@@ -5,7 +5,7 @@ Laurea Triennale in Fisica, Sapienza Università di Roma
 
 ## Esercitazioni
 
-| Date | Topic | Material |
+| Data | Argomento | Materiale |
 |------|-------|----------|
 | 2025-10-13/16/17 | Nozioni base di Linux. Uso di editor di testo e primo programma in C. | [Linux](material/linux-abc.pdf), [pdf](material/esercitazione-01.pdf) |
 | 2025-10-20/23/24 | Uso della libreria matematica, costrutti `if/else` e `do/while`. | [pdf](material/esercitazione-02.pdf), [gwave.c](material/gwave.c), [gwavebis.c](material/gwavebis.c) |
@@ -19,7 +19,7 @@ Laurea Triennale in Fisica, Sapienza Università di Roma
 
 ## Lezioni
 
-| Date | Topic | Material |
+| Data | Argomento | Materiale |
 |------|-------|----------|
 | 2025-10-01 | Introduzione. Organizzazione del corso e delle esercitazioni. Informazioni pratiche. Sistemi di numerazione: base binaria, decimale ed esadecimale. | [intro](material/Introduzione.pdf), [lavagna](material/2025-10-01-lezione.pdf) |
 | 2025-10-03 | Rappresentazione di numeri interi negativi e numeri razionali. | [lavagna](material/2025-10-03-lezione.pdf) |
