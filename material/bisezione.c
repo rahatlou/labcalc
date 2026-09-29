@@ -19,7 +19,6 @@ int main() {
   printf("calcolo zeri di cos(x)\n");
 
   while(delta > eps ) {
-    int i = iter;
     iter++;
 
     c = 0.5*(a+b);

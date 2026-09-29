@@ -13,17 +13,19 @@ int main() {
    for(i=0; i<LEN; i++) {
      for(j=LEN-1; j>i; j--) {
 
-       printf("i: %d \t data[%d]: %d \t data[%d]: %d\n", i, j-1, data[j-1], j, data[j]);
+       printf("i: %d \t data[%d]: %d \t data[%d]: %d\n",
+	       i, j-1, data[j-1], j, data[j]);
 
        if(data[j-1] > data[j]) {
 	 printf("      scambia data[%d] con data[%d]\n", j, j-1);
 	 temp = data[j];
 	 data[j] = data[j-1];
 	 data[j-1] = temp;
-       }
+       } // scambio se necessario
        
-     } 
+     }  // ciclo j sugli elementi successivi a i
      
-   }
+   } // ciclo i su tutti gli elementi
   
-}
+} // fine main
+
