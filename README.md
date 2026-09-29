@@ -1,4 +1,4 @@
-## Laboratorio di Calcolo 2026/2027, Canale Pet-Z, Laurea Triennale in Fisica, Sapienza Università di Roma
+## Laboratorio di Calcolo 2026/2027, Canale Q-Z, Laurea Triennale in Fisica, Sapienza Università di Roma
 
 ## Libro di Testo
 [Programmazione Scientifica](http://www.programmazionescientifica.org/) di Barone, Marinari, Organtini, Ricci-Tersenghi
