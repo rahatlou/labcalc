@@ -3,3 +3,5 @@
 */app.exe
 */*.o
 .vscode/
+.venv/
+__pycache__/
