@@ -23,7 +23,7 @@
 
 | Data | Argomento | Materiale |
 |------|-------|----------|
-| 2026-09-30 | Introduzione. Organizzazione del corso e delle esercitazioni. Informazioni pratiche. Sistemi di numerazione: base binaria, decimale ed esadecimale. |  |
+| 2026-09-30 | Introduzione. Organizzazione del corso e delle esercitazioni. Informazioni pratiche. Sistemi di numerazione: base binaria, decimale. | [intro](material/2026-09-30-labcalc-intro.pdf), [pdf](material/2026-09-30-lezione-basi.pdf) |
 
 
 <!--
