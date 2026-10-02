@@ -24,6 +24,7 @@
 | Data | Argomento | Materiale |
 |------|-------|----------|
 | 2026-09-30 | Introduzione. Organizzazione del corso e delle esercitazioni. Informazioni pratiche. Sistemi di numerazione: base binaria, decimale. | [intro](material/2026-09-30-labcalc-intro.pdf), [pdf](material/2026-09-30-lezione-basi.pdf) |
+| 2026-10-02 | Rappresentazione di numeri interi negativi e numeri razionali. | [pdf](material/2026-10-02-lezione-rappresentazione.pdf) |
 
 
 <!--
