@@ -25,7 +25,7 @@
 |------|-------|----------|
 | 2026-09-30 | Introduzione. Organizzazione del corso e delle esercitazioni. Informazioni pratiche. Sistemi di numerazione: base binaria, decimale. | [intro](material/2026-09-30-labcalc-intro.pdf), [pdf](material/2026-09-30-lezione-basi.pdf) |
 | 2026-10-02 | Rappresentazione di numeri interi negativi e numeri razionali. | [pdf](material/2026-10-02-lezione-rappresentazione.pdf) |
-| 2026-10-07 | Singola e doppia precisione; approssimazione in virgola mobile. Rappresentazione di caratteri e codice ASCII. Immagini digitali. Calcolatori e linguaggio macchina; indirizzi di memoria e istruzioni. Esempio di calcolatore semplice a 8 bit | [lavagna](material/2026-10-07-lezione-calcolatore.pdf) |
+| 2026-10-07 | Singola e doppia precisione; approssimazione in virgola mobile. Rappresentazione di caratteri e codice ASCII. Immagini digitali. Calcolatori e linguaggio macchina; indirizzi di memoria e istruzioni. Esempio di calcolatore semplice a 8 bit | [pdf](material/2026-10-07-lezione-calcolatore.pdf) |
 
 
 <!--
