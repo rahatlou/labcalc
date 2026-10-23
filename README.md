@@ -8,7 +8,7 @@
 | Data | Argomento | Materiale |
 |------|-------|----------|
 | 2026-10-15/16 | Nozioni di base in linux: Login, terminale, file e cartelle, emacs, primo programma in C | [linux intro](material/2026-linux-intro.pdf), [pdf](material/2026-esercitazione-01.pdf) |
-| 2026-10-22/23 | Costrutti `if/else`, operatore `%`, uso della libreria matematica | [pdf](material/2026-esercitazione-02.pdf), [zeller.c](material/zeller.c), [snell.c](material/snell.c), [riflessione.c](material/riflessione.c), [fibra.c](material/fibra.c) |
+| 2026-10-22/23 | Costrutti `if/else`, operatore `%`, uso della libreria matematica, uso delle funzioni `printf()` e `scanf()` | [pdf](material/2026-esercitazione-02.pdf), [zeller.c](material/zeller.c), [snell.c](material/snell.c), [riflessione.c](material/riflessione.c), [fibra.c](material/fibra.c) |
 <!--
 | 2025-10-13/16/17 | Nozioni base di Linux. Uso di editor di testo e primo programma in C. | [Linux](material/linux-abc.pdf), [pdf](material/esercitazione-01.pdf) |
 | 2025-10-20/23/24 | Uso della libreria matematica, costrutti `if/else` e `do/while`. | [pdf](material/esercitazione-02.pdf), [gwave.c](material/gwave.c), [gwavebis.c](material/gwavebis.c) |
