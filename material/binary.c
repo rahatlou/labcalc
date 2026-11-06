@@ -1,40 +1,20 @@
 #include <stdio.h>
-#include <math.h>
-
-#define NBIT 20
+#define NMAX 32
 
 int main() {
-
-   int in, cifra=0, resto;
-   int binary[NBIT] = {0};
-
-  do{ 
-    printf("Inserisci numero positivo < %d in base 10: ", (int)pow(2,NBIT));
-    scanf("%d", &in);
-  } while( in <= 0 || in >= pow(2, NBIT) );
-
-  int in10 = in;
-  
-  do {
-
-   resto = in % 2;
-   printf("%3d-esima cifra: %d \t moltiplica 2 ^%3d (%8.0f)\n",cifra+1, resto, cifra,pow(2,cifra));
-
-   binary[cifra] = resto;
-   in /= 2;
-   cifra++;
-
-  } while (in != 0);
-
-  printf("base 10: %d \t base 2: ", in10);
-  for(int i = cifra-1; i>= 0; i--) {
-    printf("%1d", binary[i]);
-
-  }
-  printf("\n");
-  
-} 
-
-
-
-
+    int n, i, ncifre = 0;
+    int cifra[NMAX];             // le cifre binarie
+    do {
+        printf("numero intero positivo: ");
+        scanf("%d", &n);
+    } while (n <= 0);
+    while (n > 0) {
+        cifra[ncifre] = n % 2;   // il resto va nella casella ncifre
+        n = n / 2;
+        ncifre++;
+    }
+    for (i = ncifre - 1; i >= 0; i--) {   // dall'ultima alla prima
+        printf("%d", cifra[i]);
+    }
+    printf("\n");
+}
